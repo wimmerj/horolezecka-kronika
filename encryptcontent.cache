@@ -1,0 +1,5 @@
+kdf_iterations: 10000
+obfuscate: {}
+password:
+  Alpy2026: 5d46f4670f3b3ac9be908ce27db4ccfdcbb821dc6d3a2d95536fcda69d78c603;9e876e528bf4d2e37097527debb65df9;59ec5c1c5fa51110e00563d68843e8ccfd0b21974e18d840f4fac7edcac4dce0
+userpass: {}
