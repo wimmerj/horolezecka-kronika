@@ -85,6 +85,60 @@ Po náročných výstupech si zaslouženě odpočíváme u jezer, na paddleboard
 
 ---
 
+---
+
+## 🤝 Pomozte nám vytvořit kompletní kroniku!
+
+!!! warning "Pilotní verze - potřebujeme vaši pomoc!"
+    Tento web je zatím jen **nástřel** a potřebujeme **vaši pomoc**, abychom ho dotáhli do finální podoby! 🙏
+
+### Proč tyto stránky vznikly?
+
+Naše červnová dobrodružství se stala **tradicí**. Tým se rozrůstá a potřebujeme **rozumný přehled** toho, co jsme za ta léta zažili:
+
+- ✅ **Přehledná kronika** všech výstupů a ferrat
+- ✅ **Centrální úložiště** pro všechna fotoalba a videa
+- ✅ **Plánování budoucích výprav** - mapy, ceny, ubytování, vybavení
+- ✅ **Organizace dopravy** - kdo koho veze, náklady
+- ✅ **Nezapomenutelné zážitky** - pivní speciály, anekdoty, vzpomínky
+
+### Co je potřeba upravit a doplnit?
+
+#### 📝 **Stránka "O nás"**
+Současný text je částečně smyšlený. Spojme se a vytvořme **skutečný příběh našeho týmu**!
+
+#### 🏔️ **Kroniky z předchozích let (2021-2025)**
+Snažil jsem se je vytvořit podle fotek a videí, ale:
+- ❓ **Názvy míst** - nepamatuji si přesně všechny vrcholy a ferraty
+- ❓ **Pořadí dnů** - nejsem si jistý, jak šly dny po sobě
+- ❓ **Rozdělení skupin** - někdo byl na kolech, jiní lezli ferraty
+- ❓ **Osobní zážitky** - potřebujeme vaše vzpomínky a příběhy!
+
+#### 🎥 **Fotografie a videa**
+- Máte lepší fotky z výprav?
+- Máte vlastní videa, která bychom mohli přidat?
+
+#### 📊 **Statistiky a fakta**
+- Přesné nadmořské výšky
+- Délky výstupů a časy
+- Obtížnosti cest
+- Vaše osobní rekordy
+
+### Jak můžete pomoci?
+
+!!! success "Zapojte se!"
+    1. **Projděte si stránky** svého roku
+    2. **Opravte chyby** - špatné názvy, data, pořadí
+    3. **Doplňte vzpomínky** - co vás bavilo, co bylo těžké, jaké byly nejlepší momenty
+    4. **Sdílejte materiály** - fotky, videa, zajímavosti
+    5. **Kontaktujte mě** - pošlete mi zpětnou vazbu, co změnit
+
+### Kontakt
+
+Pokud chcete přispět nebo máte připomínky, napište mi! Každý detail pomůže vytvořit **kompletní a věrnou kroniku** našich společných dobrodružství! 🏔️
+
+---
+
 !!! tip "Tip"
     Pro nejlepší zážitek doporučujeme prohlížet stránky na větší obrazovce. Fotografie můžete zvětšit kliknutím.
 

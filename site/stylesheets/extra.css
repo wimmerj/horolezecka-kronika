@@ -1,0 +1,85 @@
+/* Extra CSS pro horolezeckou kroniku */
+
+/* Mřížka pro fotografie */
+.image-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.image-grid img {
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.image-grid img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Responzivní iframe pro YouTube videa */
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    margin: 20px 0;
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* Vylepšené tabulky */
+table {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Styly pro topografické schémata */
+pre {
+    background-color: #f5f5f5;
+    border-left: 4px solid #ff6f00;
+    padding: 15px;
+    border-radius: 4px;
+}
+
+/* Speciální boxy */
+.admonition {
+    margin: 1.5em 0;
+}
+
+/* Header obrázky */
+img[alt*="header"] {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+}
+
+/* Clear float helper */
+.clear {
+    clear: both;
+}
+
+/* Zvýraznění důležitých informací */
+.highlight-box {
+    background-color: #fff3e0;
+    border-left: 4px solid #ff6f00;
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 4px;
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 768px) {
+    .image-grid img {
+        width: 100% !important;
+    }
+}
