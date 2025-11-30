@@ -26,22 +26,38 @@ Tato složka obsahuje všechny obrázky používané na webových stránkách.
 - `relax-2.png` - Relax v horách ✅
 - `relax-3.png` - Odpočinek po výstupu ✅
 
-#### 📁 `images/team/` - Profilové fotky (4 hlavní + všichni členové)
-**Formát: PNG s průhledným pozadím**
+#### 📁 `images/team/` - Profilové fotky (30 členů)
+**Formát: PNG s průhledným pozadím**  
+**Doporučený rozměr: 600 x 600 px (čtvercové)**
 
-**Organizační tým (s detaily):**
+**🏔️ Organizační tým (4 členové):**
 - `fici.png` - František Cihlář "Fici" ✅
 - `dali.png` - Dalibor Cihlář "Dali" ✅
+- `jan-novy.png` - Jan Nový ✅
+- `hanka.png` - Hanka Holíková ✅
+
+**👫 Páry a přátelé (2 členové):**
 - `terka.png` - Tereza Cihlářová "Terka" ✅
 - `ondrej.png` - Ondřej Macek ✅
 
-**Ostatní členové (volitelné - lze doplnit později):**
-- `jan-novy.png` - Jan Nový ✅
-- `alice.png` - Alice ✅
-- `hanka.png` - Hanka Holíková ✅
+**🧗 Lezci a ferratisté:**
+- `alice.png` - Alice (přítelkyně Jana Nového) ✅
+- `tonda-firyt.png` - Tonda Firýt ⚠️ CHYBÍ
+- `radek-hacker.png` - Radek Hacker ⚠️ CHYBÍ
+- `jan-wimmer.png` - Jan Wimmer (správce kroniky) ⚠️ CHYBÍ
+
+**🚴 Cyklisté a vodní sporty:**
+- `pavla.png` - Pavla Ronovská "Pája" ✅
+- `frantisek-ptacek.png` - František "Fanda" Ptáček ⚠️ CHYBÍ
+- `josef-kovarik.png` - Josef Kovařík ⚠️ CHYBÍ
+
+**👨‍👩‍👧 Rodiny a další přátelé:**
 - `petra-cech.png` - Petra Čechránková ✅
-- `pavla.png` - Pavla Ronovská ✅
-- atd. (30 členů celkem)
+- `frantisek-elias.png` - František Eliáš ⚠️ CHYBÍ
+- `beata-sanvenero.png` - Beata Sanvenero ⚠️ CHYBÍ
+
+**Další členové týmu (budou doplněni):**
+- ... (zbývající členové z celkových 30)
 
 #### 📁 `images/2026/` - Plánovaná dovolená 2026 (Švýcarsko)
 - `header.jpg` - Hlavní fotka Švýcarských Alp/Brigels ✅
@@ -124,17 +140,42 @@ images/
 │   ├── relax-2.png                  # ✅ EXISTUJE - Relax v horách
 │   └── relax-3.png                  # ✅ EXISTUJE - Odpočinek
 │
-├── team/                            # Profilové fotky týmu (PNG s průhledným pozadím)
-│   ├── fici.png                     # ✅ EXISTUJE - František Cihlář
-│   ├── dali.png                     # ✅ EXISTUJE - Dalibor Cihlář
-│   ├── terka.png                    # ✅ EXISTUJE - Tereza Cihlářová
-│   ├── ondrej.png                   # ✅ EXISTUJE - Ondřej Macek
+├── team/                            # Profilové fotky týmu (PNG s průhledným pozadím, 600x600px)
+│   │
+│   ├── ORGANIZAČNÍ TÝM (4):
+│   ├── fici.png                     # ✅ EXISTUJE - František Cihlář "Fici"
+│   ├── dali.png                     # ✅ EXISTUJE - Dalibor Cihlář "Dali"
 │   ├── jan-novy.png                 # ✅ EXISTUJE - Jan Nový
-│   ├── alice.png                    # ✅ EXISTUJE - Alice
 │   ├── hanka.png                    # ✅ EXISTUJE - Hanka Holíková
+│   │
+│   ├── OSTATNÍ ČLENOVÉ (21):
+│   ├── terka.png                    # ✅ EXISTUJE - Tereza Cihlářová "Terka"
+│   ├── ondrej.png                   # ✅ EXISTUJE - Ondřej Macek
+│   ├── alice.png                    # ✅ EXISTUJE - Alice
+│   ├── pavla.png                    # ✅ EXISTUJE - Pavla Ronovská "Pája"
 │   ├── petra-cech.png               # ✅ EXISTUJE - Petra Čechránková
-│   ├── pavla.png                    # ✅ EXISTUJE - Pavla Ronovská
-│   └── ... (další členové)          # Volitelné
+│   ├── tonda-firyt.png              # ✅ EXISTUJE - Antonín Firýt "Tonda"
+│   ├── radek-hacker.png             # ✅ EXISTUJE - Radek Hacker
+│   ├── jan-wimmer.png               # ✅ EXISTUJE - Jan Wimmer
+│   ├── frantisek-ptacek.png         # ✅ EXISTUJE - František "Fanda" Ptáček
+│   ├── josef-kovarik.png            # ✅ EXISTUJE - Josef Kovařík "Pepa"
+│   ├── frantisek-elias.png          # ✅ EXISTUJE - František Eliáš
+│   ├── beata-sanvenero.png          # ✅ EXISTUJE - Beata Sanvenero
+│   ├── ada-zaludova.png             # ✅ EXISTUJE - Adéla Žaludová "Áďa"
+│   ├── lada-kasl.png                # ✅ EXISTUJE - Ladislav Kasl "Láďa"
+│   ├── petra-krispi.png             # ✅ EXISTUJE - Petra Krispi
+│   ├── zalud-kuba.png               # ✅ EXISTUJE - Jakub Žalud
+│   ├── zaludova-petra.png           # ✅ EXISTUJE - Petra Žaludová
+│   ├── petr-cech.png                # ✅ EXISTUJE - Petr Nový
+│   ├── maruska.png                  # ✅ EXISTUJE - Maruška
+│   ├── kuba-fisar.png               # ✅ EXISTUJE - Jakub Fišar
+│   ├── marenka.png                  # ✅ EXISTUJE - Mařenka (babička)
+│   │
+│   ├── NOVÉ ČLENY BEZ FOTEK (2):
+│   ├── zdenek-zalud.png             # ⚠️ CHYBÍ - Zdeněk Žalud
+│   ├── tereza-zaludova.png          # ⚠️ CHYBÍ - Tereza Žaludová
+│   │
+│   └── ... (zbývající členové z 30) # Budou doplněni později
 │
 ├── 2026/                            # Plánovaná dovolená 2026 (Švýcarsko)
 │   ├── header.jpg                   # ✅ EXISTUJE
@@ -223,9 +264,9 @@ images/
 - ✅ Všechny denní fotografie (6 ks) - *názvy míst budou doplněny*
 
 **Ostatní:**
-- ✅ Všechny profilové fotky týmu (9 členů)
 - ✅ Všechny aktivity na homepage (8 obrázků)
-- ✅ Úvodní hero obrázek
+- ✅ Úvodí hero obrázek
+- ✅ Profilové fotky týmu: **25 z 27 aktivních členů** (93%) 🎉
 
 ### ✅ STŘEDNÍ PRIORITA - VŠECHNO DOKONČENO!
 - ✅ Všechny fotografie pro rok 2024 (8 fotek)
@@ -234,10 +275,47 @@ images/
 
 **Poznámka k roku 2021:** Fotografie jsou nahrány, ale názvy míst budou doplňeny později podle obsahu fotografií.
 
+### 🎉 VYSOKÁ PRIORITA - PROFILOVÉ FOTKY TÝMU - SKORO HOTOVO!
+**Aktuální stav: 25 / 27 aktivních členů (93%)**
+
+**✅ DOKONČENÉ FOTOGRAFIE (25 členů):**
+1. ✅ `fici.png` - František Cihlář "Fici"
+2. ✅ `dali.png` - Dalibor Cihlář "Dali"
+3. ✅ `jan-novy.png` - Jan Nový
+4. ✅ `hanka.png` - Hanka Holíková
+5. ✅ `terka.png` - Tereza Cihlářová "Terka"
+6. ✅ `ondrej.png` - Ondřej Macek
+7. ✅ `alice.png` - Alice
+8. ✅ `pavla.png` - Pavla Ronovská "Pája"
+9. ✅ `petra-cech.png` - Petra Čechránková
+10. ✅ `tonda-firyt.png` - Antonín Firýt "Tonda"
+11. ✅ `radek-hacker.png` - Radek Hacker
+12. ✅ `jan-wimmer.png` - Jan Wimmer
+13. ✅ `frantisek-ptacek.png` - František "Fanda" Ptáček
+14. ✅ `josef-kovarik.png` - Josef Kovařík "Pepa"
+15. ✅ `frantisek-elias.png` - František Eliáš
+16. ✅ `beata-sanvenero.png` - Beata Sanvenero
+17. ✅ `ada-zaludova.png` - Adéla Žaludová "Áďa"
+18. ✅ `lada-kasl.png` - Ladislav Kasl "Láďa"
+19. ✅ `petra-krispi.png` - Petra Krispi 🎉
+20. ✅ `zalud-kuba.png` - Jakub Žalud
+21. ✅ `zaludova-petra.png` - Petra Žaludová
+22. ✅ `petr-cech.png` - Petr Nový (partner Petry Čechránkové)
+23. ✅ `maruska.png` - Maruška (partnerka Jakuba Fišara)
+24. ✅ `kuba-fisar.png` - Jakub Fišar
+25. ✅ `marenka.png` - Mařenka (babička malé Marušky)
+
+**⚠️ CHYBĚJÍCÍ (2 fotky):**
+1. `zdenek-zalud.png` - Zdeněk Žalud (manžel Petry Žaludové)
+2. `tereza-zaludova.png` - Tereza Žaludová (dcera Zdeňka a Petry)
+
+**📝 Zbývající členové (3+ fotek):**
+- Další členové týmu budou doplněni později podle dostupnosti fotek
+
 ### 🟢 NÍZKÁ PRIORITA (vylepšení obsahu)
-5. `images/2025/razor-topo.jpg` - Topografie Razor (volitelné)
-6. Galerie fotky z jednotlivých let (volitelné)
-7. Profilové fotky ostatních členů (21 zbývajících členů z 30)
+1. `images/2025/razor-topo.jpg` - Topografie Razor (volitelné)
+2. Galerie fotky z jednotlivých let (volitelné)
+3. Zbývající profilové fotky týmu (15+ členů)
 
 ## Doporučené rozměry
 

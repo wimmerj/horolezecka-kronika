@@ -9,7 +9,7 @@
 
 **Termín:** 15. - 22. června 2024  
 **Destinace:** Lago di Ledro, Trentino, Itálie  
-**Ubytování:** Residence Alessio, Bezzecca (kousek od jezera Ledro)  
+**Ubytování:** Residence Alessio, Bezzecca (kousek od jezera Ledro) - 7 apt / 4 os 
 **Účastníci:** 30 členů  
 **Počasí:** :sunny: Krásné, slunečné podmínky
 

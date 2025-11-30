@@ -9,8 +9,8 @@
 
 **Termín:** 14. - 21. června 2025 (7 dní)  
 **Destinace:** Julské Alpy, Slovinsko (oblast Soča)  
-**Ubytování:** Kousek od města Soča  
-**Účastníci:** 30 členů týmu  
+**Ubytování:** Vitranc Apartments, Kranjska Gora  
+**Účastníci:** 28 členů týmu  
 **Počasí:** :sunny: Převážně slunečno, perfektní podmínky
 
 ---

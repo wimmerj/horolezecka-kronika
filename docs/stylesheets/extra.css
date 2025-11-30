@@ -83,3 +83,15 @@ img[alt*="header"] {
         width: 100% !important;
     }
 }
+
+/* Mobilní zobrazení - oprava obtékání obrázků */
+@media screen and (max-width: 48rem) {
+    img[align="left"], img[align="right"],
+    .align-left, .align-right {
+        float: none !important;
+        display: block;
+        margin: 1em auto;
+        width: 100%;
+        max-width: 100%;
+    }
+}
