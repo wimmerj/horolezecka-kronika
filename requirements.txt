@@ -12,3 +12,7 @@ lxml>=4.9.0
 
 # Rozšíření pro Markdown (automaticky nainstalováno s Material)
 pymdown-extensions>=10.2
+
+# Cloudinary a správa prostředí
+cloudinary>=1.44.0
+python-dotenv>=1.2.0

@@ -168,3 +168,21 @@ Ferrata je pojmenovaná po obyvatelích města **Alleghe** (kde jsme byli ubytov
 <p align="center">
 :mountain: <strong>Dolomity II. - Pokořili jsme třítisícovky!</strong> :mountain:
 </p>
+
+
+---
+
+## :camera: Fotogalerie
+
+<div class="grid cards" markdown>
+
+-   [![P_20220618_171648_ai3mvp](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533480/P_20220618_171648_ai3mvp.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533480/P_20220618_171648_ai3mvp.jpg)
+-   [![P_20220618_185257_xzhchf](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533484/P_20220618_185257_xzhchf.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533484/P_20220618_185257_xzhchf.jpg)
+-   [![P_20220618_193339_olrprb](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533486/P_20220618_193339_olrprb.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533486/P_20220618_193339_olrprb.jpg)
+-   [![P_20220618_204352_iif5jm](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533480/P_20220618_204352_iif5jm.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533480/P_20220618_204352_iif5jm.jpg)
+-   [![P_20220619_091051_ecocug](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533484/P_20220619_091051_ecocug.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533484/P_20220619_091051_ecocug.jpg)
+-   [![P_20220619_104259_r7aotc](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533480/P_20220619_104259_r7aotc.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533480/P_20220619_104259_r7aotc.jpg)
+-   [![P_20220619_125210_vy7eam](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533482/P_20220619_125210_vy7eam.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533482/P_20220619_125210_vy7eam.jpg)
+-   [![P_20220620_053241_ownrx3](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533485/P_20220620_053241_ownrx3.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533485/P_20220620_053241_ownrx3.jpg)
+
+</div>

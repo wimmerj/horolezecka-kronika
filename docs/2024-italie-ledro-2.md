@@ -173,3 +173,22 @@
 <p align="center">
 :mountain: <strong>Ledro II - Pokořili jsme nejtěžší ferraty oblasti!</strong> :mountain:
 </p>
+
+
+---
+
+## :camera: Fotogalerie
+
+<div class="grid cards" markdown>
+
+-   [![amicizia_q4z768](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764535096/amicizia_q4z768.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764535096/amicizia_q4z768.jpg)
+-   [![casto-park-1_ykxhbg](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764535096/casto-park-1_ykxhbg.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764535096/casto-park-1_ykxhbg.jpg)
+-   [![casto-park-2_riue6k](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764535096/casto-park-2_riue6k.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764535096/casto-park-2_riue6k.jpg)
+-   [![che-guevara_xth5vn](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764535096/che-guevara_xth5vn.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764535096/che-guevara_xth5vn.jpg)
+-   [![header_wwafzj](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764535098/header_wwafzj.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764535098/header_wwafzj.jpg)
+-   [![preore_vgywim](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764535097/preore_vgywim.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764535097/preore_vgywim.jpg)
+-   [![signora-acque_zvfuue](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764535097/signora-acque_zvfuue.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764535097/signora-acque_zvfuue.jpg)
+-   [![tri-vrcholy_ferrata_rttcdk](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764535097/tri-vrcholy_ferrata_rttcdk.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764535097/tri-vrcholy_ferrata_rttcdk.jpg)
+-   [![tri-vrcholy_xfgo2o](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764535096/tri-vrcholy_xfgo2o.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764535096/tri-vrcholy_xfgo2o.jpg)
+
+</div>

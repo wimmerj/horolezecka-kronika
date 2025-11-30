@@ -168,3 +168,17 @@
 <br>
 <em>"První výprava, která odstartovala naši lásku k horám"</em>
 </p>
+
+
+---
+
+## :camera: Fotogalerie
+
+<div class="grid cards" markdown>
+
+-   [![Dolomity_3_yid2wm](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533393/Dolomity_3_yid2wm.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533393/Dolomity_3_yid2wm.jpg)
+-   [![Dolomity_4_q0xpc1](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533384/Dolomity_4_q0xpc1.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533384/Dolomity_4_q0xpc1.jpg)
+-   [![Dolomity_8_vhzayf](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533383/Dolomity_8_vhzayf.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533383/Dolomity_8_vhzayf.jpg)
+-   [![Dolomity_9_it1wwd](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533386/Dolomity_9_it1wwd.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533386/Dolomity_9_it1wwd.jpg)
+
+</div>

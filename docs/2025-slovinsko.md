@@ -247,3 +247,19 @@ Poslední den jsme zabalili, uklidili ubytování a vydali se na cestu zpět do 
 <p align="center">
 <em>14. - 21. června 2025 • Julské Alpy • 30 účastníků • 7 nezapomenutelných dní</em>
 </p>
+
+
+---
+
+## :camera: Fotogalerie
+
+<div class="grid cards" markdown>
+
+-   [![20250616_121753_warmbi](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533635/20250616_121753_warmbi.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533635/20250616_121753_warmbi.jpg)
+-   [![20250619_140419_lvnf3w](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533632/20250619_140419_lvnf3w.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533632/20250619_140419_lvnf3w.jpg)
+-   [![2_2_1__2_zbvbvy](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533630/2_2_1__2_zbvbvy.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533630/2_2_1__2_zbvbvy.jpg)
+-   [![3_2_2__2_rwbjdv](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533632/3_2_2__2_rwbjdv.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533632/3_2_2__2_rwbjdv.jpg)
+-   [![IMG_20250616_090101_scb39v](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533632/IMG_20250616_090101_scb39v.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533632/IMG_20250616_090101_scb39v.jpg)
+-   [![IMG_20250616_090618_1__2_osz5lx](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533647/IMG_20250616_090618_1__2_osz5lx.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533647/IMG_20250616_090618_1__2_osz5lx.jpg)
+
+</div>

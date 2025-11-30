@@ -20,7 +20,7 @@ Tyto stránky slouží jako **kronika našich společných zážitků** z vysoko
 
 :camera: **Fotografie** - nejlepší záběry z našich výprav  
 :movie_camera: **Videa** - YouTube videa lze přehrát přímo zde  
-:climbing: **Topografie lezeckých cest** - podrobné popisy a schémata  
+🧗‍♀️ **Topografie lezeckých cest** - podrobné popisy a schémata  
 :link: **Odkazy na galerie** - kompletní fotogalerie na Google Drive / OneDrive  
 :round_pushpin: **Mapy** - kde jsme byli a kudy jsme šli
 

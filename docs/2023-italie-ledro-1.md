@@ -187,3 +187,19 @@
 <p align="center">
 :mountain: <strong>Ledro I. - Začátek naší italské tradice!</strong> :mountain:
 </p>
+
+
+---
+
+## :camera: Fotogalerie
+
+<div class="grid cards" markdown>
+
+-   [![IMG_20230617_155447_2_1_umhj79](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533537/IMG_20230617_155447_2_1_umhj79.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533537/IMG_20230617_155447_2_1_umhj79.jpg)
+-   [![IMG_20230618_105842_2_1_qkedjn](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533534/IMG_20230618_105842_2_1_qkedjn.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533534/IMG_20230618_105842_2_1_qkedjn.jpg)
+-   [![IMG_20230618_111755_c3ifuu](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533538/IMG_20230618_111755_c3ifuu.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533538/IMG_20230618_111755_c3ifuu.jpg)
+-   [![IMG_20230618_114920_2_ibzo08](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533539/IMG_20230618_114920_2_ibzo08.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533539/IMG_20230618_114920_2_ibzo08.jpg)
+-   [![IMG_20230618_115340_2_1_ofl09s](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533535/IMG_20230618_115340_2_1_ofl09s.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533535/IMG_20230618_115340_2_1_ofl09s.jpg)
+-   [![IMG_20230618_121427_nfcbtr](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533535/IMG_20230618_121427_nfcbtr.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533535/IMG_20230618_121427_nfcbtr.jpg)
+
+</div>
