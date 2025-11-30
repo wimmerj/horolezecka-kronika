@@ -171,9 +171,9 @@ images/
 │   ├── kuba-fisar.png               # ✅ EXISTUJE - Jakub Fišar
 │   ├── marenka.png                  # ✅ EXISTUJE - Mařenka (babička)
 │   │
-│   ├── NOVÉ ČLENY BEZ FOTEK (2):
-│   ├── zdenek-zalud.png             # ⚠️ CHYBÍ - Zdeněk Žalud
-│   ├── tereza-zaludova.png          # ⚠️ CHYBÍ - Tereza Žaludová
+│   ├── NOVÉ ČLENY (2):
+│   ├── zdenek-zalud.png             # ✅ EXISTUJE - Zdeněk Žalud
+│   ├── tereza-zaludova.png          # ✅ EXISTUJE - Tereza Žaludová
 │   │
 │   └── ... (zbývající členové z 30) # Budou doplněni později
 │
@@ -275,8 +275,8 @@ images/
 
 **Poznámka k roku 2021:** Fotografie jsou nahrány, ale názvy míst budou doplňeny později podle obsahu fotografií.
 
-### 🎉 VYSOKÁ PRIORITA - PROFILOVÉ FOTKY TÝMU - SKORO HOTOVO!
-**Aktuální stav: 25 / 27 aktivních členů (93%)**
+### ✅ VYSOKÁ PRIORITA - PROFILOVÉ FOTKY TÝMU - HOTOVO!
+**Aktuální stav: 27 / 27 aktivních členů (100%)** 🎉
 
 **✅ DOKONČENÉ FOTOGRAFIE (25 členů):**
 1. ✅ `fici.png` - František Cihlář "Fici"
@@ -304,13 +304,13 @@ images/
 23. ✅ `maruska.png` - Maruška (partnerka Jakuba Fišara)
 24. ✅ `kuba-fisar.png` - Jakub Fišar
 25. ✅ `marenka.png` - Mařenka (babička malé Marušky)
+26. ✅ `zdenek-zalud.png` - Zdeněk Žalud 🎉
+27. ✅ `tereza-zaludova.png` - Tereza Žaludová 🎉
 
-**⚠️ CHYBĚJÍCÍ (2 fotky):**
-1. `zdenek-zalud.png` - Zdeněk Žalud (manžel Petry Žaludové)
-2. `tereza-zaludova.png` - Tereza Žaludová (dcera Zdeňka a Petry)
+**✅ VŠECHNY FOTKY KOMPLETNÍ! (27/27)**
 
-**📝 Zbývající členové (3+ fotek):**
-- Další členové týmu budou doplněni později podle dostupnosti fotek
+**📝 Poznámka:**
+- Všechny profilové fotky aktivních členů týmu (27) jsou kompletní! 🎉
 
 ### 🟢 NÍZKÁ PRIORITA (vylepšení obsahu)
 1. `images/2025/razor-topo.jpg` - Topografie Razor (volitelné)

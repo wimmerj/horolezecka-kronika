@@ -43,19 +43,11 @@ Tyto stránky slouží jako **kronika našich společných zážitků** z vysoko
 
 Objevujeme krásné horské scenérie a zdoláváme vrcholy Alp. Od rodinných túr po náročné vysokohorské výstupy.
 
-<div class="grid" markdown>
-
-![Horská turistika 1](images/aktivity/turistika-1.png){ width="300" data-gallery="turistika" }
-
-![Horská turistika 2](images/aktivity/turistika-2.png){ width="300" data-gallery="turistika" }
-
-![Horská turistika 3](images/aktivity/turistika-3.png){ width="300" data-gallery="turistika" }
-
-</div>
+![Horská turistika](images/aktivity/turistika-kolaz.png){ width="100%" data-gallery="turistika" }
 
 ---
 
-### 🧗 Via ferraty a lezení
+### 🧗 Via ferraty, skalní lezení a horská cyklistika
 
 Adrenalinové ferraty, exponované pasáže a klasické lezecké cesty jsou naší vášní.
 
@@ -73,15 +65,7 @@ Adrenalinové ferraty, exponované pasáže a klasické lezecké cesty jsou naš
 
 Po náročných výstupech si zaslouženě odpočíváme u jezer, na paddleboardech nebo v horských chatách.
 
-<div class="grid" markdown>
-
-![Relax 1](images/aktivity/relax-1.png){ width="300" data-gallery="relax" }
-
-![Relax 2](images/aktivity/relax-2.png){ width="300" data-gallery="relax" }
-
-![Relax 3](images/aktivity/relax-3.png){ width="300" data-gallery="relax" }
-
-</div>
+![Relax](images/aktivity/relax-kolaz.png){ width="100%" data-gallery="relax" }
 
 ---
 
