@@ -191,3 +191,52 @@ img[alt*="header"] {
         column-count: 1;
     }
 }
+
+/* Pás karet (Filmstrip) - horizontální scrollování */
+.gallery-scroll {
+  display: flex;
+  overflow-x: auto;      /* Umožní scrollování do boku */
+  gap: 10px;             /* Mezera mezi fotkami */
+  padding: 10px 0;       /* Odsazení shora/zdola */
+  scroll-snap-type: x mandatory; /* "Přichytávání" fotek při posunu (jako na mobilu) */
+  scrollbar-width: thin; /* Tenký posuvník pro Firefox */
+}
+
+/* Styl posuvníku pro Chrome/Edge */
+.gallery-scroll::-webkit-scrollbar {
+  height: 8px;
+}
+.gallery-scroll::-webkit-scrollbar-thumb {
+  background-color: #ccc;
+  border-radius: 4px;
+}
+
+/* Styl jednotlivých miniatur */
+.gallery-scroll a {
+  flex: 0 0 auto;        /* Automatická šířka podle obsahu */
+  scroll-snap-align: start;
+  transition: transform 0.2s ease;
+  display: block;
+}
+
+.gallery-scroll a p {
+  margin: 0;
+  line-height: 0;
+}
+
+.gallery-scroll img {
+  height: 200px;         /* PEVNÁ VÝŠKA náhledu - všechny stejně vysoké */
+  width: auto;           /* Šířka automaticky podle poměru stran */
+  object-fit: cover;     /* Ořízne fotku tak, aby vyplnila výšku */
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+/* Efekt při najetí myší */
+.gallery-scroll a:hover {
+  transform: scale(1.05);
+}
+
+.gallery-scroll a:hover img {
+  opacity: 0.9;
+}
