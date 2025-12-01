@@ -39,7 +39,13 @@ theme:
 plugins:
   - search:
       lang: cs
-  - glightbox
+  - glightbox:     # DŮLEŽITÉ: Toto zařizuje ten "Lightbox" efekt
+      touchNavigation: true
+      loop: true
+      zoomable: true
+      width: 90%
+      height: 90%
+
   - encryptcontent:
       title_prefix: '[🔒] '
       summary: 'Tato stránka je chráněna heslem.'

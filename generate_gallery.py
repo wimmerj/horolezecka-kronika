@@ -16,7 +16,7 @@ cloudinary.config(
 
 def generate_md_from_cloud(cloud_folder, output_md_path, title):
     """
-    cloud_folder: Název složky NA CLOUDINARY (např. "alpy_2024")
+    cloud_folder: Název složky NA CLOUDINARY (dle asset_folder)
     output_md_path: Kam uložit .md soubor na disku
     title: Nadpis na webu
     """
@@ -25,7 +25,6 @@ def generate_md_from_cloud(cloud_folder, output_md_path, title):
     
     try:
         # Získání seznamu obrázků ve složce pomocí Search API
-        # Hledáme podle asset_folder (Media Library složka)
         result = Search()\
             .expression(f'asset_folder="{cloud_folder}"')\
             .sort_by('public_id', 'asc')\
@@ -38,52 +37,78 @@ def generate_md_from_cloud(cloud_folder, output_md_path, title):
             print("CHYBA: Složka je prázdná nebo neexistuje!")
             return
 
-        print(f"Nalezeno {len(resources)} fotek. Generuji Markdown...")
+        print(f"Nalezeno {len(resources)} fotek. Generuji Filmstrip galerii...")
 
+        # --- PŘÍPRAVA OBSAHU ---
 
-
-        # Přidání galerie na konec existujícího souboru
-        # Nejprve zkontrolujeme, jestli soubor existuje
+        # 1. Načtení existujícího obsahu souboru (pokud existuje)
         existing_content = ""
         if os.path.exists(output_md_path):
             with open(output_md_path, "r", encoding="utf-8") as f:
                 existing_content = f.read()
             
-            # Pokud už v souboru galerie existuje, odebereme ji
-            if '<div class="grid cards" markdown>' in existing_content:
-                # Najdeme začátek galerie
-                gallery_start = existing_content.find('## :camera: Fotogalerie')
-                if gallery_start == -1:
-                    gallery_start = existing_content.find('<div class="grid cards" markdown>')
+            # --- LOGIKA PRO ODSTRANĚNÍ STARÉ GALERIE ---
+            # Hledáme začátek galerie, abychom ji mohli nahradit novou verzí
+            gallery_start = -1
+            
+            # Zkusíme najít nadpis
+            p_gallery = existing_content.find('## :camera: Fotogalerie')
+            
+            if p_gallery != -1:
+                gallery_start = p_gallery
+            else:
+                # Fallback: Zkusíme najít začátek divu (starý grid nebo nový scroll)
+                p_grid = existing_content.find('<div class="grid cards" markdown>')
+                p_scroll = existing_content.find('<div class="gallery-scroll" markdown>')
                 
-                if gallery_start != -1:
-                    existing_content = existing_content[:gallery_start].rstrip()
+                if p_grid != -1:
+                    gallery_start = p_grid
+                elif p_scroll != -1:
+                    gallery_start = p_scroll
+            
+            # Pokud jsme našli začátek galerie, ořízneme obsah před ní
+            if gallery_start != -1:
+                existing_content = existing_content[:gallery_start].rstrip()
         
-        # Vytvoření kompletního obsahu s galerií
+        # 2. Sestavení finálního obsahu
         final_content = existing_content
+        
+        # Přidání odřádkování, pokud soubor nekončí prázdným řádkem
         if existing_content and not existing_content.endswith('\n\n'):
             final_content += "\n\n"
         
         final_content += "---\n\n"
         final_content += "## :camera: Fotogalerie\n\n"
-        final_content += '<div class="grid cards" markdown>\n\n'
         
-        # Už jsou seřazené díky sort_by v Search API
+        # ZMĚNA: Používáme div BEZ markdown atributu a čistý HTML
+        final_content += '<div class="gallery-scroll">\n'
+        
         for res in resources:
             url = res['secure_url']
-            filename = res['public_id'].split('/')[-1] # Získáme název souboru pro alt text
+            filename = res['public_id'].split('/')[-1] # Získáme název souboru
             
-            # Cloudinary triky pro optimalizaci:
-            # Thumbnail (náhled): šířka 600px, kvalita auto
-            thumb_url = url.replace('/upload/', '/upload/f_auto,q_auto,w_600/')
+            # A) THUMBNAIL (Náhled v pásu) - menší výška pro filmstrip
+            thumb_url = url.replace('/upload/', '/upload/f_auto,q_auto,h_200,c_fill/')
             
-            # Full size (po kliknutí): jen optimalizace komprese, plná velikost
-            full_url = url.replace('/upload/', '/upload/f_auto,q_auto/')
+            # B) LIGHTBOX (Velký náhled po kliknutí)
+            lightbox_url = url.replace('/upload/', '/upload/f_auto,q_auto,w_1920/')
 
-            # Přidání řádku do galerie
-            final_content += f"-   [![{filename}]({thumb_url})]({full_url})\n"
+            # C) ORIGINÁL (Pro stažení)
+            original_url = url
+
+            # D) POPISEK - HTML entitami escapovaný
+            description_html = (
+                f"Fotografie: {filename} &lt;br&gt; "
+                f"&lt;a href='{original_url}' target='_blank' style='color: #4051b5; font-weight: bold; text-decoration: none;'&gt;"
+                f"⬇️ Stáhnout plnou kvalitu&lt;/a&gt;"
+            )
+
+            # E) ČISTÝ HTML řádek (GLightbox pracuje s HTML, ne s markdown)
+            line = f'<a href="{lightbox_url}" data-gallery="gallery" data-description="{description_html}"><img src="{thumb_url}" alt="{filename}"></a>\n'
+            
+            final_content += line
         
-        final_content += "\n</div>\n"
+        final_content += "</div>\n"
         
         # Uložení
         with open(output_md_path, "w", encoding="utf-8") as f:
@@ -127,14 +152,13 @@ if __name__ == "__main__":
     ]
     
     # Vygenerování všech galerií
-    print("=== Generování galerií ===\n")
+    print("=== Generování galerií (Filmstrip Mode) ===\n")
     for gallery in galleries:
         generate_md_from_cloud(
             gallery["cloud_folder"],
             gallery["output_path"],
             gallery["title"]
         )
-        print()  # Prázdný řádek mezi galeriemi
+        print()
     
     print("=== Všechny galerie byly vygenerovány ===")
-    

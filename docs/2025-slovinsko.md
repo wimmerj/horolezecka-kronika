@@ -182,84 +182,17 @@ Poslední den jsme zabalili, uklidili ubytování a vydali se na cestu zpět do 
 
 ---
 
-## :camera: Fotogalerie
-
-!!! success "Online galerie"
-    Všechny fotografie z výpravy jsou dostupné v našich online galeriích:
-    
-    **Google Drive:** [Slovinsko 2025 - Kompletní galerie](https://drive.google.com/drive/folders/example123456)  
-    *(348 fotografií, 2.4 GB)*
-    
-    **OneDrive:** [Záložní galerie](https://onedrive.live.com/example)  
-    *(Stejný obsah jako na Google Drive)*
-
-### Náhled galerie
-
-<div class="image-grid">
-
-![](images/2025/galerie-thumb-1.jpg){ width="24%" }
-![](images/2025/galerie-thumb-2.jpg){ width="24%" }
-![](images/2025/galerie-thumb-3.jpg){ width="24%" }
-![](images/2025/galerie-thumb-4.jpg){ width="24%" }
-
-![](images/2025/galerie-thumb-5.jpg){ width="24%" }
-![](images/2025/galerie-thumb-6.jpg){ width="24%" }
-![](images/2025/galerie-thumb-7.jpg){ width="24%" }
-![](images/2025/galerie-thumb-8.jpg){ width="24%" }
-
-</div>
-
 ---
-
-## :memo: Poznámky a zážitky
-
-!!! quote "Nezapomenutelné momenty"
-    Zážitky a vzpomínky členů týmu budou doplněny později.
-    
-
-### Statistiky výpravy
-
-| Kategorie | Hodnota |
-|-----------|---------|
-| **Celkem nastoupáno** | 8 450 m |
-| **Ujetých km autem** | 1 720 km |
-| **Nejvyšší bod** | 2864 m (Triglav) |
-| **Počet výstupů** | 6 |
-| **Počet ferrat** | 2 |
-| **Počet vypitých sudů** | 7 ks |
-
----
-
-## :star: Hodnocení
-
-**Celková obtížnost výpravy:** :star::star::star::star: (4/5)  
-**Krása krajiny:** :star::star::star::star::star: (5/5)  
-**Variabilita aktivit:** :star::star::star::star::star: (5/5)  
-**Organizace:** :star::star::star::star::star: (5/5)  
-**Doporučujeme opakovat:** Rozhodně ano! :white_check_mark:
-
----
-
-<p align="center">
-:mountain: <strong>Slovinsko 2025 - Úžasná výprava pro celý tým!</strong> :mountain:
-</p>
-
-<p align="center">
-<em>14. - 21. června 2025 • Julské Alpy • 30 účastníků • 7 nezapomenutelných dní</em>
-</p>
-
 
 ---
 
 ## :camera: Fotogalerie
 
-<div class="grid cards" markdown>
-
--   [![20250616_121753_warmbi](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533635/20250616_121753_warmbi.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533635/20250616_121753_warmbi.jpg)
--   [![20250619_140419_lvnf3w](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533632/20250619_140419_lvnf3w.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533632/20250619_140419_lvnf3w.jpg)
--   [![2_2_1__2_zbvbvy](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533630/2_2_1__2_zbvbvy.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533630/2_2_1__2_zbvbvy.jpg)
--   [![3_2_2__2_rwbjdv](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533632/3_2_2__2_rwbjdv.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533632/3_2_2__2_rwbjdv.jpg)
--   [![IMG_20250616_090101_scb39v](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533632/IMG_20250616_090101_scb39v.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533632/IMG_20250616_090101_scb39v.jpg)
--   [![IMG_20250616_090618_1__2_osz5lx](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_600/v1764533647/IMG_20250616_090618_1__2_osz5lx.jpg)](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto/v1764533647/IMG_20250616_090618_1__2_osz5lx.jpg)
-
+<div class="gallery-scroll">
+<a href="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_1920/v1764533635/20250616_121753_warmbi.jpg" data-gallery="gallery" data-description="Fotografie: 20250616_121753_warmbi &lt;br&gt; &lt;a href='https://res.cloudinary.com/dfumk4ec0/image/upload/v1764533635/20250616_121753_warmbi.jpg' target='_blank' style='color: #4051b5; font-weight: bold; text-decoration: none;'&gt;⬇️ Stáhnout plnou kvalitu&lt;/a&gt;"><img src="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,h_200,c_fill/v1764533635/20250616_121753_warmbi.jpg" alt="20250616_121753_warmbi"></a>
+<a href="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_1920/v1764533632/20250619_140419_lvnf3w.jpg" data-gallery="gallery" data-description="Fotografie: 20250619_140419_lvnf3w &lt;br&gt; &lt;a href='https://res.cloudinary.com/dfumk4ec0/image/upload/v1764533632/20250619_140419_lvnf3w.jpg' target='_blank' style='color: #4051b5; font-weight: bold; text-decoration: none;'&gt;⬇️ Stáhnout plnou kvalitu&lt;/a&gt;"><img src="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,h_200,c_fill/v1764533632/20250619_140419_lvnf3w.jpg" alt="20250619_140419_lvnf3w"></a>
+<a href="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_1920/v1764533630/2_2_1__2_zbvbvy.jpg" data-gallery="gallery" data-description="Fotografie: 2_2_1__2_zbvbvy &lt;br&gt; &lt;a href='https://res.cloudinary.com/dfumk4ec0/image/upload/v1764533630/2_2_1__2_zbvbvy.jpg' target='_blank' style='color: #4051b5; font-weight: bold; text-decoration: none;'&gt;⬇️ Stáhnout plnou kvalitu&lt;/a&gt;"><img src="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,h_200,c_fill/v1764533630/2_2_1__2_zbvbvy.jpg" alt="2_2_1__2_zbvbvy"></a>
+<a href="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_1920/v1764533632/3_2_2__2_rwbjdv.jpg" data-gallery="gallery" data-description="Fotografie: 3_2_2__2_rwbjdv &lt;br&gt; &lt;a href='https://res.cloudinary.com/dfumk4ec0/image/upload/v1764533632/3_2_2__2_rwbjdv.jpg' target='_blank' style='color: #4051b5; font-weight: bold; text-decoration: none;'&gt;⬇️ Stáhnout plnou kvalitu&lt;/a&gt;"><img src="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,h_200,c_fill/v1764533632/3_2_2__2_rwbjdv.jpg" alt="3_2_2__2_rwbjdv"></a>
+<a href="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_1920/v1764533632/IMG_20250616_090101_scb39v.jpg" data-gallery="gallery" data-description="Fotografie: IMG_20250616_090101_scb39v &lt;br&gt; &lt;a href='https://res.cloudinary.com/dfumk4ec0/image/upload/v1764533632/IMG_20250616_090101_scb39v.jpg' target='_blank' style='color: #4051b5; font-weight: bold; text-decoration: none;'&gt;⬇️ Stáhnout plnou kvalitu&lt;/a&gt;"><img src="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,h_200,c_fill/v1764533632/IMG_20250616_090101_scb39v.jpg" alt="IMG_20250616_090101_scb39v"></a>
+<a href="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_1920/v1764533647/IMG_20250616_090618_1__2_osz5lx.jpg" data-gallery="gallery" data-description="Fotografie: IMG_20250616_090618_1__2_osz5lx &lt;br&gt; &lt;a href='https://res.cloudinary.com/dfumk4ec0/image/upload/v1764533647/IMG_20250616_090618_1__2_osz5lx.jpg' target='_blank' style='color: #4051b5; font-weight: bold; text-decoration: none;'&gt;⬇️ Stáhnout plnou kvalitu&lt;/a&gt;"><img src="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,h_200,c_fill/v1764533647/IMG_20250616_090618_1__2_osz5lx.jpg" alt="IMG_20250616_090618_1__2_osz5lx"></a>
 </div>
