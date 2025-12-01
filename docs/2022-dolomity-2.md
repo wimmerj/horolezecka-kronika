@@ -176,6 +176,8 @@ Ferrata je pojmenovaná po obyvatelích města **Alleghe** (kde jsme byli ubytov
 
 ---
 
+---
+
 ## :camera: Fotogalerie
 
 <div class="gallery-scroll">

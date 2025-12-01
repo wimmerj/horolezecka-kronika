@@ -195,6 +195,8 @@
 
 ---
 
+---
+
 ## :camera: Fotogalerie
 
 <div class="gallery-scroll">

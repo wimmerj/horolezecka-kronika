@@ -186,6 +186,8 @@ Poslední den jsme zabalili, uklidili ubytování a vydali se na cestu zpět do 
 
 ---
 
+---
+
 ## :camera: Fotogalerie
 
 <div class="gallery-scroll">
