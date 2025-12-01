@@ -254,9 +254,9 @@ S rostoucím počtem členů přibyly i další aktivity:
     <img src="../images/team/ada-zaludova.png" alt="Adéla Žaludová">
     <div class="team-member-content">
         <h3>🥾 Adéla Žaludová "Áďa"</h3>
-        <p><strong>Role:</strong> MUDr. Ferrata (ve výcviku)<br>
-        <strong>Superschopnost:</strong> Přepnout z režimu 'skripta' do režimu 'skála'</p>
-        <p><em>„Budoucí paní doktorka, která na chvíli vyměnila bílý plášť za sedák. Studium ji sice na rok vyřadilo z provozu, ale vrátila se v plné síle. Jako jedna z mála drží s tátou krok i v těch kolmých pasážích, kde ostatní volají maminku. Je důkazem, že anatomii se člověk nejlépe naučí, když si ji namáhá v převisu.“</em></p>
+        <p><strong>Role:</strong> MUDr. Kochačka & Paní Rozumná<br>
+        <strong>Superschopnost:</strong> Chirurgicky přesný výběr pohody</p>
+        <p><em>„Budoucí paní doktorka, která vyměnila bílý plášť za pohorky. Do hor vnáší element rozvahy a stejně jako mamka Petra razí heslo, že dovolená má být o zážitcích, ne o boji o život. Zatímco otec se sestrou visí v převisech a pokoušejí gravitaci, Áďa si vybírá cesty, kde může v klidu aplikovat své znalosti anatomie na kochání se krajinou, nikoliv na počítání vlastních modřin.“</em></p>
     </div>
 </div>
 
@@ -278,9 +278,9 @@ S rostoucím počtem členů přibyly i další aktivity:
     <img src="../images/team/tereza-zaludova.png" alt="Tereza Žaludová">
     <div class="team-member-content">
         <h3>🚴 Tereza Žaludová</h3>
-        <p><strong>Role:</strong> Tichá voda & Univerzál<br>
-        <strong>Superschopnost:</strong> Nenápadný výstup</p>
-        <p><em>„Mladší sestra, která jde ve stopách mamky Petry. Nehraje si na kaskadéra, ale spolehlivě a s jistotou zdolá jakýkoliv kopec, ať už pěšky, nebo na kole. Zatímco ostatní řeší technické parametry cesty, Terka už je nahoře a svačí. Je to pohodářka, kterou jen tak něco nerozhází.“</em></p>
+        <p><strong>Role:</strong> Zdeňkův parťák & Skrytý drak<br>
+        <strong>Superschopnost:</strong> Absence pudu sebezáchovy (po tátovi)</p>
+        <p><em>„Terezka je mistr klamání tělem. Na zemi působí nenápadně, ale jakmile se dotkne skály, mění se v lezecký stroj. Je to tátova věrná parťačka do nepohody a do úseků, kde ostatním tuhne úsměv na rtech. Loňský rok sice vynechala, ale všichni netrpělivě čekáme na její velkolepý comeback. Pokud naváže tam, kde skončila, máme se na co těšit – kde my hledáme stupy, ona prostě běží nahoru.“</em></p>
     </div>
 </div>
 

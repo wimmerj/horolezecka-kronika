@@ -141,3 +141,53 @@ img[alt*="header"] {
         width: 100%;
     }
 }
+
+/* Masonry layout pro fotogalerie */
+.grid.cards {
+    column-count: 3;
+    column-gap: 1rem;
+}
+
+.grid.cards > li {
+    break-inside: avoid;
+    margin-bottom: 1rem;
+    display: inline-block;
+    width: 100%;
+}
+
+.grid.cards img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.grid.cards a {
+    display: block;
+    text-decoration: none;
+}
+
+.grid.cards a:hover img {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* Responzivní nastavení pro různé velikosti obrazovek */
+@media screen and (max-width: 1200px) {
+    .grid.cards {
+        column-count: 3;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .grid.cards {
+        column-count: 2;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .grid.cards {
+        column-count: 1;
+    }
+}

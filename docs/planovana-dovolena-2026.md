@@ -74,6 +74,14 @@ Podívejte se na 360° fotografie Pradas Resort:
 
 ## Plánované výstupy
 
+!!! abstract "⚠️ Důležité upozornění (Čtěte pozorně!)"
+    Následující seznam berte prosím **s lehkou rezervou**. Jedná se spíše o můj "romantický nástřel" než o závazný vojenský rozkaz. Finální logistiku, časový harmonogram a schvalování tras s důvěrou přenechávám našim expedičním expertům:
+       
+    * **Ficimu** –  aby to celé srovnal do tabulek a dávalo to smysl.
+    * **Hanzovi** – aby posoudil, zda jsou vybrané skály dostatečně kolmé a technicky výživné.
+
+    📍 Pro lepší orientaci (a pro ty, co rádi jezdí prstem po mapě) jsem všechny body zanesl do Google Mapy.
+
 ### 🥾 Horské túry (bez ferrat)
 
 #### 1. Piz Aul (3121 m)
@@ -122,58 +130,105 @@ Podívejte se na 360° fotografie Pradas Resort:
 
 ---
 
-### 🧗 Via ferraty
+### 🧗 Via ferraty (orientační nástřel možností)
 
-#### 1. Klettersteig Pinut (B/C)
+**Odkaz na ferraty v okolí** [Google maps seznam](https://maps.app.goo.gl/yqZNb9eozsXZrACA6)
 
-**Datum:** 21. 6. 2026 (odpoledne)  
+
+#### 1. Via ferrata Diavolo
+  
 **Obtížnost:** B/C  
 **Délka:** 2-3 hodiny  
-**Typ:** Ferrata přímo nad Brigels - ideální na rozlezení  
-**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Historischer_Klettersteig_Pinut)
+**Typ:** Lehčí ferrata, ale s nádherným okolím a výhledy. Lezení spíše po nakloněných plotnách, popřípadě po řadě kramlí.  
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Via_ferrata_Diavolo)
 
 ---
 
-#### 2. Via Ferrata Flims (C)
+#### 2. Klettersteig Schijen Zwärg Bergseehütte SAC (C) + Krokodil (C)
 
-**Datum:** 22. 6. 2026 (odpoledne)  
 **Obtížnost:** C  
-**Délka:** 3-4 hodiny  
-**Typ:** Populární ferrata s mosty a tyrolkami  
-**Odkaz:** [Více na webu](https://www.myswitzerland.com/en/experiences/the-historic-via-ferrata/)
+**Celkový čas / Délka ferraty / Celkové převýšení:** 3-4 hodiny + 5h / 120m + 7,6km  / 80m + 718m
+**Typ:** Pohodovka po mensim skalnatem hrebinku pripominajicim krokodyla na vysokohorske plosine obklopene 3 tisicovkama. Vetsinou B, par C useku. Spousta mist na kochani se panoramou. 2 vezicky, nasledovane mustkem na treti vez. Nejvic scary je asi pohled z prvni veze na trasu na druhou vez.
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Klettersteig_Schijen_Zw%C3%A4rg_Bergseeh%C3%BCtte_SAC)
+**Odkaz2:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Krokodil)
 
 ---
 
-#### 3. Klettersteig Chäligang (D)
+#### 3. Klettersteig Jubilaeus Dammahütte
 
-**Datum:** 24. 6. 2026 (odpoledne)  
-**Obtížnost:** D  
-**Délka:** 4-5 hodin  
-**Typ:** Náročná ferrata s exponovanými pasážemi  
-**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Ch%C3%A4ligang%2C_Engstligenalp_Adelboden)
+**Obtížnost:** C  
+**Celkový čas / Délka ferraty / Celkové převýšení:** 7h / 150m / 1600m
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Klettersteig_Jubilaeus_Dammah%C3%BCtte)
 
 ---
 
-#### 4. Via Ferrata Salbitschijen (E)
+#### 4. Klettersteig Adlerhorst Arnisee Piel Flue
 
-**Datum:** 26. 6. 2026  
-**Obtížnost:** E (extrémně náročná)  
-**Délka:** Celý den  
-**Typ:** Jedna z nejslavnějších švýcarských ferrat  
-**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Via_Ferrata_Salbitschijen)
-
-!!! warning "Pozor"
-    Tato ferrata vyžaduje výbornou fyzickou kondici a zkušenosti s exponovaným terénem!
+**Obtížnost:** C 
+**Celkový čas / Délka ferraty / Celkové převýšení:** 2h / 230m / 100m
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Adlerhorst_Arnisee_Klettersteig)
 
 ---
 
-#### 5. Klettersteig Bogn (B)
+#### 5. Hexensteig (Witches climb)
 
-**Datum:** 26. 6. 2026 (odpoledne) / Rezerva  
-**Obtížnost:** B  
-**Délka:** 2 hodiny  
-**Typ:** Krátká rodinná ferrata nedaleko Flims  
-**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Klettersteig_Bogn)
+**Obtížnost:** C/D 
+**Celkový čas / Délka ferraty / Celkové převýšení:** 4h / 300m / 675m
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Hexensteig_D)
+
+---
+
+#### Další v nejbližším okolí:
+
+**Název:** Via Ferrata Bälmetentor - Bälmeten - C 
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Via_Ferrata_B%C3%A4lmetentor_-_B%C3%A4lmeten)
+
+**Název:** Stäibber Klettersteig - Kröntenhütte - D ?
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/St%C3%A4ibber_Klettersteig_-_Kr%C3%B6ntenh%C3%BCtte)
+
+**Název:** Fürenwand Klettersteig - D 
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/F%C3%BCrenwand_Klettersteig)
+
+**Název:** Graustock Klettersteig - D
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Graustock_Klettersteig)
+
+**Název:** Brunnistöckli Zittergrat - C/D + Brunnistöckli - B/C 
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Brunnist%C3%B6ckli_Zittergrat)
+**Odkaz2:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Brunnist%C3%B6ckli_Zittergrat)
+
+**Název:** Rigidalstockwand - C/D + Rigidalstockgrat - C 
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Rigidalstockwand)
+**Odkaz2:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Rigidalstockgrat)
+
+**Název:** Braunwald - Klettersteig - C 750m 
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Braunwald_-_Klettersteig)
+
+**Název:** Klettersteig Fruttstägä - C/D
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Klettersteig_Fruttst%C3%A4g%C3%A4)
+
+**Název:** Klettersteig Husky-Lodge Muotathal - B/C 1000m 
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Klettersteig_Husky-Lodge_Muotathal)
+
+**Název:** Graustock Klettersteig - D
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Graustock_Klettersteig)
+
+**Název:** Indianer Klettersteig - C Zipline s kladkou ?
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Indianer_Klettersteig)
+
+**Název:** Speer-Kletterweg - B/C 970m
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Speer-Kletterweg)
+
+**Název:** Tälli Klettersteig - B/C 945m
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/T%C3%A4lli_Klettersteig)
+
+**Název:** Klettersteig Tierbergli - B/C 700m
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Klettersteig_Tierbergli)
+
+**Název:** Pietro Biasini - B/C 400m
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Biasini)
+
+**Název:** Klettersteig Languard + La Resgia - C/D 370m
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Klettersteig_La_Resgia)
 
 ---
 
