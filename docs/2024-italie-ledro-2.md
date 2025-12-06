@@ -174,13 +174,6 @@
 :mountain: <strong>Ledro II - Pokořili jsme nejtěžší ferraty oblasti!</strong> :mountain:
 </p>
 
-
----
-
----
-
----
-
 ---
 
 ## :camera: Fotogalerie
@@ -196,3 +189,17 @@
 <a href="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_1920/v1764535097/tri-vrcholy_ferrata_rttcdk.jpg" data-gallery="gallery" data-description="Fotografie: tri-vrcholy_ferrata_rttcdk &lt;br&gt; &lt;a href='https://res.cloudinary.com/dfumk4ec0/image/upload/v1764535097/tri-vrcholy_ferrata_rttcdk.jpg' target='_blank' style='color: #4051b5; font-weight: bold; text-decoration: none;'&gt;⬇️ Stáhnout plnou kvalitu&lt;/a&gt;"><img src="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,h_200,c_fill/v1764535097/tri-vrcholy_ferrata_rttcdk.jpg" alt="tri-vrcholy_ferrata_rttcdk"></a>
 <a href="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_1920/v1764535096/tri-vrcholy_xfgo2o.jpg" data-gallery="gallery" data-description="Fotografie: tri-vrcholy_xfgo2o &lt;br&gt; &lt;a href='https://res.cloudinary.com/dfumk4ec0/image/upload/v1764535096/tri-vrcholy_xfgo2o.jpg' target='_blank' style='color: #4051b5; font-weight: bold; text-decoration: none;'&gt;⬇️ Stáhnout plnou kvalitu&lt;/a&gt;"><img src="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,h_200,c_fill/v1764535096/tri-vrcholy_xfgo2o.jpg" alt="tri-vrcholy_xfgo2o"></a>
 </div>
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
