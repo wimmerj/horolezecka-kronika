@@ -125,17 +125,6 @@ Ferrata je pojmenovaná po obyvatelích města **Alleghe** (kde jsme byli ubytov
     
     **OneDrive:** [Záložní galerie 2022](https://onedrive.live.com/example2022)
 
-### Náhled galerie
-
-<div class="image-grid">
-
-![](images/2022/thumb-1.jpg){ width="24%" }
-![](images/2022/thumb-2.jpg){ width="24%" }
-![](images/2022/thumb-3.jpg){ width="24%" }
-![](images/2022/thumb-4.jpg){ width="24%" }
-
-</div>
-
 ---
 
 ## :memo: Zážitky a vzpomínky
@@ -166,7 +155,7 @@ Ferrata je pojmenovaná po obyvatelích města **Alleghe** (kde jsme byli ubytov
 ---
 
 <p align="center">
-:mountain: <strong>Dolomity II. - Pokořili jsme třítisícovky!</strong> :mountain:
+🏔️ <strong>Dolomity II. - Pokořili jsme třítisícovky!</strong> 🏔️
 </p>
 
 ---

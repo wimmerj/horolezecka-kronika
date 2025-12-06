@@ -145,17 +145,6 @@
     
     **OneDrive:** [Záložní galerie 2023](https://onedrive.live.com/example2023)
 
-### Náhled galerie
-
-<div class="image-grid">
-
-![](images/2023/gal-1.jpg){ width="24%" }
-![](images/2023/gal-2.jpg){ width="24%" }
-![](images/2023/gal-3.jpg){ width="24%" }
-![](images/2023/gal-4.jpg){ width="24%" }
-
-</div>
-
 ---
 
 ## :memo: Zážitky a vzpomínky
@@ -185,7 +174,7 @@
 ---
 
 <p align="center">
-:mountain: <strong>Ledro I. - Začátek naší italské tradice!</strong> :mountain:
+🏔️ <strong>Ledro I. - Začátek naší italské tradice!</strong> 🏔️
 </p>
 
 

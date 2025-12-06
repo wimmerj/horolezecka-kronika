@@ -116,17 +116,6 @@
     
     **OneDrive:** [Záložní galerie 2021](https://onedrive.live.com/example2021)
 
-### Náhled galerie
-
-<div class="image-grid">
-
-![](images/2021/gal-01.jpg){ width="24%" }
-![](images/2021/gal-02.jpg){ width="24%" }
-![](images/2021/gal-03.jpg){ width="24%" }
-![](images/2021/gal-04.jpg){ width="24%" }
-
-</div>
-
 ---
 
 ## :memo: Zážitky a vzpomínky
@@ -164,7 +153,7 @@
 ---
 
 <p align="center">
-:mountain: <strong>Dolomity 2021 - Kde to všechno začalo!</strong> :mountain:
+🏔️ <strong>Dolomity 2021 - Kde to všechno začalo!</strong> 🏔️
 <br>
 <em>"První výprava, která odstartovala naši lásku k horám"</em>
 </p>

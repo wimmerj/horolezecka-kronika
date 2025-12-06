@@ -182,16 +182,6 @@ Poslední den jsme zabalili, uklidili ubytování a vydali se na cestu zpět do 
 
 ---
 
----
-
----
-
----
-
----
-
----
-
 ## :camera: Fotogalerie
 
 <div class="gallery-scroll">
@@ -202,3 +192,13 @@ Poslední den jsme zabalili, uklidili ubytování a vydali se na cestu zpět do 
 <a href="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_1920/v1764533632/IMG_20250616_090101_scb39v.jpg" data-gallery="gallery" data-description="Fotografie: IMG_20250616_090101_scb39v &lt;br&gt; &lt;a href='https://res.cloudinary.com/dfumk4ec0/image/upload/v1764533632/IMG_20250616_090101_scb39v.jpg' target='_blank' style='color: #4051b5; font-weight: bold; text-decoration: none;'&gt;⬇️ Stáhnout plnou kvalitu&lt;/a&gt;"><img src="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,h_200,c_fill/v1764533632/IMG_20250616_090101_scb39v.jpg" alt="IMG_20250616_090101_scb39v"></a>
 <a href="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_1920/v1764533647/IMG_20250616_090618_1__2_osz5lx.jpg" data-gallery="gallery" data-description="Fotografie: IMG_20250616_090618_1__2_osz5lx &lt;br&gt; &lt;a href='https://res.cloudinary.com/dfumk4ec0/image/upload/v1764533647/IMG_20250616_090618_1__2_osz5lx.jpg' target='_blank' style='color: #4051b5; font-weight: bold; text-decoration: none;'&gt;⬇️ Stáhnout plnou kvalitu&lt;/a&gt;"><img src="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,h_200,c_fill/v1764533647/IMG_20250616_090618_1__2_osz5lx.jpg" alt="IMG_20250616_090618_1__2_osz5lx"></a>
 </div>
+
+---
+
+---
+
+---
+
+---
+
+---

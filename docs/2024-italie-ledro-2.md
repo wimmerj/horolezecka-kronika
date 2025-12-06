@@ -124,22 +124,6 @@
     
     **OneDrive:** [Záložní galerie 2024](https://onedrive.live.com/example2024)
 
-### Náhled galerie
-
-<div class="image-grid">
-
-![](images/2024/gallery-01.jpg){ width="24%" }
-![](images/2024/gallery-02.jpg){ width="24%" }
-![](images/2024/gallery-03.jpg){ width="24%" }
-![](images/2024/gallery-04.jpg){ width="24%" }
-
-![](images/2024/gallery-05.jpg){ width="24%" }
-![](images/2024/gallery-06.jpg){ width="24%" }
-![](images/2024/gallery-07.jpg){ width="24%" }
-![](images/2024/gallery-08.jpg){ width="24%" }
-
-</div>
-
 ---
 
 ## :memo: Zážitky a vzpomínky
@@ -171,7 +155,7 @@
 ---
 
 <p align="center">
-:mountain: <strong>Ledro II - Pokořili jsme nejtěžší ferraty oblasti!</strong> :mountain:
+🏔️ <strong>Ledro II - Pokořili jsme nejtěžší ferraty oblasti!</strong> 🏔️
 </p>
 
 ---
