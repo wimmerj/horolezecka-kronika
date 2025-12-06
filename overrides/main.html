@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block content %}
+  {{ super() }}
+  <div class="audio-floating-panel">
+    <div class="audio-wrapper">
+      <span class="audio-label">Nová hudba k pivu!</span>
+      
+      <audio controls id="my-audio-player">
+        <source src="{{ base_url }}/audio/Horska_Kronika.mp3" type="audio/mpeg">
+        Tvůj prohlížeč nepodporuje element audio.
+      </audio>
+    </div>
+  </div>
+  
+  <script>
+    (function() {
+      const playlist = [
+        "{{ base_url }}/audio/Horska_Kronika.mp3",
+        "{{ base_url }}/audio/Horska_Kronika_II.mp3"
+      ];
+      let currentTrack = 0;
+      const audio = document.getElementById('my-audio-player');
+      
+      audio.addEventListener('ended', function() {
+        currentTrack = (currentTrack + 1) % playlist.length;
+        audio.src = playlist[currentTrack];
+        audio.play();
+      });
+    })();
+  </script>
+{% endblock %}

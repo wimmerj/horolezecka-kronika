@@ -6,6 +6,7 @@ site_url: https://tvoje-jmeno.github.io/horolezecka-kronika/
 theme:
   name: material
   language: cs
+  custom_dir: overrides
   palette: 
     # Světlý režim
     - scheme: default
@@ -26,6 +27,7 @@ theme:
     - navigation.sections
     - navigation.top
     - navigation.tracking
+    - navigation.instant
     - search.highlight
     - search.suggest
     - content.code.copy
