@@ -1,7 +1,7 @@
-# :flag_it: 2021 - Dolomity I.
+# :flag_it: Expedice Dolomity 2021
 
 ![Dolomity 2021](images/2021/header.jpg){ width="100%" }
-*Naše první společná výprava do Dolomit - září 2021*
+*Naše první společná výprava do Dolomit - červen 2021*
 
 ---
 
@@ -10,107 +10,109 @@
 **Termín:** 19. - 26. června 2021  
 **Destinace:** Dolomity, Itálie  
 **Ubytování:** Někde v Dolomitech (bude doplňeno později)  
-**Účastníci:** 30 členů  
-**Počasí:** :sunny: Perfektní podmínky!
+**Účastníci zájezdu:** Fici, Dali, Hanz, Hanka, Já (Honza W.), Láďa, Petra, Marek, Dana, Petr Nožička  
+**Počasí:** :sunny:   
+
+Vyrazili jsme klasicky "od soboty do soboty" na konci června. Naivní představa byla, že sníh už bude pryč a ferratová lana budou vyhřátá sluníčkem. Také jsme se chtěli vyhnout prázdninovému návalu rodinek. Ubytovali jsme se poblíž Marmolady – královny Dolomit.
+
+*Tehdy jsme ještě netušili, že o dva roky později ji budeme dobývat přivázáni na laně kvůli trhlinám, v mačkách a s cepíny. Tentokrát jsme ji jen s respektem pozorovali.*
 
 ---
 
 ## :mountain: Přehled výstupů
 
-!!! info "Místa výprav budou doplňena později"
-    K jednotlivým datům budou přidány fotografie a názvy míst.
-
 | Datum | Výstup | Výška | Obtížnost | Poznámka |
 |-------|--------|-------|-----------|----------|
-| 20.6. | *Bude doplňeno* | - | - | Fotografie k dispozici |
-| 21.6. | *Bude doplňeno* | - | - | Fotografie k dispozici |
-| 22.6. | *Bude doplňeno* | - | - | Fotografie k dispozici |
-| 23.6. | *Bude doplňeno* | - | - | Fotografie k dispozici |
-| 24.6. | *Bude doplňeno* | - | - | Fotografie k dispozici |
-| 25.6. | *Bude doplňeno* | - | - | Fotografie k dispozici |
+| 20.6. | Via Ferrata Lagazuoi | - | B/C | Tunely času |
+| 21.6. | Trincee Klettersteig | - | C/D | Hřebenovka |
+| 22.6. | Boeseekofel Klettersteig* | - | C/D | Operace Paracord |
+| 23.6. | Piz Boe | - | A/B | Útěk před hněvem bohů |
+| 24.6. | Magnifici 4 - Klettersteig | - | E | Odpočinek |
+| 25.6. | Lichtenfelser weg* | - | A/B | Rozlučka |
 
 ---
 
 ## :hiking_boot: Den po dni
 
 !!! note "Informace budou doplněny"
-    Názvy míst a detaily výprav budou doplněny později podle fotografií.
+    Názvy míst a detaily výprav budou upraveny později podle skutečnosti.
 
 ### 📅 Neděle 20.6.2021 - Den 1
 
-**Výstup:** *Bude doplněno později*  
-**Obtížnost:** *Bude doplněno*
+**Výstup:**  Via Ferrata Lagazuoi (B/C) – Tunely času  
 
 ![Den 1](images/2021/den-1.jpg){ width="100%" }
 
-**Popis:** První den naší výpravy do Dolomit. Detaily budou doplněny podle fotografií.
+**Popis:** Na úvod jsme zvolili historicky zajímavou ferratu Lagazuoi. Zvláštností je průlez starými vojenskými tunely plnými zrezlé techniky z první světové války.
+K našemu překvapení nás přivítalo množství sněhu. K tunelům se po úzkém zasněženém hřebenu odvážili jen ti statečnější z nás. Samotné tunely byly ledovou skluzavkou – jelikož jsme jimi klesali zpět k nástupu, adrenalin stoupal úměrně s klouzavostí podrážek.
 
 ---
 
 ### 📅 Pondělí 21.6.2021 - Den 2
 
-**Výstup:** *Bude doplněno později*  
-**Obtížnost:** *Bude doplněno*
+**Výstup:** Trincee Klettersteig (C/D) – Můj osobní křest  
 
 ![Den 2](images/2021/den-2.jpg){ width="100%" }
 
-**Popis:** Druhý den výpravy. Detaily budou doplněny podle fotografií.
+**Popis:** Pro mě to byla tehdy nejtěžší ferrata v životě. Trincee ve mně zanechala hlubokou rýhu (obrazně i doslova). Nádherná, ale exponovaná cesta s dlouhými pasážemi po úzkém hřebeni. Vlevo propast, vpravo propast a před vámi jen dechberoucí výhled na ledovec Marmolady. Tady jsem pochopil, že ferraty nejsou jen o síle, ale hlavně o hlavě.
 
 ---
 
 ### 📅 Úterý 22.6.2021 - Den 3
 
-**Výstup:** *Bude doplněno později*  
-**Obtížnost:** *Bude doplněno*
+**Výstup:** Boeseekofel (C/D) – Operace Paracord  
 
 ![Den 3](images/2021/den-3.jpg){ width="100%" }
 
-**Popis:** Třetí den výpravy. Detaily budou doplněny podle fotografií.
+**Popis:** Na tuhle výpravu jsme vyrazili v plné polní – všichni, včetně slabších lezců a nelezců. Plán byl geniální: „Dojdeme pod těžký úsek, my lezci si dáme C/D a vy ostatní to obejdete lehkou sestupovkou.“  
+
+Realita Dolomit 2021 měla jiný plán. Už při nástupu jsme se bořili po kolena ve sněhu. Vrcholem byl traverz strmé ledové plochy v teniskách (mačky zůstaly v teple domova), kde nad námi byla skála a pod námi... nic. Dlouho jsme váhali, ale touha po vrcholu zvítězila. U kříže nás přivítala hejna havranů, kteří nám zobali svačinu téměř z ruky.  
+
+**Drama začalo při sestupu.**  
+Sestupová cesta pro "nelezce" vypadala jako ledové koryto bobové dráhy. Bez maček a cepínů = sebevražda. Cesta k naší ferratě vypadala podobně. Byli jsme v pasti.
+Naštěstí jsme měli paracord (tenkou šňůrku, které normální člověk svěří stan, ne život).  
+
+• **Řešení:** Navázali jsme se na paracord a přes slaňovací kyblík jsme jeden po druhém opatrně slaňovali k nástupu ferraty.  
+
+• **Finále:** Ferratu nakonec museli nuceně lézt i ti, co lézt nechtěli. S půjčeným vybavením a smrtí v očích jsme to ale všichni zvládli.  
 
 ---
 
 ### 📅 Středa 23.6.2021 - Den 4
 
-**Výstup:** *Bude doplněno později*  
-**Obtížnost:** *Bude doplněno*
+**Výstup:** Piz Boe – Útěk před hněvem bohů  
 
 ![Den 4](images/2021/den-4.jpg){ width="100%" }
 
-**Popis:** Čtvrtý den výpravy. Detaily budou doplněny podle fotografií.
+**Popis:** Zatímco lezecká sekce brousila těžkou ferratu, já jsem (poučen z předchozích dnů) zvolil turistickou trasu. Panoramata byla úchvatná, ale cesta brutální – strmé stoupání po štěrku a následné brodění sněhem.  
+
+Těsně pod vrcholem se nebe zatáhlo a přišla silná bouřka. Jelikož mám z bouřek na hřebeni panickou hrůzu, zapnul jsem "turbo mód". Vyškrábali jsme se ke kříži a pak jsem sprintoval zpět k horské chatě a lanovce. Nohy mě bolely, plíce pálily, ale strach byl rychlejší.
 
 ---
 
 ### 📅 Čtvrtek 24.6.2021 - Den 5
 
-**Výstup:** *Bude doplněno později*  
-**Obtížnost:** *Bude doplněno*
+**Výstup:** Odpočinek vs. Magnifici 4 (Obtížnost E)  
 
 ![Den 5](images/2021/den-5.jpg){ width="100%" }
 
-**Popis:** Pátý den výpravy. Detaily budou doplněny podle fotografií.
+**Popis:** Moje nohy vyhlásily stávku. Bolest svalů a kolen byla taková, že jsem si naordinoval "Day Off". Zbytek nezmarů (Fici a Honza N.) vyrazili na Magnifici 4 – extrémně těžkou ferratu. Nelezci si dali výstup po sestupovce a nahoře se všichni setkali. Já jsem jim fandil... vodorovně z postele.
 
 ---
 
 ### 📅 Pátek 25.6.2021 - Den 6
 
-**Výstup:** *Bude doplněno později*  
-**Obtížnost:** *Bude doplněno*
+**Výstup:** Lichtenfelser weg (A/B) – Rozlučka  
 
 ![Den 6](images/2021/den-6.jpg){ width="100%" }
 
-**Popis:** Šestý a závěrečný den výpravy. Detaily budou doplněny podle fotografií.
-
----
-
-## :camera: Fotografie z výpravy
-
-**Poznámka:** V sekci "Den po dni" výše najdete fotografie pro každý den výpravy. Názvy míst a detailní popisy budou doplněny později.
+**Popis:** Na závěr jsme si dali společnou "procházku" po Lichtenfelser weg. Spíše zajištěná cesta než ferrata, ideální na doražení posledních zbytků sil. Po návratu domů jsem potřeboval další dva týdny dovolené na rekonvalescenci kolen.
 
 ---
 
 ## :link: Kompletní fotogalerie
 
-!!! success "Online galerie"
+!!! success "Online galerie - odkazy jsou zatím neplatné"
     **Google Drive:** [Dolomity 2021 - První výprava](https://drive.google.com/drive/folders/example2021)  
     *(254 fotografií, 1.9 GB)*
     
@@ -127,12 +129,12 @@
 
 | Kategorie | Hodnota |
 |-----------|---------|
-| **Účastníci** | 30 členů |
+| **Účastníci** | 10 členů |
 | **Počet výstupů** | 6 |
-| **Nejvyšší bod** | |
-| **Počet ferrat** | |
-| **Celkem nastoupáno** | |
-| **Průměrný čas výstupu** | |
+| **Nejvyšší bod** | Pizz Boe |
+| **Počet ferrat** | 5 |
+| **Celkem nastoupáno** | - |
+| **Průměrný čas výstupu** | - |
 
 ---
 
@@ -140,14 +142,14 @@
 
 **Celková obtížnost:** :star::star::star: (3/5)  
 **Krása krajiny:** :star::star::star::star::star: (5/5)  
-**Pro začátečníky:** :star::star::star::star::star: (5/5)
+**Pro začátečníky:** :star::star::star: (3/5)
 
 ---
 
 ## :trophy: Milníky
 
 - ✅ **První společná výprava**
-- ✅ **První via ferrata**
+- ✅ **První pořádná via ferrata**
 - ✅ **Začátek naší tradice**
 
 ---
@@ -158,6 +160,8 @@
 <em>"První výprava, která odstartovala naši lásku k horám"</em>
 </p>
 
+
+---
 
 ---
 
@@ -380,16 +384,6 @@
 <a href="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_1920/v1765025223/Dolomity_93__2_aqn8pv.jpg" data-gallery="gallery" data-description="Fotografie: Dolomity_93__2_aqn8pv &lt;br&gt; &lt;a href='https://res.cloudinary.com/dfumk4ec0/image/upload/v1765025223/Dolomity_93__2_aqn8pv.jpg' target='_blank' style='color: #4051b5; font-weight: bold; text-decoration: none;'&gt;⬇️ Stáhnout plnou kvalitu&lt;/a&gt;"><img src="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,h_200,c_fill/v1765025223/Dolomity_93__2_aqn8pv.jpg" alt="Dolomity_93__2_aqn8pv"></a>
 <a href="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_1920/v1765025223/Dolomity_95__2_thuzq5.jpg" data-gallery="gallery" data-description="Fotografie: Dolomity_95__2_thuzq5 &lt;br&gt; &lt;a href='https://res.cloudinary.com/dfumk4ec0/image/upload/v1765025223/Dolomity_95__2_thuzq5.jpg' target='_blank' style='color: #4051b5; font-weight: bold; text-decoration: none;'&gt;⬇️ Stáhnout plnou kvalitu&lt;/a&gt;"><img src="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,h_200,c_fill/v1765025223/Dolomity_95__2_thuzq5.jpg" alt="Dolomity_95__2_thuzq5"></a>
 </div>
-
----
-
----
-
----
-
----
-
----
 
 ---
 

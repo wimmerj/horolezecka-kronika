@@ -180,6 +180,8 @@
 
 ---
 
+---
+
 ## :camera: Fotogalerie
 
 <div class="gallery-scroll">
@@ -289,16 +291,6 @@
 <a href="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_1920/v1765039011/IMG_20230622_191203_2_powkit.jpg" data-gallery="gallery" data-description="Fotografie: IMG_20230622_191203_2_powkit &lt;br&gt; &lt;a href='https://res.cloudinary.com/dfumk4ec0/image/upload/v1765039011/IMG_20230622_191203_2_powkit.jpg' target='_blank' style='color: #4051b5; font-weight: bold; text-decoration: none;'&gt;⬇️ Stáhnout plnou kvalitu&lt;/a&gt;"><img src="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,h_200,c_fill/v1765039011/IMG_20230622_191203_2_powkit.jpg" alt="IMG_20230622_191203_2_powkit"></a>
 <a href="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_1920/v1765039015/IMG_20230623_163134_2_2_pjlmyb.jpg" data-gallery="gallery" data-description="Fotografie: IMG_20230623_163134_2_2_pjlmyb &lt;br&gt; &lt;a href='https://res.cloudinary.com/dfumk4ec0/image/upload/v1765039015/IMG_20230623_163134_2_2_pjlmyb.jpg' target='_blank' style='color: #4051b5; font-weight: bold; text-decoration: none;'&gt;⬇️ Stáhnout plnou kvalitu&lt;/a&gt;"><img src="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,h_200,c_fill/v1765039015/IMG_20230623_163134_2_2_pjlmyb.jpg" alt="IMG_20230623_163134_2_2_pjlmyb"></a>
 </div>
-
----
-
----
-
----
-
----
-
----
 
 ---
 

@@ -20,12 +20,12 @@
 | Datum | Aktivita | Výška | Obtížnost | Poznámka |
 |-------|----------|-------|-----------|----------|
 | **14.6.** | Příjezd a ubytování | - | - | Příjezd do oblasti Soča |
-| **15.6.** | **Ciprnik + Visoka peč** | 1747 m / 1749 m | T3 | První společná výprava |
+| **15.6.** | **Ciprnik + Visoka peč -> bobová dráha** | 1747 m / 1749 m | T3 | První společná výprava |
 | **16.6.** | **Pramen Soči + soutěska** | - | T2 | 15 km procházka soutěskou |
-| **17.6.** | **Triglav** | 2864 m | PD-E | 3 skupiny, ferraty Plamenica + Tomiškova |
-| **18.6.** | **Odpočinkový den** | - | - | Jezero, paddleboard, sjezd řeky |
-| **19.6.** | **4 ferraty** | - | C + E | 3 lehčí (C), 1 náročná (E) |
-| **20.6.** | **Mala Mojstrovka** | 2333 m | B/C | Ferrata Hanzova pot (6 lidí, led!) |
+| **17.6.** | **Triglav** | 2864 m | PD-E | 3 skupiny, ferraty Plamenica + Tomiškova, dále přes zavřenou chatu Planica |
+| **18.6.** | **Odpočinkový den** | - | - | Jezero v Krajnske Gore, paddleboard, sjezd řeky |
+| **19.6.** | **4 ferraty** | - | C + E | 3 lehčí (C), 1 náročná (E) - Ferraty Mojnstrana - Pot mojnstranških veveric a Hvadnik + nekteri ferrata Jerm'n, Peričnik vodopad |
+| **20.6.** | **Mala Mojstrovka** | 2333 m | B/C | Ferrata Hanzova pot (6 lidí, led!), ostatní Vystup Slemenova spica |
 | **21.6.** | Odjezd domů | - | - | Návrat do ČR |
 
 ---
@@ -182,6 +182,8 @@ Poslední den jsme zabalili, uklidili ubytování a vydali se na cestu zpět do 
 
 ---
 
+---
+
 ## :camera: Fotogalerie
 
 <div class="gallery-scroll">
@@ -192,12 +194,6 @@ Poslední den jsme zabalili, uklidili ubytování a vydali se na cestu zpět do 
 <a href="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_1920/v1764533632/IMG_20250616_090101_scb39v.jpg" data-gallery="gallery" data-description="Fotografie: IMG_20250616_090101_scb39v &lt;br&gt; &lt;a href='https://res.cloudinary.com/dfumk4ec0/image/upload/v1764533632/IMG_20250616_090101_scb39v.jpg' target='_blank' style='color: #4051b5; font-weight: bold; text-decoration: none;'&gt;⬇️ Stáhnout plnou kvalitu&lt;/a&gt;"><img src="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,h_200,c_fill/v1764533632/IMG_20250616_090101_scb39v.jpg" alt="IMG_20250616_090101_scb39v"></a>
 <a href="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_1920/v1764533647/IMG_20250616_090618_1__2_osz5lx.jpg" data-gallery="gallery" data-description="Fotografie: IMG_20250616_090618_1__2_osz5lx &lt;br&gt; &lt;a href='https://res.cloudinary.com/dfumk4ec0/image/upload/v1764533647/IMG_20250616_090618_1__2_osz5lx.jpg' target='_blank' style='color: #4051b5; font-weight: bold; text-decoration: none;'&gt;⬇️ Stáhnout plnou kvalitu&lt;/a&gt;"><img src="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,h_200,c_fill/v1764533647/IMG_20250616_090618_1__2_osz5lx.jpg" alt="IMG_20250616_090618_1__2_osz5lx"></a>
 </div>
-
----
-
----
-
----
 
 ---
 

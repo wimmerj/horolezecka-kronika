@@ -160,6 +160,8 @@ Ferrata je pojmenovaná po obyvatelích města **Alleghe** (kde jsme byli ubytov
 
 ---
 
+---
+
 ## :camera: Fotogalerie
 
 <div class="gallery-scroll">
@@ -301,16 +303,6 @@ Ferrata je pojmenovaná po obyvatelích města **Alleghe** (kde jsme byli ubytov
 <a href="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_1920/v1765034234/P_20220624_161801_2_owkfxy.jpg" data-gallery="gallery" data-description="Fotografie: P_20220624_161801_2_owkfxy &lt;br&gt; &lt;a href='https://res.cloudinary.com/dfumk4ec0/image/upload/v1765034234/P_20220624_161801_2_owkfxy.jpg' target='_blank' style='color: #4051b5; font-weight: bold; text-decoration: none;'&gt;⬇️ Stáhnout plnou kvalitu&lt;/a&gt;"><img src="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,h_200,c_fill/v1765034234/P_20220624_161801_2_owkfxy.jpg" alt="P_20220624_161801_2_owkfxy"></a>
 <a href="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_1920/v1765034212/P_20220625_092829_2_frrfmb.jpg" data-gallery="gallery" data-description="Fotografie: P_20220625_092829_2_frrfmb &lt;br&gt; &lt;a href='https://res.cloudinary.com/dfumk4ec0/image/upload/v1765034212/P_20220625_092829_2_frrfmb.jpg' target='_blank' style='color: #4051b5; font-weight: bold; text-decoration: none;'&gt;⬇️ Stáhnout plnou kvalitu&lt;/a&gt;"><img src="https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,h_200,c_fill/v1765034212/P_20220625_092829_2_frrfmb.jpg" alt="P_20220625_092829_2_frrfmb"></a>
 </div>
-
----
-
----
-
----
-
----
-
----
 
 ---
 

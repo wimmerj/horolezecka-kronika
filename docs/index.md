@@ -1,7 +1,30 @@
 # :mountain: Vítejte v naší horolezecké kronice!
 
 ![Úvodní fotka](images/uvod-hero.jpg){ width="100%" }
-*Fotografie: Dolomity při západu slunce*
+
+---
+#### 🎬 Nově aktualizováno!
+
+!!! quote "Poslední aktualizace webu"
+    1.  **📸 Fotogalerie** – byly doplněny fotky z let 2021 - 2024 (na konci každé stránky).
+    2.  **🎸 Hudba** – byl aktualizován přehravač, nyní je možné měnit skladby (ještě bude upraven, zabírá moc místa). Dále přidány dvě verze shrnutí Dolomit 2021.
+    3.  **👨‍👩‍👧‍👦 Stránka "O nás"** – Upraveny informace v sekcích "Jak se naše řady rozrůstaly" a "Naše filozofie"
+    4.  **📽 Video** – Né ta videa z lezení 🙈, ale video jak zhruba vzniká tento web.  
+    5.  **🌄 Rok 2021** - Dopnění informací v celém rozahu stránky 
+
+!!! quote "Je třeba doplnit"
+    1.  **📆  Rok 2021** - Správné seřazení dnů + výstupy u kterých mám v tabulce hvězdičku "*" se pravděpodobně jmenují jinak.  
+    2.  **🌄 2022 - 2025** - Doplnění výstupů + dnů jak šli po sobě. Také jména popř. počet účastníků.  
+    3.  **🛰 2022 - 2025** - Jestli máte záznamy tras například z chytrých hodinek nebo rovnou GPX export souřadnic.  
+    4.  **🚗 2026** - Nějaké další důležité info? Ať to máme tady po hromadě.  
+    2.  **👨‍👩‍👧‍👦 O nás** - Je to zatím jen co si myslím a co jsem tak pochytil, rozhodně by to bylo lepší, kdyby to bylo přímo od Vás - pro autentičnost.  
+
+!!! quote "Placeholdery - informace na webu které nejsou pravdivé, ale jen drží místo skutečným informacím"
+    1.  **📸 Pro Roky 2021 - 2025** - "Kompletní fotogalerie" odkazy na galerie google drive jsou prázdné. Stejně tak "Statistiky výpravy"
+
+---
+
+#### 🎬 Pomozte nám to dokončit! - a o vzniku tohoto webu ([Video zde](https://www.youtube.com/watch?v=AGUoTAGfSeU"))
 
 ---
 

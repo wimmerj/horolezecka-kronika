@@ -1,4 +1,4 @@
-# :busts_in_silhouette: O nás
+# 📜 Jak to celé vzniklo (Něco málo o nás)
 
 Jsme parta přátel, která sdílí lásku k horám, horolezectví a dobrodružství. Naše cesty začaly již v dětství a postupně se z malé skupiny turistů stala velká rodina horolezců, cyklistů a milovníků přírody.
 
@@ -10,19 +10,27 @@ Vše začalo již v dětství Františka a Dalibora Cihlářových. **Jejich ote
 
 František (Fici) se později věnoval práci s dětmi a společně s **Hankou Holíkovou každoročně vedou dětské tábory**, kde předávají lásku k přírodě další generaci.
 
-### 🧗 Od turistiky k ferratám
+### 🧗 Od turistiky k železným cestám
 
-Zlomovým okamžikem byl rok, kdy se **František a Jan Nový** společně vydali do Alp. Jan Františka přiměl vyzkoušet **via ferraty a klasické lezení**. Ficiho to natolik chytlo, že se stal vášnivým ferratistou a dnes jezdí po ferratách i sám. Jeho bratr **Dalibor** zůstal věrný horské turistice – ferraty ho tolik neoslovily, ale jako horský turista nemá konkurenci.
+Zlomovým okamžikem v historii naší skupiny byl rok, kdy se **František (Fici)** a **Jan Nový** společně vydali do Alp. Honza, jakožto našeptávač adrenalinu, přiměl Františka vyzkoušet **via ferraty a klasické lezení**. 
 
-### 👨‍👩‍👧‍👦 Rozšiřování party
+Výsledek? Ficiho to natolik chytlo, že se stal vášnivým ferratistou a dnes jezdí po ferratách i sám. Jeho bratr **Dalibor (Dali)** však zůstal věrný klasické horské turistice – ferraty ho neoslovily, ale pokud jde o šlapání do kopce s batohem plným piv, nemá konkurenci.
 
-Parta původně jezdila jen asi **v šesti lidech**. Postupně se přidávali další členové:
 
-- **V roce 2021** se přidal **Jan Wimmer** (správce této kroniky)
-- **V roce 2022** Jan přivedl **Tondu Firýta a Radka Hackera** – oba zkušené lezce s vášní pro klasické lezení, kteří s námi od té doby jezdí každoročně
-- **V roce 2024** se poprvé připojila **Terka** (Františkova dcera) kde si i poprvé vyzkoušela ferraty, které ji okamžitě oslovily
-- **V roce 2025** Terka vzala i svého přítele **Ondru**, kterého potkala v roce 2024. Ondřej je vášnivý sportovec a hraje speciální sport – **podvodní hokej**!
-- Téhož roku 2025 se poprvé připojili i **Beata Sanvenero** (kamarádka Ádi Žaludové) a **František Eliáš** (kamarád Ládi Kasla)
+### 👨‍👩‍👧‍👦 Jak se naše řady rozrůstaly
+
+Původně naše parta čítala jen asi **šest skalních členů**. Postupně se ale nabalovali další skvělí lidé, až vznikla sestava, kterou znáte dnes.
+
+Zlomový byl **rok 2021**, kdy se přidal správce této kroniky, **Jan Wimmer**. Traduje se, že kudy chodil, tudy vyprávěl, jaké výšky zdolává. Až na skále zjistil, že má vlastně docela strach z výšek. I tak s námi zůstal a strach statečně překonává a nahrazuje ho nadšením pro techniku a dokumentaci (a nošením nejtěžšího batohu).
+
+O rok později, **v roce 2022**, dorazila velká posila humoru – bratránci **Tonda Firýt a Radek Hacker**. Od té doby jsou naše videa (k radosti střihače) plná jejich vtipných hlášek. Tým „mladých pušek“ kolem třicítky tehdy doplnil i **Kuba Fišar**.
+
+V **roce 2023** proběhla invaze klanu Žaludů. **Zdeněk Žalud** s sebou vzal rovnou celou rodinu: manželku **Petru** a dcery **Áďu s Terezkou**. Věkový průměr party směrem dolů pomohl udržet nováček **Petr Nový**.
+
+**Rok 2024** byl ve znamení rodinných vazeb. Náš organizátor František vzal během roku dceru **Terku Cihlářovou** cvičně vyzkoušet ferraty. Terku to chytlo tak moc, že se rovnou rozhodla jet s námi na velkou společnou dovolenou a od té doby je naší stálou členkou. Tonda ten rok přibral staršího bratra **Lukáše Firýta**, Zdeněk syna **Filipa** a Háňa kamarádku **Petru Čechránkovou**.
+
+V zatím posledním roce 2025 se kruh uzavírá a rozšiřuje o partnery a přátele. Terka přivedla přítele **Ondru** (vášnivý sportovec, hraje podvodní hokej a večery nám zpříjemňuje hrou na kytaru). Áďa vzala spolužačku **Beatu**, Tonda kamarádku **Páju** a Láďa svého parťáka **Františka Eliáše**.
+
 
 ### 🍺 Pivní tradice
 
@@ -370,13 +378,26 @@ S rostoucím počtem členů přibyly i další aktivity:
 
 ---
 
-## Naše filozofie
+## Naše filozofie:
 
 !!! quote "Co nás spojuje"
-    **Přátelství** - Nejdůležitější je vzájemná důvěra a podpora  
-    **Bezpečnost** - Nikdy neriskujeme víc, než je nutné  
-    **Respekt k přírodě** - Hory respektujeme a chráníme  
-    **Zážitky** - Nejsou důležité jen vrcholy, ale celá cesta
+    **🤝 Přátelství** - Vzájemná důvěra a podpora  
+        U nás znamená to, že tě nenecháme viset ve stěně samotného (většinou). Trpíme Radkův spam ve skupině, čekáme, až Fici dopiluje Excel, a věříme, že Honza ta videa sestříhá ještě před naší smrtí. 
+
+    **🛡️ Bezpečnost** - Nikdy neriskujeme víc, než je nutné  
+        Fungujeme v dynamické rovnováze mezi Tondovým "oštítkuj každý kámen" a Zdeňkovým "bolest je jen informace". A když všechno selže, máme Petru a Áďu, které nás sešijí dohromady.
+
+    **🧪 Respekt k přírodě** - Hory chráníme a nenecháváme tam odpadky  
+        Nejsme jen horolezci, jsme i výškoví badatelé. Díky obětavosti našich organizátorů (kteří ty vzorky táhnou na zádech) provádíme na každém vrcholu důležitý experiment: zkoumáme vliv piva z malých pivovarů na lidský organismus a motoriku v řídkém vzduchu. A hlavně: co si do hor vyneseme – od plných plechovek přes drony až po prázdné obaly – to si zase poctivě sneseme dolů.
+
+    **📸 Zážitky** - Nejsou důležité jen vrcholy, ale celá cesta  
+        Zážitek nemusí být pozitivní, hlavně že je silný! Ať už je to "éčková" ferrata, kde tuhne krev v žilách, nebo večerní "pohoda", po které bolí hlava. Důležité je dojít... a mít to vyfocené na Instagram.
+
+!!! quote "Naše destero (ve čtyřech bodech)"
+    1.  **Nikdo není pozadu** – ledaže by Radek zrovna levitoval napřed, nebo Honza měnil baterku v dronu.
+    2.  **Hydratace je základ** – ať už je to voda, pivo z malých várek, nebo Sunschiho „horský speciál“ (Gin&Tonic).
+    3.  **Bolest je volitelná** – pro Zdeňka a Jakuba výzva, pro zbytek důvod k zastávce na kochačku.
+    4.  **Plán je svatý (ale Excel snese všechno)** – Ficiho tabulky nás vedou, ale realita a počasí nás vychovávají.
 
 ## Statistiky týmu
 
