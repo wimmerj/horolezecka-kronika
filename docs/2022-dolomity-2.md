@@ -1,7 +1,6 @@
 # :flag_it: 2022 - Dolomity II.
 
 ![Dolomity 2022](images/2022/header.jpg){ width="100%" }
-*Cortina d'Ampezzo a okolí - červenec 2022*
 
 ---
 
@@ -10,8 +9,8 @@
 **Termín:** 18. - 25. června 2022  
 **Destinace:** Dolomity, Itálie  
 **Ubytování:** Alleghe, 32022 Provincie Belluno, Itálie  
-**Účastníci:** 30 členů  
-**Počasí:** :partly_sunny: Proměnlivé, bouřky (21.6.)
+**Účastníci zájezdu (16):** Fici, Dali, Hanz, Hanka, Já (Honza W.), Láďa, Petra, Kuba Fišar, Tonda Firýt, Radek Hacker, Fanda Ptáček, Kraclíci (3), Marek s Danou?  
+**Počasí:** :partly_sunny: Proměnlivé, včetně bouřek
 
 ---
 
@@ -19,27 +18,25 @@
 
 | Datum | Výstup | Výška | Obtížnost | Poznámka |
 |-------|--------|-------|-----------|----------|
-| 19.6. | Via Ferrata Lagazuoi + Sass de Rocia | - | B/C | Tunely + ferrata |
-| 20.6. | Marmolada | 3343 m | A/B | Ledovec + ferrata Nordgrat |
-| 21.6. | Via Ferrata dei Finanzieri | - | C | Za bouřky! ⚡ |
-| 22.6. | Via Ferrata degli Alleghesi Civetta | - | C | Extrémně dlouhá - 18 hodin! |
+| 19.6. | Via Ferrata Lagazuoi  + Sass de Rocia | - | B/C | Tunely + ferrata |
+| 20.6. | Marmolada | 3343 m.n.m | A/B | Ledovec + ferrata Nordgrat |
+| 21.6. | Ski Klub 18 Klettersteig  | 360m | D | Cliffhanger lodge za bouřky? |
+| 22.6. | Via Ferrata dei Finanzieri | - | C | Za bouřky! ⚡ |
+| 23.6. | Via Ferrata degli Alleghesi Civetta | - | C | Extrémně dlouhá - 18 hodin! |
+| 24.6. | Odpočinkový den? | - | - | Nemyslím si! |
 
 ---
 
 ## :hiking_boot: Den po dni
 
-### 📅 Neděle 19.6.2022 - Lagazuoi a Sass de Rocia
+### 📅 Neděle 19.6.2022 - Den 1
 
-**Ferraty:** Via Ferrata Lagazuoi (tunely) + Sass de Rocia (B/C)  
-**Obtížnost:** B/C  
-**Charakter:** Historické tunely z 1. sv. války + krásná ferrata
+**Ferraty:** Via Ferrata Lagazuoi + Sass de Rocia (B/C)  
 
 ![Lagazuoi a Sass de Rocia](images/2022/lagazuoi.jpg){ width="100%" }
 
-**Popis:** Úžasný zážitek! Via Ferrata Lagazuoi vede historickými **tunely z první světové války** vyraženými italskými vojáky. Poté jsme pokračovali na ferratu **Sass de Rocia** s krásnými výhledy na Dolomity.
-
-!!! info "Historický kontext"
-    Tunely byly vyraženy italskými vojáky během 1. světové války (1915-1918) jako strategické cesty skrz hory.
+**Popis:** Úžasný zážitek! Via Ferrata Lagazuoi vede historickými **tunely z první světové války** (1915-1918) vyraženými italskými vojáky jako strategické cesty skrz hory.  
+Poté jsme pokračovali na ferratu **Sass de Rocia** s krásnými výhledy na Dolomity.
 
 #### 🎬 Video z výstupu
 
@@ -51,19 +48,14 @@
 
 ---
 
-### 📅 Pondělí 20.6.2022 - Marmolada - Královna Dolomit
+### 📅 Pondělí 20.6.2022 - Den 2
 
-**Výstup:** Marmolada (3343 m)  
+**Výstup:** Marmolada *Královna Dolomit* (3343 m)  
 **Ferrata:** Marmolada Nordgrat Normalweg (A/B)  
-**Obtížnost:** A/B  
-**Charakter:** Ledovec + snadná ferrata
 
 ![Marmolada](images/2022/marmolada.jpg){ width="100%" }
 
-**Popis:** Výstup na **Marmoladu** (3343 m) - **nejvyšší horu Dolomit!** 🏔️ Cesta vede přes ledovec po ferratě "Marmolada Nordgrat Normalweg" (A/B). Jednoduchá ferrata, ale nezapomenutelný zážitek dosáhnout nejvyššího bodu Dolomit!
-
-!!! success "Královna Dolomit"
-    Marmolada je s výškou 3343 m nejvyšší horou celých Dolomit. Její ledovec je nejjižnějším ledovcem v Alpách.
+**Popis:** Výstup na **Marmoladu - nejvyšší horu Dolomit!** 🏔️ Cesta vede přes nejjižnější ledovec v Alpách a dále po ferratě. Jednoduchá ferrata, ale nezapomenutelný zážitek dosáhnout nejvyššího bodu Dolomit! Prý..
 
 #### 🎬 Video z výstupu
 
@@ -71,15 +63,28 @@
 
 ---
 
-### 📅 Úterý 21.6.2022 - Finanzieri za bouřky
+### 📅 Úterý 21.6.2022 - Den 3
+
+**Ferrata:** Ski Klub 18 Klettersteig (D)  
+**Podmínky:** ⚡ BOUŘKA! ⚡
+
+![Finanzieri](images/2022/den-3.jpg){ width="100%" }
+
+**Popis:** Extrémní ferrata E a ještě **za bouřky**! ⚡ Blesky, hromy, déšť - adrenalin na maximum. V blízkosti ferraty se nachází také Cliffhangerovo lodge.
+
+!!! danger "Nebezpečné podmínky"
+    Lezení na ferratě za bouřky je **extrémně nebezpečné** kvůli riziku zásahu bleskem! Nedělejte to, pokud to není nezbytně nutné.
+
+---
+
+### 📅 Středa 22.6.2022 - Den 4
 
 **Ferrata:** Via Ferrata dei Finanzieri (C)  
-**Obtížnost:** C  
-**Podmínky:** ⚡ BOUŘKA! ⚡
 
 ![Finanzieri](images/2022/finanzieri.jpg){ width="100%" }
 
-**Popis:** Extrémní zážitek! Absolvovali jsme Via Ferrata dei Finanzieri **za bouřky**! ⚡ Blesky, hromy, déšť - adrenalin na maximum. Ferrata je pojmenovaná po italské finanční stráži (Guardia di Finanza), která tyto hory hlídala.
+**Popis:** Absolvovali jsme Via Ferrata dei Finanzieri, pozorovali jsme jak se k nám blíží bouřka a museli jsme lézt dál, protože na ferratě jak chytneš první skobu už není cesty zpět.  
+Ferrata je pojmenovaná po italské finanční stráži (Guardia di Finanza), která tyto hory hlídala.
 
 !!! danger "Nebezpečné podmínky"
     Lezení na ferratě za bouřky je **extrémně nebezpečné** kvůli riziku zásahu bleskem! Nedělejte to, pokud to není nezbytně nutné.
@@ -90,20 +95,19 @@
 
 ---
 
-### 📅 Středa 22.6.2022 - Alleghesi Civetta - Megamaraton
+### 📅 Čtvrtek 23.6.2022 - Den 5
 
-**Ferrata:** Via Ferrata degli Alleghesi Civetta (C)  
-**Obtížnost:** C  
+**Ferrata:** Via Ferrata degli Alleghesi Civetta (C) - *Megamaraton*  
 **Čas:** ⏰ **18 HODIN!** ⏰
 
 ![Alleghesi Civetta](images/2022/civetta.jpg){ width="100%" }
 
-**Popis:** Nezapomenutelný (a vyčerpávající!) den! Via Ferrata degli Alleghesi na Civettě nám vzala celých **18 hodin výstupu a sestupu**! 🥵 Jedna z nejdelších a nejnáročnějších ferrat v Dolomitách. 
+**Popis:** Nezapomenutelný (a vyčerpávající!) den! Via Ferrata degli Alleghesi na Civettě nám vzala celých **18 hodin výstupu a sestupu**! 🥵 Jedna z nejdelších a nejnáročnějších ferrat v Dolomitách *a v našich životech*. 
 
 Ferrata je pojmenovaná po obyvatelích města **Alleghe** (kde jsme byli ubytovaní). Civetta (3220 m) je známá svou masivní severozápadní stěnou - jednou z největších stěn v Alpách.
 
 !!! warning "Extrémně dlouhá ferrata"
-    Tato ferrata vyžaduje vynikající fyzickou kondici a dobré časové plánování. 18 hodin v horách je extrémně náročné!
+    Tato ferrata vyžaduje vynikající fyzickou kondici a dobré časové plánování. 18 hodin v horách je extrémně náročné! Lepší je ji jít dva dny jak to dělají normální lidé!
 
 #### 🎬 Video z výstupu
 
@@ -111,15 +115,9 @@ Ferrata je pojmenovaná po obyvatelích města **Alleghe** (kde jsme byli ubytov
 
 ---
 
-## :camera: Fotografie z výpravy
-
-**Poznámka:** V sekci "Den po dni" výše najdete fotografie a videa pro každý den výpravy.
-
----
-
 ## :link: Kompletní fotogalerie
 
-!!! success "Online galerie"
+!!! success "Online galerie - odkazy jsou zatím neplatné"
     **Google Drive:** [Dolomity 2022 - II. výprava](https://drive.google.com/drive/folders/example2022)  
     *(392 fotografií, 3.8 GB)*
     
@@ -130,16 +128,16 @@ Ferrata je pojmenovaná po obyvatelích města **Alleghe** (kde jsme byli ubytov
 ## :memo: Zážitky a vzpomínky
 
 !!! quote "Nezapomenutelné momenty"
-    Zážitky a vzpomínky členů týmu budou doplněny později.
+    Minimálně pět lidí si tam zlomilo minimálně jednu trekovou hůlku!
 
 ### Statistiky výpravy
 
 | Kategorie | Hodnota |
 |-----------|---------|
-| **Účastníci** | 30 členů |
+| **Účastníci** | 16? členů |
 | **Nejvyšší bod** | 3343 m (Marmolada) |
-| **Počet výstupů** | 4 |
-| **Počet ferrat** | 4 |
+| **Počet výstupů** | 5 |
+| **Počet ferrat** | 6 |
 | **Celkem nastoupáno** | |
 | **Průměrný čas výstupu** | |
 

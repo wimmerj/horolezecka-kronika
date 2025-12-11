@@ -48,13 +48,13 @@ plugins:
       width: 90%
       height: 90%
 
-  - encryptcontent:
-      title_prefix: '[🔒] '
-      summary: 'Tato stránka je chráněna heslem.'
-      placeholder: 'Zadejte heslo'
-      decryption_failure_message: 'Nesprávné heslo!'
-      encryption_info_message: 'Pro zobrazení obsahu zadejte heslo.'
-      global_password: 'Alpy2026'
+  # - encryptcontent:
+  #     title_prefix: '[🔒] '
+  #     summary: 'Tato stránka je chráněna heslem.'
+  #     placeholder: 'Zadejte heslo'
+  #     decryption_failure_message: 'Nesprávné heslo!'
+  #     encryption_info_message: 'Pro zobrazení obsahu zadejte heslo.'
+  #     global_password: 'Alpy2026'
 
 # Rozšíření Markdown
 markdown_extensions:
