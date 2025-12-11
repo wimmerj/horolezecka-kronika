@@ -1,6 +1,6 @@
 # :flag_it: 2024 - Itálie (Ledro II)
 
-![Lago di Ledro 2024](images/2024/header.jpg){ width="100%" }
+![Lago di Ledro 2024](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765050611/IMG-20240620-WA0106_jhkgck.jpg){ width="100%" }
 *Návrat k jezeru Ledro - září 2024*
 
 ---
@@ -36,7 +36,7 @@
 **Obtížnost:** B/C  
 **Charakter:** Ferrata přátelství
 
-![Via dell'Amicizia](images/2024/amicizia.jpg){ width="100%" }
+![Via dell'Amicizia](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765050722/IMG-20240618-WA0157_oaudra.jpg){ width="100%" }
 
 **Popis:** Krásná ferrata s názvem "Přátelství". Středně náročná trasa s krásnými výhledy na jezero Ledro. Ideální vstup do týdne plného lezení.
 
@@ -47,9 +47,9 @@
 **Ferraty:** Ferrata di Preore "Sentiero Artpinistico" (C) + Signora delle Acque (D)  
 **Obtížnost:** C + D
 
-![Ferrata di Preore](images/2024/preore.jpg){ width="100%" }
+![Ferrata di Preore](ttps://res.cloudinary.com/dfumk4ec0/image/upload/v1765050699/IMG-20240617-WA0199_bsuxld.jpg){ width="100%" }
 
-![Signora delle Acque](images/2024/signora-acque.jpg){ width="100%" }
+![Signora delle Acque](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765050655/IMG-20240617-WA0168_qamtrv.jpg){ width="100%" }
 
 **Popis:** Náročný den se dvěma ferratami! Začali jsme na Ferratě di Preore s obtížností C, která je známá jako "Umělecká stezka". Odpoledne jsme se přesunuli na náročnější ferratu **Signora delle Acque** (D) - "Paní vod", která nabízí krásné výhledy a technické pasáže.
 
@@ -60,7 +60,7 @@
 **Vrcholy:** Cima Verde (2102 m) → Dos d'Abramo (2140 m) → Monte Bondone (2180 m)  
 **Ferrata:** Via attrezzata Giulio Segata (F) - pro nejzdatnější
 
-![Tři vrcholy](images/2024/tri-vrcholy.jpg){ width="100%" }
+![Tři vrcholy](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765050632/IMG-20240618-WA0106_ac77fh.jpg){ width="100%" }
 
 **Popis:** Megadenní! Absolvovali jsme tři vrcholy:
 
@@ -78,7 +78,7 @@
 **Ferrata:** Ernesto Che Guevara Klettersteig (C)  
 **Obtížnost:** C
 
-![Che Guevara](images/2024/che-guevara.jpg){ width="100%" }
+![Che Guevara](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765050597/IMG-20240620-WA0029_tpiqnt.jpg){ width="100%" }
 
 **Popis:** Ferrata pojmenovaná po Ernesto "Che" Guevara. Krásná středně náročná trasa s historickým nádechem.
 
@@ -89,7 +89,7 @@
 **Lokalita:** Casto Klettersteig Park  
 **Obtížnost:** C až F (různé trasy)
 
-![Casto Park Den 1](images/2024/casto-park-1.jpg){ width="100%" }
+![Casto Park Den 1](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765050674/IMG-20240621-WA0035_mjdvbo.jpg){ width="100%" }
 
 **Popis:** První den v moderním lezeckém parku Casto. Park nabízí trasy různých obtížností od C po extrémní F. Každý si vybral podle svých schopností a zkušeností.
 
@@ -100,7 +100,7 @@
 **Lokalita:** Casto Klettersteig Park  
 **Obtížnost:** C až F (různé trasy)
 
-![Casto Park Den 2](images/2024/casto-park-2.jpg){ width="100%" }
+![Casto Park Den 2](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765050654/IMG-20240621-WA0055_usb2qh.jpg){ width="100%" }
 
 **Popis:** Druhý den v parku Casto. Pokračovali jsme v objevování různých tras. Někteří se zaměřili na technické pasáže, jiní si vyzkoušeli náročnější obtížnosti.
 

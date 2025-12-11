@@ -1,6 +1,6 @@
 # :flag_si: 2025 - Slovinsko
 
-![Slovinsko 2025](images/2025/header.jpg){ width="100%" }
+![Slovinsko 2025](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765491674/header_c38hrc.jpg){ width="100%" }
 *Julské Alpy, červen 2025*
 
 ---
@@ -46,7 +46,7 @@ Dorazili jsme do našeho ubytování Kranjska Gora v Julských Alpách. Po dlouh
 **Obtížnost:** T3  
 **Typ:** První společná túra
 
-![Ciprnik](images/2025/ciprnik.jpg){ width="100%" }
+![Ciprnik](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765491680/ciprnik_rqst4f.jpg){ width="100%" }
 
 **Popis:** První společná výprava celého týmu! Všichni jsme vyrazili na Ciprnik (1747 m) a ti nejlepší z nás pokračovali dále až na **Visoka peč (1749 m)**. Skvělý rozcvičovací výstup s krásnými výhledy na Julské Alpy.
 
@@ -62,7 +62,7 @@ Dorazili jsme do našeho ubytování Kranjska Gora v Julských Alpách. Po dlouh
 **Délka:** ~15 km soutěskou  
 **Obtížnost:** T2
 
-![Soutěska Soči](images/2025/soca-soutezka.jpg){ width="100%" }
+![Soutěska Soči](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765491678/soca-soutezka_uuk7fa.jpg){ width="100%" }
 
 **Popis:** Navštívili jsme **pramen řeky Soča** – jedno z nejkrásnějších míst ve Slovinsku. Od pramene jsme se vydali na asi **15km procházku soutěskou** této smaragdově zelené řeky. Nádherná turkyzová barva vody a mohutné skály vytvářely úchvatnou scenérii.
 
@@ -74,7 +74,7 @@ Dorazili jsme do našeho ubytování Kranjska Gora v Julských Alpách. Po dlouh
 **Výška:** 2864 m  
 **Obtížnost:** PD až E (podle cesty)
 
-![Triglav](images/2025/triglav.jpg){ width="100%" }
+![Triglav](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765491672/triglav_pzep3t.jpg){ width="100%" }
 
 **Popis:** Hlavní vrchol naší výpravy! Byli jsme rozděleni do **tří skupin** podle obtížnosti:
 
@@ -105,7 +105,7 @@ Dorazili jsme do našeho ubytování Kranjska Gora v Julských Alpách. Po dlouh
 **Aktivita:** Relax a vodní sporty  
 **Místo:** Horské jezero
 
-![Jezero](images/2025/jezero.jpg){ width="100%" }
+![Jezero](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765491671/jezero_yjvyfb.jpg){ width="100%" }
 
 **Popis:** Zasloužený odpočinkový den po náročném výstupu na Triglav. **Tonda s Pájou (Pavlou)** jezdili na **paddleboardech** a také **sjeli kus řeky**. Ostatní relaxovali u vody, koupali se a nabírali síly na další dny.
 
@@ -116,7 +116,7 @@ Dorazili jsme do našeho ubytování Kranjska Gora v Julských Alpách. Po dlouh
 **Aktivita:** 4 via ferraty  
 **Obtížnost:** 3× C, 1× E
 
-![Ferraty](images/2025/ferraty.jpg){ width="100%" }
+![Ferraty](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765491673/ferraty_wajiim.jpg){ width="100%" }
 
 **Popis:** Den věnovaný via ferratám! Tým byl rozdělen podle zkušeností:
 
@@ -140,7 +140,7 @@ Nejzdatnější z nás si dali ještě **čtvrtou ferratu obtížnosti E** – e
 **Ferrata:** Hanzova pot (B/C)  
 **Obtížnost:** Komplikace - led!
 
-![Mala Mojstrovka](images/2025/mala-mojstrovka.jpg){ width="100%" }
+![Mala Mojstrovka](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765492012/mala-mojstrovka_rcvef2.jpg){ width="100%" }
 
 **Popis:** Plánovali jsme společný výstup přes ferratu **Hanzova pot (B/C)**, ale na místě jsme zjistili, že **velká část lana je pod ledem**! 
 

@@ -1,6 +1,6 @@
 # :flag_it: Expedice Dolomity 2021
 
-![Dolomity 2021](images/2021/header.jpg){ width="100%" }
+![Dolomity 2021](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_1080,c_limit/v1765025168/Dolomity_45__2_nplkk5.jpg){ width="100%" }
 *Naše první společná výprava do Dolomit - červen 2021*
 
 ---
@@ -41,7 +41,7 @@ Vyrazili jsme klasicky "od soboty do soboty" na konci června. Naivní představ
 
 **Výstup:**  Via Ferrata Lagazuoi (B/C) – Tunely času  
 
-![Den 1](images/2021/den-1.jpg){ width="100%" }
+![Den 1](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_1080,c_limit/v1765025243/Dolomity_371__2_qe2kbf.jpg){ width="100%" }
 
 **Popis:** Na úvod jsme zvolili historicky zajímavou ferratu Lagazuoi. Zvláštností je průlez starými vojenskými tunely plnými zrezlé techniky z první světové války.
 K našemu překvapení nás přivítalo množství sněhu. K tunelům se po úzkém zasněženém hřebenu odvážili jen ti statečnější z nás. Samotné tunely byly ledovou skluzavkou – jelikož jsme jimi klesali zpět k nástupu, adrenalin stoupal úměrně s klouzavostí podrážek.
@@ -52,7 +52,7 @@ K našemu překvapení nás přivítalo množství sněhu. K tunelům se po úzk
 
 **Výstup:** Trincee Klettersteig (C/D) – Můj osobní křest  
 
-![Den 2](images/2021/den-2.jpg){ width="100%" }
+![Den 2](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_1080,c_limit/v1765025256/Dolomity_592__2_tj5q5z.jpg){ width="100%" }
 
 **Popis:** Pro mě to byla tehdy nejtěžší ferrata v životě. Trincee ve mně zanechala hlubokou rýhu (obrazně i doslova). Nádherná, ale exponovaná cesta s dlouhými pasážemi po úzkém hřebeni. Vlevo propast, vpravo propast a před vámi jen dechberoucí výhled na ledovec Marmolady. Tady jsem pochopil, že ferraty nejsou jen o síle, ale hlavně o hlavě.
 
@@ -62,7 +62,7 @@ K našemu překvapení nás přivítalo množství sněhu. K tunelům se po úzk
 
 **Výstup:** Boeseekofel (C/D) – Operace Paracord  
 
-![Den 3](images/2021/den-3.jpg){ width="100%" }
+![Den 3](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_1080,c_limit/v1765025227/Dolomity_145__2_rtlh2n.jpg){ width="100%" }
 
 **Popis:** Na tuhle výpravu jsme vyrazili v plné polní – všichni, včetně slabších lezců a nelezců. Plán byl geniální: „Dojdeme pod těžký úsek, my lezci si dáme C/D a vy ostatní to obejdete lehkou sestupovkou.“  
 
@@ -82,7 +82,7 @@ Naštěstí jsme měli paracord (tenkou šňůrku, které normální člověk sv
 
 **Výstup:** Piz Boe – Útěk před hněvem bohů  
 
-![Den 4](images/2021/den-4.jpg){ width="100%" }
+![Den 4](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_1080,c_limit/v1765025264/Dolomity_766__2_zgtgac.jpg){ width="100%" }
 
 **Popis:** Zatímco lezecká sekce brousila těžkou ferratu, já jsem (poučen z předchozích dnů) zvolil turistickou trasu. Panoramata byla úchvatná, ale cesta brutální – strmé stoupání po štěrku a následné brodění sněhem.  
 
@@ -94,7 +94,7 @@ Těsně pod vrcholem se nebe zatáhlo a přišla silná bouřka. Jelikož mám z
 
 **Výstup:** Odpočinek vs. Magnifici 4 (Obtížnost E)  
 
-![Den 5](images/2021/den-5.jpg){ width="100%" }
+![Den 5](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_1080,c_limit/v1765025249/Dolomity_440__2_rcbytc.jpg){ width="100%" }
 
 **Popis:** Moje nohy vyhlásily stávku. Bolest svalů a kolen byla taková, že jsem si naordinoval "Day Off". Zbytek nezmarů (Fici a Honza N.) vyrazili na Magnifici 4 – extrémně těžkou ferratu. Nelezci si dali výstup po sestupovce a nahoře se všichni setkali. Já jsem jim fandil... vodorovně z postele.
 
@@ -104,7 +104,7 @@ Těsně pod vrcholem se nebe zatáhlo a přišla silná bouřka. Jelikož mám z
 
 **Výstup:** Lichtenfelser weg (A/B) – Rozlučka  
 
-![Den 6](images/2021/den-6.jpg){ width="100%" }
+![Den 6](https://res.cloudinary.com/dfumk4ec0/image/upload/f_auto,q_auto,w_1080,c_limit/v1765025266/Dolomity_858__2_mo9opw.jpg){ width="100%" }
 
 **Popis:** Na závěr jsme si dali společnou "procházku" po Lichtenfelser weg. Spíše zajištěná cesta než ferrata, ideální na doražení posledních zbytků sil. Po návratu domů jsem potřeboval další dva týdny dovolené na rekonvalescenci kolen.
 

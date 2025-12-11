@@ -1,6 +1,6 @@
 # :flag_it: 2023 - Itálie (Ledro I.)
 
-![Lago di Ledro 2023](images/2023/header.jpg){ width="100%" }
+![Lago di Ledro 2023](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765038913/IMG_20230617_155447_2_1__2_litixl.jpg){ width="100%" }
 *První návštěva jezera Ledro - srpen 2023*
 
 ---
@@ -41,7 +41,7 @@
     **Čas:** Celý den  
     **Obtížnost:** B  
 
-![Susatti + Foletti](images/2023/den-1.jpg){ width="100%" }
+![Susatti + Foletti](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765038929/IMG_20230618_140236_2_2_dcxeaz.jpg){ width="100%" }
 
 **Popis:** Krásná okružní trasa kolem jezera Ledro s dvěma ferratami. Start z Biacesa di Ledro, přes Susatti riva na vrcholy Cima Capi a Cima Rocca. Nocleh v Bivacco Arcioni, sestup po silnici zpět.
 
@@ -57,7 +57,7 @@
     **Obtížnost:** E (velmi náročná!)  
     **Charakter:** Technicky náročná ferrata s exponovanými pasážemi  
 
-![Rino Pisetta](images/2023/den-2.jpg){ width="100%" }
+![Rino Pisetta](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765038932/IMG_20230619_103305_2_wvnklg.jpg){ width="100%" }
 
 **Popis:** Via Ferrata Rino Pisetta patří mezi nejnáročnější ferraty v oblasti. Vyžaduje dobrou fyzickou kondici a techniku. Exponované pasáže a vertikální stěny.
 
@@ -73,9 +73,9 @@
     2. **Cascata Rio Ruzza** (C/D) - ferrata u vodospádů
     3. **Ferrata Signora delle Acque** (C/D) - "Paní vod"
 
-![Monte Cadria](images/2023/den-3.jpg){ width="100%" }
+![Monte Cadria](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765038967/IMG_20230621_103453_2_2_yb19ur.jpg){ width="100%" }
 
-![Cascata Rio Ruzza](images/2023/den-3_2.jpg){ width="100%" }
+![Cascata Rio Ruzza](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765038994/IMG_20230621_163443_2_2_rc06m1.jpg){ width="100%" }
 
 **Popis:** Náročný den kombinující vysoký vrchol s následnou trojicí ferrat. Cascata Rio Ruzza vede podél vodospádů a nabízí osvěžení v horkém dni.
 
@@ -91,7 +91,7 @@
     **Obtížnost:** C až F (různé trasy)  
     **Charakter:** Moderní lezecký park s multiplat trasami  
 
-![Casto Klettersteig Park](images/2023/den-4.jpg){ width="100%" }
+![Casto Klettersteig Park](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765038947/IMG_20230620_113147_2_2_oyvnmn.jpg){ width="100%" }
 
 **Popis:** Casto Klettersteig Park nabízí trasy různých obtížností od C po extrémní F. Každý si může vybrat podle svých schopností. Moderní jistící systémy a skvele zajištěné trasy.
 
@@ -108,7 +108,7 @@
     **Obtížnost:** C  
     **Charakter:** Středně náročná ferrata v parku  
 
-![Stretta di Luina](images/2023/den-5.jpg){ width="100%" }
+![Stretta di Luina](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765038953/IMG_20230620_142607_1__2_uxjov5.jpg){ width="100%" }
 
 **Popis:** Další trasa v rámci parku Casto. Krásná ferrata ve stěně, ideální pro horké dny.
 
@@ -121,7 +121,7 @@
     **Obtížnost:** PD+  
     **Charakter:** Vysoký alpský vrchol  
 
-![Cima Cop di Breguzzo](images/2023/den-6.jpg){ width="100%" }
+![Cima Cop di Breguzzo](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765039004/IMG_20230622_143924_2_rjbpnv.jpg){ width="100%" }
 
 **Popis:** Megavýstup na závěr! Cima Cop di Breguzzo je impozantní třítisícovka s nádhernými výhledy na celé Trentino. Závěrečná tečka za skvělým týdnem.
 

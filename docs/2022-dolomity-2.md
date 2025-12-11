@@ -1,6 +1,6 @@
 # :flag_it: 2022 - Dolomity II.
 
-![Dolomity 2022](images/2022/header.jpg){ width="100%" }
+![Dolomity 2022](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765034199/IMG_20220623_072131_3_2_hpjumu.jpg){ width="100%" }
 
 ---
 
@@ -33,7 +33,7 @@
 
 **Ferraty:** Via Ferrata Lagazuoi + Sass de Rocia (B/C)  
 
-![Lagazuoi a Sass de Rocia](images/2022/lagazuoi.jpg){ width="100%" }
+![Lagazuoi a Sass de Rocia](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765034181/IMG_20220618_161913_2_2_y1geq4.jpg){ width="100%" }
 
 **Popis:** Úžasný zážitek! Via Ferrata Lagazuoi vede historickými **tunely z první světové války** (1915-1918) vyraženými italskými vojáky jako strategické cesty skrz hory.  
 Poté jsme pokračovali na ferratu **Sass de Rocia** s krásnými výhledy na Dolomity.
@@ -53,7 +53,7 @@ Poté jsme pokračovali na ferratu **Sass de Rocia** s krásnými výhledy na Do
 **Výstup:** Marmolada *Královna Dolomit* (3343 m)  
 **Ferrata:** Marmolada Nordgrat Normalweg (A/B)  
 
-![Marmolada](images/2022/marmolada.jpg){ width="100%" }
+![Marmolada](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765034247/P_20220620_120647_2_psy9xl.jpg){ width="100%" }
 
 **Popis:** Výstup na **Marmoladu - nejvyšší horu Dolomit!** 🏔️ Cesta vede přes nejjižnější ledovec v Alpách a dále po ferratě. Jednoduchá ferrata, ale nezapomenutelný zážitek dosáhnout nejvyššího bodu Dolomit! Prý..
 
@@ -68,7 +68,7 @@ Poté jsme pokračovali na ferratu **Sass de Rocia** s krásnými výhledy na Do
 **Ferrata:** Ski Klub 18 Klettersteig (D)  
 **Podmínky:** ⚡ BOUŘKA! ⚡
 
-![Finanzieri](images/2022/den-3.jpg){ width="100%" }
+![Finanzieri](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765034194/IMG_20220622_134946_2_km2kgp.jpg){ width="100%" }
 
 **Popis:** Extrémní ferrata E a ještě **za bouřky**! ⚡ Blesky, hromy, déšť - adrenalin na maximum. V blízkosti ferraty se nachází také Cliffhangerovo lodge.
 
@@ -81,7 +81,7 @@ Poté jsme pokračovali na ferratu **Sass de Rocia** s krásnými výhledy na Do
 
 **Ferrata:** Via Ferrata dei Finanzieri (C)  
 
-![Finanzieri](images/2022/finanzieri.jpg){ width="100%" }
+![Finanzieri](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765034263/P_20220621_133411_2_wynowr.jpg){ width="100%" }
 
 **Popis:** Absolvovali jsme Via Ferrata dei Finanzieri, pozorovali jsme jak se k nám blíží bouřka a museli jsme lézt dál, protože na ferratě jak chytneš první skobu už není cesty zpět.  
 Ferrata je pojmenovaná po italské finanční stráži (Guardia di Finanza), která tyto hory hlídala.
@@ -100,7 +100,7 @@ Ferrata je pojmenovaná po italské finanční stráži (Guardia di Finanza), kt
 **Ferrata:** Via Ferrata degli Alleghesi Civetta (C) - *Megamaraton*  
 **Čas:** ⏰ **18 HODIN!** ⏰
 
-![Alleghesi Civetta](images/2022/civetta.jpg){ width="100%" }
+![Alleghesi Civetta](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765034213/P_20220623_140948_2_zkyp3m.jpg){ width="100%" }
 
 **Popis:** Nezapomenutelný (a vyčerpávající!) den! Via Ferrata degli Alleghesi na Civettě nám vzala celých **18 hodin výstupu a sestupu**! 🥵 Jedna z nejdelších a nejnáročnějších ferrat v Dolomitách *a v našich životech*. 
 

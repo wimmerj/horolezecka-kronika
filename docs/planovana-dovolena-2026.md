@@ -1,6 +1,6 @@
 # :calendar: Plánovaná dovolená 2026
 
-![Plánovaná destinace](images/2026/header.jpg){ width="100%" }
+![Plánovaná destinace](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765492219/header_a99i39.jpg){ width="100%" }
 
 ---
 
@@ -28,6 +28,8 @@ Plánujeme výpravu do švýcarských Alp. Základnou bude horský resort Pradas
 
 #### Apartmány
 
+![Apartmány](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765492223/apartment_xp9s14.png){ width="300" data-gallery="apartments" }
+
 Máme rezervaci na **5 apartmánů**. Každý apartmán nabízí:
 
 - :white_check_mark: 3 místnosti po 2 lůžkách (kapacita 6 osob na apartmán)
@@ -41,15 +43,15 @@ Máme rezervaci na **5 apartmánů**. Každý apartmán nabízí:
 
 <div class="grid" markdown>
 
-![Apartmán 1](images/2026/apartment-1.png){ width="300" data-gallery="apartments" }
+![Apartmán 1](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765492221/apartment-1_jbyotx.png){ width="300" data-gallery="apartments" }
 
-![Apartmán 2](images/2026/apartment-2.png){ width="300" data-gallery="apartments" }
+![Apartmán 2](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765492224/apartment-2_x4rchn.png){ width="300" data-gallery="apartments" }
 
-![Apartmán 3](images/2026/apartment-3.png){ width="300" data-gallery="apartments" }
+![Apartmán 3](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765492222/apartment-3_coqqot.png){ width="300" data-gallery="apartments" }
 
-![Apartmán 4](images/2026/apartment-4.png){ width="300" data-gallery="apartments" }
+![Apartmán 4](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765492225/apartment-4_dkl5q8.png){ width="300" data-gallery="apartments" }
 
-![Apartmán 5](images/2026/apartment-5.png){ width="300" data-gallery="apartments" }
+![Apartmán 5](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765492228/apartment-5_eehmwj.png){ width="300" data-gallery="apartments" }
 
 </div>
 

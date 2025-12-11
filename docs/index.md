@@ -1,6 +1,6 @@
 # :mountain: Vítejte v naší horolezecké kronice!
 
-![Úvodní fotka](images/uvod-hero.jpg){ width="100%" }
+![Úvodní fotka](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493216/uvod-hero_wgdwhy.jpg){ width="100%" }
 
 ---
 #### 🎬 Nově aktualizováno!
@@ -66,7 +66,7 @@ Tyto stránky slouží jako **kronika našich společných zážitků** z vysoko
 
 Objevujeme krásné horské scenérie a zdoláváme vrcholy Alp. Od rodinných túr po náročné vysokohorské výstupy.
 
-![Horská turistika](images/aktivity/turistika-kolaz.png){ width="100%" data-gallery="turistika" }
+![Horská turistika](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493212/turistika-kolaz_xei11d.png){ width="100%" data-gallery="turistika" }
 
 ---
 
@@ -76,9 +76,9 @@ Adrenalinové ferraty, exponované pasáže a klasické lezecké cesty jsou naš
 
 <div class="grid" markdown>
 
-![Lezení 1](images/aktivity/lezeni-1.png){ width="400" data-gallery="lezeni" }
+![Lezení 1](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493213/lezeni-1_pxpxmr.png){ width="400" data-gallery="lezeni" }
 
-![Lezení 2](images/aktivity/lezeni-2.png){ width="400" data-gallery="lezeni" }
+![Lezení 2](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493210/lezeni-2_ycumf0.png){ width="400" data-gallery="lezeni" }
 
 </div>
 
@@ -88,7 +88,7 @@ Adrenalinové ferraty, exponované pasáže a klasické lezecké cesty jsou naš
 
 Po náročných výstupech si zaslouženě odpočíváme u jezer, na paddleboardech nebo v horských chatách.
 
-![Relax](images/aktivity/relax-kolaz.png){ width="100%" data-gallery="relax" }
+![Relax](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493208/relax-kolaz_dagiix.png){ width="100%" data-gallery="relax" }
 
 ---
 

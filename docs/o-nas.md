@@ -50,7 +50,7 @@ S rostoucím počtem členů přibyly i další aktivity:
 ## 👨‍👩‍👧‍👦 Organizační tým
 
 <div class="team-member">
-    <img src="../images/team/fici.png" alt="Fici">
+    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493534/fici_il2nyn.png" alt="Fici">
     <div class="team-member-content">
         <h3>🧗‍♀️ František Cihlář "Fici"</h3>
         <p><strong>Role:</strong> Generální ředitel zájezdu<br>
@@ -65,7 +65,7 @@ S rostoucím počtem členů přibyly i další aktivity:
 ---
 
 <div class="team-member">
-    <img src="../images/team/dali.png" alt="Dali">
+    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493487/dali_uhmqvm.png" alt="Dali">
     <div class="team-member-content">
         <h3>🥾 Dalibor Cihlář "Dali"</h3>
         <p><strong>Role:</strong> Lovčí a pivní someliér<br>
@@ -77,7 +77,7 @@ S rostoucím počtem členů přibyly i další aktivity:
 ---
 
 <div class="team-member">
-    <img src="../images/team/jan-novy.png" alt="Jan Nový">
+    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493510/jan-novy_ox4ujd.png" alt="Jan Nový">
     <div class="team-member-content">
         <h3>🧗‍♀️ Jan Nový</h3>
         <p><strong>Role:</strong> Ghost Rider & Rumový guru<br>
@@ -89,7 +89,7 @@ S rostoucím počtem členů přibyly i další aktivity:
 ---
 
 <div class="team-member">
-    <img src="../images/team/hanka.png" alt="Hanka Holíková">
+    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493531/hanka_zm8kcr.png" alt="Hanka Holíková">
     <div class="team-member-content">
         <h3>🥾 Hanka Holíková</h3>
         <p><strong>Role:</strong> Strážkyně žaludků<br>
@@ -103,7 +103,7 @@ S rostoucím počtem členů přibyly i další aktivity:
 ## 👥 Ostatní členové týmu
 
 <div class="team-member">
-    <img src="../images/team/terka.png" alt="Terka">
+    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493506/terka_c6klie.png" alt="Terka">
     <div class="team-member-content">
         <h3>🧗‍♀️ Tereza Cihlářová "Terka"</h3>
         <p><strong>Role:</strong> Energetická smršť<br>
@@ -115,7 +115,7 @@ S rostoucím počtem členů přibyly i další aktivity:
 ---
 
 <div class="team-member">
-    <img src="../images/team/ondrej.png" alt="Ondřej">
+    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493496/ondrej_wn9myb.png" alt="Ondřej">
     <div class="team-member-content">
         <h3>🧗‍♀️ Ondřej Macek</h3>
         <p><strong>Role:</strong> Kulturní referent & Obojživelník<br>
@@ -127,7 +127,7 @@ S rostoucím počtem členů přibyly i další aktivity:
 ---
 
 <div class="team-member">
-    <img src="../images/team/alice.png" alt="Alice">
+    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493485/alice_rrcwh7.png" alt="Alice">
     <div class="team-member-content">
         <h3>🧗‍♀️ Alice</h3>
         <p><strong>Role:</strong> Vertikální tanečnice<br>
@@ -139,7 +139,7 @@ S rostoucím počtem členů přibyly i další aktivity:
 ---
 
 <div class="team-member">
-    <img src="../images/team/pavla.png" alt="Pavla">
+    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493498/pavla_j5lko2.png" alt="Pavla">
     <div class="team-member-content">
         <h3>🏄‍♂ Pavla Ronovská "Pája"</h3>
         <p><strong>Role:</strong> Vodní živel<br>
@@ -151,7 +151,7 @@ S rostoucím počtem členů přibyly i další aktivity:
 ---
 
 <div class="team-member">
-    <img src="../images/team/petra-cech.png" alt="Petra">
+    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493545/petra-cech_cqtjqv.png" alt="Petra">
     <div class="team-member-content">
         <h3>🥾 Petra Čechránková</h3>
         <p><strong>Role:</strong> Krušnohorská spojka & Horal-chodec<br>
@@ -163,7 +163,7 @@ S rostoucím počtem členů přibyly i další aktivity:
 ---
 
 <div class="team-member">
-    <img src="../images/team/tonda-firyt.png" alt="Tonda Firýt">
+    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493522/tonda-firyt_vrrbxa.png" alt="Tonda Firýt">
     <div class="team-member-content">
         <h3>🧗‍♀️ Antonín Firýt "Tonda"</h3>
         <p><strong>Role:</strong> Admin WhatsAppu & Pán Bezpečnosti<br>
@@ -175,7 +175,7 @@ S rostoucím počtem členů přibyly i další aktivity:
 ---
 
 <div class="team-member">
-    <img src="../images/team/radek-hacker.png" alt="Radek Hacker">
+    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493504/radek-hacker_rj3doy.png" alt="Radek Hacker">
     <div class="team-member-content">
         <h3>🧗‍♀️ Radek Hacker</h3>
         <p><strong>Role:</strong> Hlavní spammer & Vrchařská muší váha<br>
@@ -187,7 +187,7 @@ S rostoucím počtem členů přibyly i další aktivity:
 ---
 
 <div class="team-member">
-    <img src="../images/team/jan-wimmer.png" alt="Jan Wimmer">
+    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493535/jan-wimmer_epmqgi.png" alt="Jan Wimmer">
     <div class="team-member-content">
         <h3>🧑‍💻 Jan Wimmer</h3>
         <p><strong>Role:</strong> Webmaster & Šerpa elektrotechniky<br>
@@ -199,7 +199,7 @@ S rostoucím počtem členů přibyly i další aktivity:
 ---
 
 <div class="team-member">
-    <img src="../images/team/frantisek-ptacek.png" alt="František Ptáček">
+    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493491/frantisek-ptacek_hnmhed.png" alt="František Ptáček">
     <div class="team-member-content">
         <h3>🚴‍♂️ František Ptáček "Fanda"</h3>
         <p><strong>Role:</strong> Emeritní náčelník & Šéfkuchař<br>
@@ -211,7 +211,7 @@ S rostoucím počtem členů přibyly i další aktivity:
 ---
 
 <div class="team-member">
-    <img src="../images/team/josef-kovarik.png" alt="Josef Kovařík">
+    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493492/josef-kovarik_egfem3.png" alt="Josef Kovařík">
     <div class="team-member-content">
         <h3>🚴‍♂️ Josef Kovařík "Pepa"</h3>
         <p><strong>Role:</strong> Křídlo elektroletky & Požitkář<br>
@@ -223,7 +223,7 @@ S rostoucím počtem členů přibyly i další aktivity:
 ---
 
 <div class="team-member">
-    <img src="../images/team/frantisek-elias.png" alt="František Eliáš">
+    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493489/frantisek-elias_md1tgl.png" alt="František Eliáš">
     <div class="team-member-content">
         <h3>📷 František Eliáš</h3>
         <p><strong>Role:</strong> Fotografický kouzelník<br>
@@ -235,7 +235,7 @@ S rostoucím počtem členů přibyly i další aktivity:
 ---
 
 <div class="team-member">
-    <img src="../images/team/zdenek-zalud.png" alt="Zdeněk Žalud">
+    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493508/zdenek-zalud_n1yga4.png" alt="Zdeněk Žalud">
     <div class="team-member-content">
         <h3>🚴 Zdeněk Žalud</h3>
         <p><strong>Role:</strong> Otec zakladatel (cyklistické sekce) & Ferratový terminátor<br>
@@ -247,7 +247,7 @@ S rostoucím počtem členů přibyly i další aktivity:
 ---
 
 <div class="team-member">
-    <img src="../images/team/zaludova-petra.png" alt="Petra Žaludová">
+    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493524/zaludova-petra_rs6eld.png" alt="Petra Žaludová">
     <div class="team-member-content">
         <h3>🚴 Petra Žaludová</h3>
         <p><strong>Role:</strong> Zdravotní dozor & Paní Rovnováha<br>
@@ -259,7 +259,7 @@ S rostoucím počtem členů přibyly i další aktivity:
 ---
 
 <div class="team-member">
-    <img src="../images/team/ada-zaludova.png" alt="Adéla Žaludová">
+    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493483/ada-zaludova_p9mwys.png" alt="Adéla Žaludová">
     <div class="team-member-content">
         <h3>🥾 Adéla Žaludová "Áďa"</h3>
         <p><strong>Role:</strong> MUDr. Kochačka & Paní Rozumná<br>
@@ -271,7 +271,7 @@ S rostoucím počtem členů přibyly i další aktivity:
 ---
 
 <div class="team-member">
-    <img src="../images/team/zalud-kuba.png" alt="Jakub Žalud">
+    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493521/zalud-kuba_xa2pik.png" alt="Filip Žalud">
     <div class="team-member-content">
         <h3>🚴 Filip Žalud</h3>
         <p><strong>Role:</strong> Cyklistický disident<br>
@@ -283,7 +283,7 @@ S rostoucím počtem členů přibyly i další aktivity:
 ---
 
 <div class="team-member">
-    <img src="../images/team/tereza-zaludova.png" alt="Tereza Žaludová">
+    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493518/tereza-zaludova_ilus46.png" alt="Tereza Žaludová">
     <div class="team-member-content">
         <h3>🚴 Tereza Žaludová</h3>
         <p><strong>Role:</strong> Zdeňkův parťák & Skrytý drak<br>
@@ -295,7 +295,7 @@ S rostoucím počtem členů přibyly i další aktivity:
 ---
 
 <div class="team-member">
-    <img src="../images/team/beata-sanvenero.png" alt="Beata Sanvenero">
+    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493527/beata-sanvenero_cuq9zr.png" alt="Beata Sanvenero">
     <div class="team-member-content">
         <h3>🥾 Beata Sanvenero</h3>
         <p><strong>Role:</strong> Nadšený nováček & Ádina pravá ruka<br>
@@ -307,7 +307,7 @@ S rostoucím počtem členů přibyly i další aktivity:
 ---
 
 <div class="team-member">
-    <img src="../images/team/lada-kasl.png" alt="Ladislav Kasl">
+    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493514/lada-kasl_gnox5n.png" alt="Ladislav Kasl">
     <div class="team-member-content">
         <h3>🥾 Ladislav Kasl "Láďa"</h3>
         <p><strong>Role:</strong> Drážní svalovec<br>
@@ -319,7 +319,7 @@ S rostoucím počtem členů přibyly i další aktivity:
 ---
 
 <div class="team-member">
-    <img src="../images/team/petra-krispi.png" alt="Petra Krispi">
+    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493500/petra-krispi_cxoyfq.png" alt="Petra Krispi">
     <div class="team-member-content">
         <h3>🥾 Petra</h3>
         <p><strong>Role:</strong> Paní Pohoda & Lovkyně výhledů<br>
@@ -331,7 +331,7 @@ S rostoucím počtem členů přibyly i další aktivity:
 ---
 
 <div class="team-member">
-    <img src="../images/team/petr-cech.png" alt="Petr Nový">
+    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493502/petr-cech_jrgndh.png" alt="Petr Nový">
     <div class="team-member-content">
         <h3>🧗‍♀️ Petr Nový "Sunschi"</h3>
         <p><strong>Role:</strong> Terminátor & Ginový aristokrat<br>
@@ -343,7 +343,7 @@ S rostoucím počtem členů přibyly i další aktivity:
 ---
 
 <div class="team-member">
-    <img src="../images/team/maruska.png" alt="Maruška">
+    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493516/maruska_p7ab25.png" alt="Maruška">
     <div class="team-member-content">
         <h3>🥾 Maruška</h3>
         <p><strong>Role:</strong> Blondýna v akci & Budoucí nosička krosny<br>
@@ -355,7 +355,7 @@ S rostoucím počtem členů přibyly i další aktivity:
 ---
 
 <div class="team-member">
-    <img src="../images/team/kuba-fisar.png" alt="Jakub Fišar">
+    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493512/kuba-fisar_q9gzlr.png" alt="Jakub Fišar">
     <div class="team-member-content">
         <h3>🥾 Jakub Fišar</h3>
         <p><strong>Role:</strong> Horský linebacker & Čerstvý taťka<br>
@@ -367,7 +367,7 @@ S rostoucím počtem členů přibyly i další aktivity:
 ---
 
 <div class="team-member">
-    <img src="../images/team/marenka.png" alt="Mařenka">
+    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493495/marenka_lsb9nf.png" alt="Mařenka">
     <div class="team-member-content">
         <h3>🥾 Mařenka</h3>
         <p><strong>Role:</strong> Paní Vytrvalost & Babička pluku<br>
