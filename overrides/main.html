@@ -1,0 +1,166 @@
+{% extends "base.html" %}
+
+{% block content %}
+  {{ super() }}
+  <div class="audio-sticky-footer">
+    <div class="audio-container">
+      <div class="song-info">
+        <span id="current-song-name">Načítání...</span>
+      </div>
+      <div class="audio-controls">
+        <button id="prev-btn" class="control-btn" title="Předchozí">⏮</button>
+        <audio controls id="my-audio-player">
+          <source src="{{ base_url }}/audio/01_Index.mp3" type="audio/mpeg">
+          Tvůj prohlížeč nepodporuje element audio.
+        </audio>
+        <button id="next-btn" class="control-btn" title="Další">⏭</button>
+      </div>
+    </div>
+  </div>
+  
+  <style>
+    .audio-sticky-footer {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      background-color: #2e303e;
+      color: white;
+      padding: 12px 0;
+      z-index: 9999;
+      box-shadow: 0 -2px 10px rgba(0,0,0,0.3);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    
+    .audio-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+      max-width: 600px;
+      width: 100%;
+      padding: 0 20px;
+    }
+    
+    .song-info {
+      font-size: 14px;
+      font-weight: 500;
+      color: #fff;
+      text-align: center;
+    }
+    
+    .audio-controls {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    
+    .control-btn {
+      background-color: transparent;
+      border: 2px solid #fff;
+      color: white;
+      font-size: 20px;
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.3s ease;
+      padding: 0;
+    }
+    
+    .control-btn:hover {
+      background-color: rgba(255, 255, 255, 0.1);
+      transform: scale(1.1);
+    }
+    
+    .control-btn:active {
+      transform: scale(0.95);
+    }
+    
+    #my-audio-player {
+      height: 35px;
+      outline: none;
+    }
+    
+    @media screen and (max-width: 600px) {
+      .audio-container {
+        gap: 6px;
+      }
+      
+      .song-info {
+        font-size: 12px;
+      }
+      
+      .control-btn {
+        width: 35px;
+        height: 35px;
+        font-size: 18px;
+      }
+      
+      #my-audio-player {
+        height: 30px;
+      }
+    }
+  </style>
+  
+  <script>
+    (function() {
+      const playlist = [
+        { 
+          path: "https://media.horolezecka-kronika.eu/audio/01_Index.mp3",
+          name: "01 - Úvodní písnička"
+        },
+        { 
+          path: "https://media.horolezecka-kronika.eu/audio/02_O-nas_rock_I.mp3",
+          name: "02 - O nás (Rock verze) - Část I"
+        },
+        { 
+          path: "https://media.horolezecka-kronika.eu/audio/03_O-nas_rock_II.mp3",
+          name: "03 - O nás (Rock verze) - Část II"
+        },        
+        { 
+          path: "https://media.horolezecka-kronika.eu/audio/06_Dolomity2021_I.mp3",
+          name: "06 - Dolomity 2021 I"
+        }
+      ];
+      
+      let currentTrack = 0;
+      const audio = document.getElementById('my-audio-player');
+      const songNameDisplay = document.getElementById('current-song-name');
+      const prevBtn = document.getElementById('prev-btn');
+      const nextBtn = document.getElementById('next-btn');
+      
+      function loadTrack(index) {
+        audio.src = playlist[index].path;
+        songNameDisplay.textContent = playlist[index].name;
+      }
+      
+      function playNext() {
+        currentTrack = (currentTrack + 1) % playlist.length;
+        loadTrack(currentTrack);
+        audio.play();
+      }
+      
+      function playPrevious() {
+        currentTrack = (currentTrack - 1 + playlist.length) % playlist.length;
+        loadTrack(currentTrack);
+        audio.play();
+      }
+      
+      // Automatically play next song when current ends
+      audio.addEventListener('ended', playNext);
+      
+      // Button click handlers
+      nextBtn.addEventListener('click', playNext);
+      prevBtn.addEventListener('click', playPrevious);
+      
+      // Initialize with first track name
+      loadTrack(currentTrack);
+    })();
+  </script>
+{% endblock %}

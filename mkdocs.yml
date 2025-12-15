@@ -1,0 +1,97 @@
+site_name: Horolezecká Kronika
+site_description: Kroniky zážitků z našich společných horolezeckých výprav
+site_url: https://horolezecka-kronika.eu
+
+# Nastavení grafického tématu
+theme:
+  name: material
+  language: cs
+  custom_dir: overrides
+  palette: 
+    # Světlý režim
+    - scheme: default
+      primary: blue grey
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Přepnout do tmavého režimu
+    # Tmavý režim
+    - scheme: slate
+      primary: blue grey
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Přepnout do světlého režimu
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.tracking
+    - navigation.instant
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    logo: material/terrain
+
+# Pluginy
+plugins:
+  - search:
+      lang: cs
+  - glightbox:     
+      touchNavigation: true
+      loop: true
+      zoomable: true
+      width: 90%
+      height: 90%
+  - encryptcontent:
+      title_prefix: '[🔒] '
+      summary: 'Tato stránka je chráněna heslem.'
+      placeholder: 'Zadejte heslo'
+      decryption_failure_message: 'Nesprávné heslo!'
+      encryption_info_message: 'Pro zobrazení obsahu zadejte heslo.'
+      global_password: 'Alpy2026'
+      # search_index: encrypted
+      # encryption_type: 'Fernet'
+      # na začátek jednl. stánek přidat:
+      # ---
+      # encrypt: true
+      # password: 'Alpy2026'
+      # ---
+
+# Rozšíření Markdown
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - tables
+
+# Struktura navigace
+nav:
+  - Úvod: index.md
+  - O nás: o-nas.md
+  - Plánovaná dovolená 2026: planovana-dovolena-2026.md
+  - 2025 - Slovinsko: 2025-slovinsko.md
+  - 2024 - Itálie (Ledro II): 2024-italie-ledro-2.md
+  - 2023 - Itálie (Ledro I.): 2023-italie-ledro-1.md
+  - 2022 - Dolomity II.: 2022-dolomity-2.md
+  - 2021 - Dolomity I.: 2021-dolomity-1.md
+
+# Extra CSS a JS
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/solid/mountain
+      name: Horolezecká kronika

@@ -1,0 +1,278 @@
+/* Extra CSS pro horolezeckou kroniku */
+
+/* Mřížka pro fotografie */
+.image-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.image-grid img {
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.image-grid img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Responzivní iframe pro YouTube videa */
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    margin: 20px 0;
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* Vylepšené tabulky */
+table {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Styly pro topografické schémata */
+pre {
+    background-color: #f5f5f5;
+    border-left: 4px solid #ff6f00;
+    padding: 15px;
+    border-radius: 4px;
+}
+
+/* Speciální boxy */
+.admonition {
+    margin: 1.5em 0;
+}
+
+/* Header obrázky */
+img[alt*="header"] {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+}
+
+/* Clear float helper */
+.clear {
+    clear: both;
+}
+
+/* Zvýraznění důležitých informací */
+.highlight-box {
+    background-color: #fff3e0;
+    border-left: 4px solid #ff6f00;
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 4px;
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 768px) {
+    .image-grid img {
+        width: 100% !important;
+    }
+}
+
+/* Mobilní zobrazení - oprava obtékání obrázků */
+@media screen and (max-width: 48rem) {
+    img[align="left"], img[align="right"],
+    .align-left, .align-right {
+        float: none !important;
+        display: block;
+        margin: 1em auto;
+        width: 100%;
+        max-width: 100%;
+    }
+}
+
+/* Profily členů týmu - mobilní zobrazení */
+.team-member {
+    display: flex;
+    align-items: flex-start;
+    margin: 20px 0;
+    gap: 20px;
+    flex-wrap: nowrap;
+}
+
+.team-member img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+    flex-shrink: 0;
+    min-width: 150px;
+}
+
+.team-member-content {
+    flex: 1;
+    min-width: 0;
+}
+
+.team-member-content h3 {
+    margin-top: 0;
+}
+
+/* Na mobilech - fotka nad popiskem */
+@media screen and (max-width: 768px) {
+    .team-member {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .team-member img {
+        width: 100%;
+        max-width: 300px;
+        height: auto;
+        margin-bottom: 15px;
+    }
+    
+    .team-member-content {
+        width: 100%;
+    }
+}
+
+/* Masonry layout pro fotogalerie */
+.grid.cards {
+    column-count: 3;
+    column-gap: 1rem;
+}
+
+.grid.cards > li {
+    break-inside: avoid;
+    margin-bottom: 1rem;
+    display: inline-block;
+    width: 100%;
+}
+
+.grid.cards img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.grid.cards a {
+    display: block;
+    text-decoration: none;
+}
+
+.grid.cards a:hover img {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* Responzivní nastavení pro různé velikosti obrazovek */
+@media screen and (max-width: 1200px) {
+    .grid.cards {
+        column-count: 3;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .grid.cards {
+        column-count: 2;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .grid.cards {
+        column-count: 1;
+    }
+}
+
+/* Pás karet (Filmstrip) - horizontální scrollování */
+.gallery-scroll {
+  display: flex;
+  overflow-x: auto;      /* Umožní scrollování do boku */
+  gap: 10px;             /* Mezera mezi fotkami */
+  padding: 10px 0;       /* Odsazení shora/zdola */
+  scroll-snap-type: x mandatory; /* "Přichytávání" fotek při posunu (jako na mobilu) */
+  scrollbar-width: thin; /* Tenký posuvník pro Firefox */
+}
+
+/* Styl posuvníku pro Chrome/Edge */
+.gallery-scroll::-webkit-scrollbar {
+  height: 8px;
+}
+.gallery-scroll::-webkit-scrollbar-thumb {
+  background-color: #ccc;
+  border-radius: 4px;
+}
+
+/* Styl jednotlivých miniatur */
+.gallery-scroll a {
+  flex: 0 0 auto;        /* Automatická šířka podle obsahu */
+  scroll-snap-align: start;
+  transition: transform 0.2s ease;
+  display: block;
+}
+
+.gallery-scroll a p {
+  margin: 0;
+  line-height: 0;
+}
+
+.gallery-scroll img {
+  height: 200px;         /* PEVNÁ VÝŠKA náhledu - všechny stejně vysoké */
+  width: auto;           /* Šířka automaticky podle poměru stran */
+  object-fit: cover;     /* Ořízne fotku tak, aby vyplnila výšku */
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+/* Efekt při najetí myší */
+.gallery-scroll a:hover {
+  transform: scale(1.05);
+}
+
+.gallery-scroll a:hover img {
+  opacity: 0.9;
+}
+
+/* Kontejner, který drží panel vždy dole */
+.audio-floating-panel {
+    position: fixed; /* Klíčové pro fixaci na obrazovce */
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #2e303e; /* Tmavé pozadí ladící s kódem/terminálem */
+    color: white;
+    padding: 10px 0;
+    z-index: 9999; /* Aby byl vždy nad obsahem stránky */
+    box-shadow: 0 -2px 10px rgba(0,0,0,0.3); /* Lehký stín nahoru */
+    display: flex;
+    justify-content: center; /* Zarovnání na střed */
+    align-items: center;
+}
+
+/* Obal pro samotné prvky */
+.audio-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 15px; /* Mezera mezi textem a přehrávačem */
+}
+
+/* Stylování audio tagu */
+audio {
+    height: 30px; /* Kompaktnější výška */
+    outline: none;
+}
+
+/* Responzivita pro mobily - zmenšení */
+@media screen and (max-width: 600px) {
+    .audio-label {
+        display: none; /* Na mobilu skryjeme text, necháme jen player */
+    }
+}
