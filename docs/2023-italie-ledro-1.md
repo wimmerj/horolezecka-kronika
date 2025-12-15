@@ -131,15 +131,9 @@
 
 ---
 
-## :camera: Fotografie z výpravy
-
-**Poznámka:** V sekci "Den po dni" výše najdete fotografie a videa pro každý den výpravy.
-
----
-
 ## :link: Kompletní fotogalerie
 
-!!! success "Online galerie"
+!!! success "Online galerie - odkazy jsou zatím neplatné"
     **Google Drive:** [Itálie 2023 - Ledro I.](https://drive.google.com/drive/folders/example2023)  
     *(286 fotografií, 2.2 GB)*
     

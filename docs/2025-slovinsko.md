@@ -72,14 +72,14 @@ Dorazili jsme do našeho ubytování Kranjska Gora v Julských Alpách. Po dlouh
 
 **Výstup:** Triglav - nejvyšší hora Slovinska  
 **Výška:** 2864 m  
-**Obtížnost:** PD až E (podle cesty)
+**Obtížnost:** C až D (podle cesty)
 
 ![Triglav](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765491672/triglav_pzep3t.jpg){ width="100%" }
 
 **Popis:** Hlavní vrchol naší výpravy! Byli jsme rozděleni do **tří skupin** podle obtížnosti:
 
 #### Skupina 1 - Nejzdatnější (Ferratová cesta)
-- **Nahoru:** Via ferrata **"Čez Plamenica"** (obtížnost D/E)
+- **Nahoru:** Via ferrata **"Čez Plamenica"** (obtížnost C/D)
 - **Dolů:** **Tomiškova puť** (ferrata C/D)
 - Náročná, ale úchvatná cesta s exponovanými pasážemi
 
@@ -92,11 +92,19 @@ Dorazili jsme do našeho ubytování Kranjska Gora v Julských Alpách. Po dlouh
 !!! success "Vrchol pro všechny!"
     Všechny tři skupiny úspěšně dosáhly vrcholu Triglavu!
 
-#### 🎬 Video z výstupu
+#### 🎬 Video z výstupu na nejvyšší vrchol Slovinska !
 
-<iframe width="100%" height="450" src="https://www.youtube.com/embed/0BMQjmML804" title="Triglav - 1. díl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*První díl*
 
-*První díl ze tří částí dokumentace výstupu na nejvyšší vrchol Slovinska.*
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/zax7LulFOCQ" title="Triglav - 1. díl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Druhý díl*
+
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/61dVhFy87cc" title="Triglav - 1. díl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Třetí díl**
+
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/k1zn8XKL58I" title="Triglav - 1. díl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 

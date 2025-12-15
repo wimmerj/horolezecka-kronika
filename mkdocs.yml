@@ -47,6 +47,7 @@ plugins:
       zoomable: true
       width: 90%
       height: 90%
+
   - encryptcontent:
       title_prefix: '[🔒] '
       summary: 'Tato stránka je chráněna heslem.'
@@ -54,7 +55,7 @@ plugins:
       decryption_failure_message: 'Nesprávné heslo!'
       encryption_info_message: 'Pro zobrazení obsahu zadejte heslo.'
       global_password: 'Alpy2026'
-      # search_index: encrypted
+      search_index: encrypted
       # encryption_type: 'Fernet'
       # na začátek jednl. stánek přidat:
       # ---

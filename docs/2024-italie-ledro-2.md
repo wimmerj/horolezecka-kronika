@@ -58,7 +58,7 @@
 ### 📅 Úterý 18.6.2024 - Tři vrcholy v jednom dni
 
 **Vrcholy:** Cima Verde (2102 m) → Dos d'Abramo (2140 m) → Monte Bondone (2180 m)  
-**Ferrata:** Via attrezzata Giulio Segata (F) - pro nejzdatnější
+**Ferrata:** Via attrezzata Giulio Segata (D/E) - pro nejzdatnější
 
 ![Tři vrcholy](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765050632/IMG-20240618-WA0106_ac77fh.jpg){ width="100%" }
 
@@ -68,7 +68,7 @@
 2. **Dos d'Abramo** (2140 m) - ti nejzdatnější z nás sem vylezli po extrémní ferratě **"Via attrezzata Giulio Segata"** (F)
 3. **Monte Bondone** (2180 m) - závěrečný vrchol
 
-!!! success "Ferrata obtížnosti F!"
+!!! success "Ferrata obtížnosti D/E!"
     Nejsilnější členové týmu zvládli ferratu Giulio Segata - jedna z nejtěžších v oblasti!
 
 ---
@@ -87,7 +87,7 @@
 ### 📅 Čtvrtek 20.6.2024 - Casto Park - Den 1
 
 **Lokalita:** Casto Klettersteig Park  
-**Obtížnost:** C až F (různé trasy)
+**Obtížnost:** C až E/F (různé trasy)
 
 ![Casto Park Den 1](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765050674/IMG-20240621-WA0035_mjdvbo.jpg){ width="100%" }
 
@@ -98,7 +98,7 @@
 ### 📅 Pátek 21.6.2024 - Casto Park - Den 2
 
 **Lokalita:** Casto Klettersteig Park  
-**Obtížnost:** C až F (různé trasy)
+**Obtížnost:** C až E/F (různé trasy)
 
 ![Casto Park Den 2](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765050654/IMG-20240621-WA0055_usb2qh.jpg){ width="100%" }
 
@@ -110,15 +110,9 @@
 
 ---
 
-## :camera: Fotografie z výpravy
-
-**Poznámka:** V sekci "Den po dni" výše najdete fotografie a videa pro každý den výpravy.
-
----
-
 ## :link: Kompletní fotogalerie
 
-!!! success "Online galerie"
+!!! success "Online galerie - odkazy jsou zatím neplatné"
     **Google Drive:** [Itálie 2024 - Ledro II](https://drive.google.com/drive/folders/example2024)  
     *(412 fotografií, 3.1 GB)*
     

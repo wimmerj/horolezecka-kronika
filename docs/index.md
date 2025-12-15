@@ -6,11 +6,18 @@
 #### 🎬 Nově aktualizováno!
 
 !!! quote "Poslední aktualizace webu"
-    1.  **📸 Fotogalerie** – byly doplněny fotky z let 2021 - 2024 (na konci každé stránky).
-    2.  **🎸 Hudba** – byl aktualizován přehravač, nyní je možné měnit skladby (ještě bude upraven, zabírá moc místa). Dále přidány dvě verze shrnutí Dolomit 2021.
-    3.  **👨‍👩‍👧‍👦 Stránka "O nás"** – Upraveny informace v sekcích "Jak se naše řady rozrůstaly" a "Naše filozofie"
+    1.  **📸 Fotogalerie** – byly doplněny fotky z let 2021 - 2024 (na konci každé stránky).  
+    2.  **🎸 Hudba** – byl aktualizován přehravač, nyní je možné měnit skladby (ještě bude upraven, zabírá moc místa). Dále přidány dvě verze shrnutí Dolomit 2021.  
+    3.  **👨‍👩‍👧‍👦 Stránka "O nás"** – Upraveny informace v sekcích "Jak se naše řady rozrůstaly" a "Naše filozofie"  
     4.  **📽 Video** – Né ta videa z lezení 🙈, ale video jak zhruba vzniká tento web.  
-    5.  **🌄 Rok 2021** - Dopnění informací v celém rozahu stránky 
+    5.  **🌄 Rok 2021** - Dopnění informací v celém rozahu stránky  
+
+!!! quote "Poslední technické aktualizace"
+    1.  **🌄 horolezecka-kronika** - Jede na vlastní doméně ".eu"  
+    2.  **📸 Fotogalerie** – Nově uloženy na Cloudinery.com pro rychlé načítání fotek.  
+    3.  **🎸 Hudba** – Uložena na Cloudflare R2 - řeší problémy s přehráváním (zasekávání) více lidmi naráz.  
+    4.  **👨‍👩‍👧‍👦 Zabezpečení** – Vrátil jsem na web heslo (GDPR), ale stejně je web vyhozený v google analytics, takže je nedohledatelný vyhledavačem.  
+    5.  **📽 Video** – Přestříhal jsem **Triglav 🌄** (všechny části) a přidal do něj záběry z klasické GoPro. **Třetí díl se už nahrává!!**  
 
 !!! quote "Je třeba doplnit"
     1.  **📆  Rok 2021** - Správné seřazení dnů + výstupy u kterých mám v tabulce hvězdičku "*" se pravděpodobně jmenují jinak.  

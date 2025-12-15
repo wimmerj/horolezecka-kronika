@@ -10,7 +10,7 @@
 **Termín:** 19. - 26. června 2021  
 **Destinace:** Dolomity, Itálie  
 **Ubytování:** Někde v Dolomitech (bude doplňeno později)  
-**Účastníci zájezdu (10):** Fici, Dali, Hanz, Hanka, Já (Honza W.), Láďa, Petra, Marek, Dana, Petr Nožička  
+**Účastníci zájezdu (10):** Fici, Dali, Hanz, Hanka, Já (Honza W.), Láďa, Petra, Marek, Dana, Nóža  
 **Počasí:** :sunny:   
 
 Vyrazili jsme klasicky "od soboty do soboty" na konci června. Naivní představa byla, že sníh už bude pryč a ferratová lana budou vyhřátá sluníčkem. Také jsme se chtěli vyhnout prázdninovému návalu rodinek. Ubytovali jsme se poblíž Marmolady – královny Dolomit.
