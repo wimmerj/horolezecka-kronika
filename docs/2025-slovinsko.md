@@ -66,6 +66,10 @@ Dorazili jsme do našeho ubytování Kranjska Gora v Julských Alpách. Po dlouh
 
 **Popis:** Navštívili jsme **pramen řeky Soča** – jedno z nejkrásnějších míst ve Slovinsku. Od pramene jsme se vydali na asi **15km procházku soutěskou** této smaragdově zelené řeky. Nádherná turkyzová barva vody a mohutné skály vytvářely úchvatnou scenérii.
 
+#### 🎬 Video z výstupu
+
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/J5yHsI6sDSo" title="Procházka k pramenu řeky Soča" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 
 ### 📅 Úterý 17. 6. 2025 - Triglav (2864 m)
@@ -116,6 +120,10 @@ Dorazili jsme do našeho ubytování Kranjska Gora v Julských Alpách. Po dlouh
 ![Jezero](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765491671/jezero_yjvyfb.jpg){ width="100%" }
 
 **Popis:** Zasloužený odpočinkový den po náročném výstupu na Triglav. **Tonda s Pájou (Pavlou)** jezdili na **paddleboardech** a také **sjeli kus řeky**. Ostatní relaxovali u vody, koupali se a nabírali síly na další dny.
+
+#### 🎬 Video z koupačky v řece Soča (z 16. 6.) + paddle board
+
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/JywgdYHiasM" title="Video z koupačky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
