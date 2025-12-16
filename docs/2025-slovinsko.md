@@ -88,7 +88,7 @@ Dorazili jsme do našeho ubytování Kranjska Gora v Julských Alpách. Po dlouh
 - Náročná, ale úchvatná cesta s exponovanými pasážemi
 
 #### Skupina 2 - Střední (Standardní cesta)
-- Turistická cesta přes Triglavski dom
+- Přes chatu Planica (chata zavřená)
 
 #### Skupina 3 - Turistická
 - Pohodovější varianta s delším přístupem
@@ -114,12 +114,12 @@ Dorazili jsme do našeho ubytování Kranjska Gora v Julských Alpách. Po dlouh
 
 ### 📅 Středa 18. 6. 2025 - Odpočinkový den u jezera
 
-**Aktivita:** Relax a vodní sporty  
-**Místo:** Horské jezero
+**Aktivita:** Relax a paddle board u jezera + sjezd řeky  
+**Místo:** Horské jezero Jasna (Kranjska Gora)
 
 ![Jezero](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765491671/jezero_yjvyfb.jpg){ width="100%" }
 
-**Popis:** Zasloužený odpočinkový den po náročném výstupu na Triglav. **Tonda s Pájou (Pavlou)** jezdili na **paddleboardech** a také **sjeli kus řeky**. Ostatní relaxovali u vody, koupali se a nabírali síly na další dny.
+**Popis:** Zasloužený odpočinkový den po náročném výstupu na Triglav. **Tonda s Pájou** jezdili na **paddleboardech** a také **sjeli kus řeky**. Ostatní relaxovali u vody, koupali se a nabírali síly na další dny.
 
 #### 🎬 Video z koupačky v řece Soča (z 16. 6.) + paddle board
 
@@ -137,15 +137,19 @@ Dorazili jsme do našeho ubytování Kranjska Gora v Julských Alpách. Po dlouh
 **Popis:** Den věnovaný via ferratám! Tým byl rozdělen podle zkušeností:
 
 #### Skupina základní - 3 lehčí ferraty (C)
-- **Ferrata 1:** S vodopádem - úžasný zážitek!
-- **Ferrata 2:** Soutěsková ferrata
-- **Ferrata 3:** Třetí ferrata obtížnosti C
+- **Ferrata 1:** Ferrata **Perični** s vodopádem - úžasný zážitek!
+- **Ferrata 2:** Ferrata **Hvadnik**
+- **Ferrata 3:** Soutěsková ferrata **Mojstrana - Pot mojstranških veveric** (video bude)
 
 #### Skupina pokročilá - Extrémní ferrata (E)
-Nejzdatnější z nás si dali ještě **čtvrtou ferratu obtížnosti E** – extrémně náročná, ale neskutečný adrenalin!
+Nejzdatnější z nás si dali ještě **čtvrtou ferratu "Jerm'n" obtížnosti E** – extrémně náročná, ale neskutečný adrenalin!
 
 !!! info "Speciální ferraty"
     Jedna z ferrat vedla přímo kolem **vodopádu** a další procházela **soutěskou** – unikátní zážitky!
+
+#### 🎬 Video z výstupu - ferrata E
+
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/FJZeWmzsok4" title="ferrata E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -162,7 +166,7 @@ Nejzdatnější z nás si dali ještě **čtvrtou ferratu obtížnosti E** – e
 
 #### Rozdělení týmu:
 - **6 nejzdatnějších jedinců** - Pokračovali ferratou přes led a dosáhli vrcholu Mala Mojstrovka
-- **Ostatní členové** - Zvolili bezpečnější variantu a zdolali jiný vrchol v okolí
+- **Ostatní členové** - Zvolili bezpečnější variantu a zdolali vrchol **Slemenova spica**
 
 !!! warning "Nebezpečné podmínky"
     Led na ferratě byl nečekanou komplikací. Rozhodnutí rozdělit tým bylo správné - bezpečnost především!

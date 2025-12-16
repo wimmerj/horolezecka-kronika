@@ -33,7 +33,7 @@
 
 #### 🎬 Pomozte nám to dokončit! - a o vzniku tohoto webu ([Video zde](https://www.youtube.com/watch?v=AGUoTAGfSeU"))
 
-<iframe width="100%" height="450" src="https://www.youtube.com/embed/AGUoTAGfSeU%22" title="Pomozte nám to dokončit!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/AGUoTAGfSeU" title="Pomozte nám to dokončit!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 ---
 
