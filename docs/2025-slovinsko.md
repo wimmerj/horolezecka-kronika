@@ -96,7 +96,7 @@ Dorazili jsme do našeho ubytování Kranjska Gora v Julských Alpách. Po dlouh
 !!! success "Vrchol pro všechny!"
     Všechny tři skupiny úspěšně dosáhly vrcholu Triglavu!
 
-#### 🎬 Video z výstupu na nejvyšší vrchol Slovinska !
+#### 🎬 Videa z výstupu na nejvyšší vrchol Slovinska ! (všechny tři rozšířené o pár záběrů z GoPro4K)
 
 *První díl*
 
