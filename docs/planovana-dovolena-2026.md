@@ -1,4 +1,5 @@
-# 📆 Plánovaná dovolená 2026
+# 📆 Plánovaná dovolená 2026  
+(aktualizace 25.5.2026)
 
 ![Plánovaná destinace](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765492219/header_a99i39.jpg){ width="100%" }
 
@@ -22,9 +23,9 @@ Plánujeme výpravu do švýcarských Alp. Základnou bude horský resort Pradas
 
 ### Pradas Resort
 
-**Adresa:** Via Plaun Rueun 44, 7165 Breil/Brigels, Švýcarsko
-**Kapacita:** 30 osob (5 apartmánů)
-**Termín:** 20. 6. - 27. 6. 2026 (7 nocí)
+**Adresa:** Via Plaun Rueun 44, 7165 Breil/Brigels, Švýcarsko  
+**Kapacita:** 30 osob (5 apartmánů)  
+**Termín:** 20. 6. - 27. 6. 2026 (7 nocí) 
 
 #### Apartmány
 
@@ -40,6 +41,23 @@ Máme rezervaci na **5 apartmánů**. Každý apartmán nabízí:
 - ✅ WiFi
 - ✅ Parkování zdarma
 - ✅ Wellness centrum s bazénem a saunou
+
+#### Obsazení apartmánů (aktualizace 25.5.2026)
+
+**Apartmán 1**
+Terka C., Ondra, Pája, Honza W., Tonda, Jirka.
+
+**Apartmán 2**
+anka, Petra Č., Maruška, Maruška, Alča (sestra), Malá Maruška.
+
+**Apartmán 3**
+Honza N., Ali, Fici, Laduš, Petra Ž., Zdeněk Ž.
+
+**Apartmán 4**
+Áďa, Ádi přítel, Beata, Šimon (Beaty přítel), Terka Ž., Filip.
+
+**Apartmán 5**
+Petra, Vláďa, Dali, Petr, Petra, Štěpán (kámoš Petra), František E.
 
 <div class="grid" markdown>
 
@@ -74,232 +92,45 @@ Podívejte se na 360° fotografie Pradas Resort:
 
 ---
 
-## Plánované výstupy
+## 🚗 Doprava autem (aktualizace 25.5.2026)
 
-!!! abstract "⚠️ Důležité upozornění (Čtěte pozorně!)"
-    Následující seznam berte prosím **s lehkou rezervou**. Jedná se spíše o můj "romantický nástřel" než o závazný vojenský rozkaz. Finální logistiku, časový harmonogram a schvalování tras s důvěrou přenechávám našim expedičním expertům:
+#### Info
 
-    ***Ficimu** –  aby to celé srovnal do tabulek a dávalo to smysl.
-    * **Hanzovi** – aby posoudil, zda jsou vybrané skály dostatečně kolmé a technicky výživné.
-
-    📍 Pro lepší orientaci (a pro ty, co rádi jezdí prstem po mapě) jsem všechny body zanesl do Google Mapy.
-
-
-### 🥾 Tondovo nápady na Túry
-
-#### 1. Vorder Grauspitz: Dobytí střechy Lichtenštejnska
-
-- **Obtížnost:** Těžká (fyzicky velmi náročná, technicky mírná)
-- **Délka [hodin]:** 8–10 hodin (při startu z údolí) / 6–7 hodin (s využitím lanovky)
-- **Délka [km]:** cca 17 km (z údolí) / cca 10 km (od lanovky)
-- **Výchozí bod (parkoviště):** [Vesnice Jenins](https://mapy.com/s/musegakozu)
-
-- **Výchozí bod (lanovka):** [začátek lanovky](https://mapy.com/s/nolofavula)
-- **Odkaz na túru:** [Výstup na Vorder Grauspitz – nejvyšší vrchol Lichtenštejnska | SvětOutdooru](https://www.svetoutdooru.cz/hory/vystup-na-vorder-grauspitz-nejvyssi-vrchol-lichtenstejnska/)
-
-[mapa](https://mapy.com/s/dejefaceja)
-
-**Popis trasy a zajímavosti:**
-Vorder Grauspitz (2599 m n. m.) je nejvyšší hora miniaturního knížectví Lichtenštejnsko, tyčící se přímo na hraničním hřebeni se Švýcarskem. Výchozím bodem je vesnice Jenins, od ubytování vzdálená zhruba hodinu jízdy autem. Samotný výstup je poctivou prověrkou fyzičky a vytrvalosti, ale po technické stránce nečekejte žádné horolezecké extrémy – jedná se o dlouhý trek s pořádným převýšením.
-
-Pro ty, kteří by chtěli pošetřit kolena a síly na další dny, se nabízí výborná taktická zkratka v podobě lanovky Älplibahn z nedalekého Malans (Talstation). Ta nás vyveze na horní stanici Älpli a ušetří podstatnou část nezáživného stoupání lesem. Od horní stanice už pokračujeme do typického drsného alpského terénu přes travnaté hřebeny a suťoviska. Na samotný vrchol Grauspitz nevede oficiálně značená turistická značka, což hoře dodává parádní nádech divokosti a opuštěnosti. Odměnou za prolité litry potu budou fantastické kruhové výhledy hluboko do údolí Rýna a na okolní masivy švýcarských i rakouských Alp.
-
----
-
-#### 2.  Jezero Lag da Pigniu: Vodopády a zasloužený relax
-
-- **Obtížnost:** Lehká (ideální odpočinkový okruh)
-- **Délka:** 1–2 hodiny
-- **Délka:** cca 5 km
-- **Trasa autem:** [https://mapy.com/s/fuduvojeje](https://www.google.com/search?q=https://mapy.com/s/fuduvojeje&authuser=1)
-- **Odkaz na túru:** [Lag da Pigniu: Eine genussvolle Rundwanderung](https://www.komoot.com/cs-cz/smarttour/e2246677921/lag-da-pigniu-eine-genussvolle-rundwanderung)
-
-*[mapa](https://mapy.com/s/gucotobare)*
-
-**Popis trasy a zajímavosti:**
-Tohle je ideální půldenní varianta a perfektní odpočinkový den po náročném výstupu. K výchozímu bodu se dostaneme autem jen za necelou půlhodinku. Trasa vede kolem malebného přehradního jezera Lag da Pigniu (německy Panixersee). Jedná se o nenáročný okruh prakticky po vrstevnici, který si bez problémů a v tempu užije úplně každý.
-
-Kromě magické barvy samotného jezera jsou hlavním tahákem cesty nádherné vodopády, které padají z okolních strmých skalních stěn přímo k vodní hladině a v horkých dnech příjemně osvěží. Přehrada má ale i zajímavý historický přesah – na její masivní betonové zdi si určitě všimněte obří monumentální malby. Ta připomíná ústup ruské armády pod vedením generála Suvorova přes průsmyk Panixerpass v roce 1799. Místo je obklopené zelenými pastvinami a ostrými štíty, což z něj dělá perfektní fotogenickou lokaci pro pohodové odpoledne. 
-
----
-
-#### 3. Oberaarnhorn (3634 m n. m.): Pravá ledovcová výzva
-
-- **Obtížnost:** Extrémní / Ledovcová túra (vyžaduje vysokohorské vybavení)
-- **Délka:** 1–2 dny (podle návaznosti lanovek a tempa)
-- **Délka:** cca 18 km
-- **Výchozí bod (parkoviště):** [Stellplatz Alpenrösli](https://mapy.com/s/bahugufade)
-- **Odkaz na túru:** [https://mapy.com/s/nuloganuho](https://mapy.com/s/nuloganuho&authuser=1)
-*[(zde bude mapa)](https://mapy.com/s/nuloganuho)*
-
-**Popis trasy a zajímavosti:**
-Tohle je lahůdka pro všechny fandy vysokých hor a drsného prostředí. Výstup na impozantní Oberaarnhorn (3634 m n. m.) nás zavede hluboko do světa věčného ledu a sněhu v oblasti průsmyku Grimselpass. Letos nás sice čeká malá logistická výzva, protože silnice pro auta mezi 1. a 2. bodem trasy je uzavřená a mimo provoz je bohužel i chata na 2. bodě. Naštěstí nás zachrání fungující lanovka, kterou si pro tenhle úsek doplánujeme.
-
-Trasa nás povede přímo přes rozlehlý ledovec až k chatě Oberaarjochhütte, která neuvěřitelně balancuje přilepená na skalním výběžku ve výšce 3256 m n. m. Od ní následuje finální útok na samotný vrchol Oberaarnhorn. Výstup kombinuje chůzi po ledovci s finálním hřebenovým mixem sněhu a skály. Ačkoliv jde o technicky schůdnější třítisícovku, pohyb na ledovci vyžaduje plný respekt a nutností je mít s sebou odpovídající vybavení (mačky, cepín, lano). Nahoře se vám ale otevře strhující panorama – uvidíte obrovský ledovcový splaz Fieschergletscher a ty nejmajestátnější vrcholy Bernských Alp.
-
----
-
-### 🥾 Horské túry (bez ferrat)
-
-#### 1. Piz Aul (3121 m)
-
-- **Datum:** 21. 6. 2026
-- **Obtížnost:** PD
-- **Délka:** 7-8 hodin tam i zpět
-- **Převýšení:** 1300 m
-- **Typ:** Vysokohorská túra s ledovcovými pasážemi
-
----
-
-#### 2. Piz Mundaun (2064 m)
-
-- **Datum:** 22. 6. 2026
-- **Obtížnost:** T3
-- **Délka:** 5 hodin
-- **Typ:** Panoramatická túra s krásnými výhledy
-
----
-
-#### 3. Crap Masegn (2477 m)
-
-- **Datum:** 23. 6. 2026
-- **Obtížnost:** T2
-- **Délka:** 4-5 hodin
-- **Typ:** Rodinná túra přístupná lanovkou z Flims
-
----
-
-#### 4. Piz Sezner (2309 m)
-
-- **Datum:** 24. 6. 2026
-- **Obtížnost:** T3
-- **Délka:** 5-6 hodin
-- **Typ:** Krásná panoramatická túra nad Brigels
-
----
-
-#### 5. Lag da Pigniu (2236 m)
-
-- **Datum:** 25. 6. 2026
-- **Obtížnost:** T2
-- **Délka:** 4 hodiny
-- **Typ:** Túra k horskému jezeru s možností koupání
-
----
-
-### 🧗 Via ferraty (orientační nástřel možností)
-
-**Odkaz na ferraty v okolí** [Google maps seznam](https://maps.app.goo.gl/yqZNb9eozsXZrACA6)
-
-#### 1. Via ferrata Diavolo
-
-- **Obtížnost:** B/C
-- **Délka:** 2-3 hodiny
-- **Typ:** Lehčí ferrata, ale s nádherným okolím a výhledy. Lezení spíše po nakloněných plotnách, popřípadě po řadě kramlí.
-- **Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Via_ferrata_Diavolo)
-
----
-
-#### 2. Klettersteig Schijen Zwärg Bergseehütte SAC (C) + Krokodil (C)
-
-- **Obtížnost:** C
-- **Celkový čas / Délka ferraty / Celkové převýšení:** 3-4 hodiny + 5h / 120m + 7,6km  / 80m + 718m
-- **Typ:** Pohodovka po mensim skalnatem hrebinku pripominajicim krokodyla na vysokohorske plosine obklopene 3 tisicovkama. Vetsinou B, par C useku. Spousta mist na kochani se panoramou. 2 vezicky, nasledovane mustkem na treti vez. Nejvic scary je asi pohled z prvni veze na trasu na druhou vez.
-- **Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Klettersteig_Schijen_Zw%C3%A4rg_Bergseeh%C3%BCtte_SAC)
-- **Odkaz2:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Krokodil)
-
----
-
-#### 3. Klettersteig Jubilaeus Dammahütte
-
-- **Obtížnost:** C
-- **Celkový čas / Délka ferraty / Celkové převýšení:** 7h / 150m / 1600m
-- **Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Klettersteig_Jubilaeus_Dammah%C3%BCtte)
-
----
-
-#### 4. Klettersteig Adlerhorst Arnisee Piel Flue
-
-- **Obtížnost:** C
-- **Celkový čas / Délka ferraty / Celkové převýšení:** 2h / 230m / 100m
-- **Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Adlerhorst_Arnisee_Klettersteig)
-
----
-
-#### 5. Hexensteig (Witches climb)
-
-- **Obtížnost:** C/D
-- **Celkový čas / Délka ferraty / Celkové převýšení:** 4h / 300m / 675m
-- **Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Hexensteig_D)
-
----
-
-#### Další v nejbližším okolí:
-
-**Název:** Via Ferrata Bälmetentor - Bälmeten - C
-**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Via_Ferrata_B%C3%A4lmetentor_-_B%C3%A4lmeten)
-
-**Název:** Stäibber Klettersteig - Kröntenhütte - D ?
-**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/St%C3%A4ibber_Klettersteig_-_Kr%C3%B6ntenh%C3%BCtte)
-
-**Název:** Fürenwand Klettersteig - D
-**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/F%C3%BCrenwand_Klettersteig)
-
-**Název:** Graustock Klettersteig - D
-**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Graustock_Klettersteig)
-
-**Název:** Brunnistöckli Zittergrat - C/D + Brunnistöckli - B/C
-**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Brunnist%C3%B6ckli_Zittergrat)
-**Odkaz2:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Brunnist%C3%B6ckli_Zittergrat)
-
-**Název:** Rigidalstockwand - C/D + Rigidalstockgrat - C
-**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Rigidalstockwand)
-**Odkaz2:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Rigidalstockgrat)
-
-**Název:** Braunwald - Klettersteig - C 750m
-**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Braunwald_-_Klettersteig)
-
-**Název:** Klettersteig Fruttstägä - C/D
-**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Klettersteig_Fruttst%C3%A4g%C3%A4)
-
-**Název:** Klettersteig Husky-Lodge Muotathal - B/C 1000m
-**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Klettersteig_Husky-Lodge_Muotathal)
-
-**Název:** Graustock Klettersteig - D
-**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Graustock_Klettersteig)
-
-**Název:** Indianer Klettersteig - C Zipline s kladkou ?
-**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Indianer_Klettersteig)
-
-**Název:** Speer-Kletterweg - B/C 970m
-**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Speer-Kletterweg)
-
-**Název:** Tälli Klettersteig - B/C 945m
-**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/T%C3%A4lli_Klettersteig)
-
-**Název:** Klettersteig Tierbergli - B/C 700m
-**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Klettersteig_Tierbergli)
-
-**Název:** Pietro Biasini - B/C 400m
-**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Biasini)
-
-**Název:** Klettersteig Languard + La Resgia - C/D 370m
-**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Klettersteig_La_Resgia)
-
----
-
-## Doprava
-
-Účastníci budou rozděleni do dvou skupin podle dostupnosti aut:
-
-### 🚗 Skupina A - Doprava autem
-
-**Místo odjezdu:** Wolkerova 150/12, 350 02 Cheb, Česko
-**Cíl:** Pradas Resort, Via Plaun Rueun 44, 7165 Breil/Brigels, Švýcarsko
-**Vzdálenost:** cca 700 km
-**Čas jízdy:** 7-8 hodin (včetně přestávek)
+**Místo odjezdu:** Wolkerova 150/12, 350 02 Cheb, Česko  
+**Cíl:** Pradas Resort, Via Plaun Rueun 44, 7165 Breil/Brigels, Švýcarsko  
+**Vzdálenost:** cca 700 km  
+**Čas jízdy:** 7-8 hodin (včetně přestávek)  
 
 **Trasa:** Cheb → Norimberk → Ulm → Zürich → Chur → Breil/Brigels
+
+#### 🚙 Rozdělení do aut
+
+**Řidič Zdeněk |**
+Posádka: Petra, Terka, Filip.
+
+**Řidič Šimon |**
+Posádka: Beata, Áďa, Matěj.
+
+**Řidič Fici |**
+Posádka: Laduš, Ali, Fanda E.
+
+**Řidič Vláďa |**
+Posádka: Petra, Dali.
+
+**Řidič Maruška st. |**
+Posádka: Alča, Petra, Hanka.
+
+**Řidič Maruška ml. |**
+Posádka: Malá Maruška, Pája.
+
+**Řidič Jirka |**
+Posádka: Terka, Ondra, Tonda.
+
+**Řidič Petr |**
+Posádka: Petra, Štěpán, Honza W.
+
+**Motorka Honza N.**
+Samostatný přesun.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2703242.5!2d10.5!3d48.5!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x479af3add634e22f%3A0x407285fe8ca32e0!2sWolkerova%20150%2F12%2C%20350%2002%20Cheb!3m2!1d50.0797!2d12.3713!4m5!1s0x47851f67cb1ca195%3A0x1b2f6a638ee4bec9!2sPradas%20Resort%2C%20Via%20Plaun%20Rueun%2044%2C%207165%20Breil%2FBrigels%2C%20Switzerland!3m2!1d46.7703!2d9.0675!5e0!3m2!1scs!2scz!4v1234567890" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -310,38 +141,13 @@ Trasa nás povede přímo přes rozlehlý ledovec až k chatě Oberaarjochhütte
 
 ---
 
-### 🚂 Skupina B - Doprava vlakem
-
-**Místo odjezdu:** Cheb, nádraží
-**Cíl:** Chur, Švýcarsko (nejbližší velké nádraží k resortu)
-**Čas jízdy:** cca 8-9 hodin (s přestupy)
-
-**Trasa:** Cheb → (Norimberk) → Mnichov → Zürich → Chur
-
-!!! info "Vlakové spojení"
-    - **Výhoda:** Zaměstnanci Správy železnic mají výrazné slevy
-    - **Upozornění:** Je třeba včas podat žádost o FIP
-    - **Přestup v Chur:** Skupina A vyzvedne Skupinu B auty (30 km, 30 minut jízdy)
-    - **Doporučení:** Rezervovat místa v předstihu přes [ČD](https://www.cd.cz/) a [SBB](https://www.sbb.ch/)
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2703242.5!2d10.5!3d48.5!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x479af3add634e22f%3A0x407285fe8ca32e0!2sCheb%20Railway%20Station!3m2!1d50.0797!2d12.3713!4m5!1s0x4784011a017d5777%3A0x91c8e97c06f49e!2sChur%20Railway%20Station%2C%20Switzerland!3m2!1d46.8537!2d9.5297!5e0!3m2!1scs!2scz!4v1234567891" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-**Pickup bod:** Nádraží Chur → Pradas Resort (30 km, 30 min autem)
-
----
-
 ### 📋 Organizace dopravy
 
 !!! success "Koordinace"
-    **Skupina A (auta):**
+    **Společný odjezd (auta):**
     - Odjezd: 20. 6. 2026 v 6:00 z Chebu
     - Příjezd do resortu: cca 14:00
-
-    **Skupina B (vlak):**
-    - Odjezd: 20. 6. 2026 ráno z Chebu
-    - Příjezd do Chur: cca 15:00
-    - Vyzvednutí Skupinou A: 15:30
-    - Příjezd do resortu: 16:00
+    - Kdo bude mít auto plně obsazeno, může jet po vlastní ose.
 
 ---
 
@@ -465,6 +271,199 @@ Při překročení: platí se švýcarské DPH (MWST) 8,1 %
     - Vezměte hlavně trvanlivé potraviny, těstoviny, cereálie
     - Čerstvé maso a uzeniny nakupte až ve Švýcarsku (dražší, ale bez rizika)
     - Vypněte varování radarů v navigaci PŘED vjezdem do Švýcarska
+
+---
+
+## Plánované výstupy
+
+!!! abstract "⚠️ Důležité upozornění"
+    Následující seznam berte prosím **s lehkou rezervou**. Jedná se spíše o můj "romantický nástřel" než o závazný vojenský rozkaz. Finální logistiku, časový harmonogram a schvalování tras s důvěrou přenechávám našim expedičním expertům:
+
+    ***Ficimu** –  aby to celé srovnal do tabulek a dávalo to smysl.
+    * **Hanzovi** – aby posoudil, zda jsou vybrané skály dostatečně kolmé a technicky výživné.
+
+    📍 Pro lepší orientaci (a pro ty, co rádi jezdí prstem po mapě) jsem všechny body zanesl do Google Mapy.
+
+
+### 🥾 Tondovo nápady na Túry
+
+#### 1. Vorder Grauspitz: Dobytí střechy Lichtenštejnska
+
+- **Obtížnost:** Těžká (fyzicky velmi náročná, technicky mírná)
+- **Délka:** 8–10 hodin (při startu z údolí) / 6–7 hodin (s využitím lanovky)
+- **Délka:** cca 17 km (z údolí) / cca 10 km (od lanovky)
+- **Výchozí bod (parkoviště):** [Vesnice Jenins](https://mapy.com/s/musegakozu)
+
+- **Výchozí bod (lanovka):** [začátek lanovky](https://mapy.com/s/nolofavula)
+- **Odkaz na túru:** [Výstup na Vorder Grauspitz – nejvyšší vrchol Lichtenštejnska | SvětOutdooru](https://www.svetoutdooru.cz/hory/vystup-na-vorder-grauspitz-nejvyssi-vrchol-lichtenstejnska/)
+
+[mapa](https://mapy.com/s/dejefaceja)
+
+**Popis trasy a zajímavosti:**
+Vorder Grauspitz (2599 m n. m.) je nejvyšší hora miniaturního knížectví Lichtenštejnsko, tyčící se přímo na hraničním hřebeni se Švýcarskem. Výchozím bodem je vesnice Jenins, od ubytování vzdálená zhruba hodinu jízdy autem. Samotný výstup je poctivou prověrkou fyzičky a vytrvalosti, ale po technické stránce nečekejte žádné horolezecké extrémy – jedná se o dlouhý trek s pořádným převýšením.
+
+Pro ty, kteří by chtěli pošetřit kolena a síly na další dny, se nabízí výborná taktická zkratka v podobě lanovky Älplibahn z nedalekého Malans (Talstation). Ta nás vyveze na horní stanici Älpli a ušetří podstatnou část nezáživného stoupání lesem. Od horní stanice už pokračujeme do typického drsného alpského terénu přes travnaté hřebeny a suťoviska. Na samotný vrchol Grauspitz nevede oficiálně značená turistická značka, což hoře dodává parádní nádech divokosti a opuštěnosti. Odměnou za prolité litry potu budou fantastické kruhové výhledy hluboko do údolí Rýna a na okolní masivy švýcarských i rakouských Alp.
+
+---
+
+#### 2.  Jezero Lag da Pigniu: Vodopády a zasloužený relax
+
+- **Obtížnost:** Lehká (ideální odpočinkový okruh)
+- **Délka:** 1–2 hodiny
+- **Délka:** cca 5 km
+- **Trasa autem:** [https://mapy.com/s/fuduvojeje](https://www.google.com/search?q=https://mapy.com/s/fuduvojeje&authuser=1)
+- **Odkaz na túru:** [Lag da Pigniu: Eine genussvolle Rundwanderung](https://www.komoot.com/cs-cz/smarttour/e2246677921/lag-da-pigniu-eine-genussvolle-rundwanderung)
+
+*[mapa](https://mapy.com/s/gucotobare)*
+
+**Popis trasy a zajímavosti:**
+Tohle je ideální půldenní varianta a perfektní odpočinkový den po náročném výstupu. K výchozímu bodu se dostaneme autem jen za necelou půlhodinku. Trasa vede kolem malebného přehradního jezera Lag da Pigniu (německy Panixersee). Jedná se o nenáročný okruh prakticky po vrstevnici, který si bez problémů a v tempu užije úplně každý.
+
+Kromě magické barvy samotného jezera jsou hlavním tahákem cesty nádherné vodopády, které padají z okolních strmých skalních stěn přímo k vodní hladině a v horkých dnech příjemně osvěží. Přehrada má ale i zajímavý historický přesah – na její masivní betonové zdi si určitě všimněte obří monumentální malby. Ta připomíná ústup ruské armády pod vedením generála Suvorova přes průsmyk Panixerpass v roce 1799. Místo je obklopené zelenými pastvinami a ostrými štíty, což z něj dělá perfektní fotogenickou lokaci pro pohodové odpoledne. 
+
+---
+
+#### 3. Oberaarnhorn (3634 m n. m.): Pravá ledovcová výzva
+
+- **Obtížnost:** Extrémní / Ledovcová túra (vyžaduje vysokohorské vybavení)
+- **Délka:** 1–2 dny (podle návaznosti lanovek a tempa)
+- **Délka:** cca 18 km
+- **Výchozí bod (parkoviště):** [Stellplatz Alpenrösli](https://mapy.com/s/bahugufade)
+- **Odkaz na túru:** [https://mapy.com/s/nuloganuho](https://mapy.com/s/nuloganuho&authuser=1)
+*[(mapa zde)](https://mapy.com/s/nuloganuho)*
+
+**Popis trasy a zajímavosti:**
+Tohle je lahůdka pro všechny fandy vysokých hor a drsného prostředí. Výstup na impozantní Oberaarnhorn (3634 m n. m.) nás zavede hluboko do světa věčného ledu a sněhu v oblasti průsmyku Grimselpass. Letos nás sice čeká malá logistická výzva, protože silnice pro auta mezi 1. a 2. bodem trasy je uzavřená a mimo provoz je bohužel i chata na 2. bodě. Naštěstí nás zachrání fungující lanovka, kterou si pro tenhle úsek doplánujeme.
+
+Trasa nás povede přímo přes rozlehlý ledovec až k chatě Oberaarjochhütte, která neuvěřitelně balancuje přilepená na skalním výběžku ve výšce 3256 m n. m. Od ní následuje finální útok na samotný vrchol Oberaarnhorn. Výstup kombinuje chůzi po ledovci s finálním hřebenovým mixem sněhu a skály. Ačkoliv jde o technicky schůdnější třítisícovku, pohyb na ledovci vyžaduje plný respekt a nutností je mít s sebou odpovídající vybavení (mačky, cepín, lano). Nahoře se vám ale otevře strhující panorama – uvidíte obrovský ledovcový splaz Fieschergletscher a ty nejmajestátnější vrcholy Bernských Alp.
+
+---
+
+### 🥾 Horské túry (bez ferrat)
+
+#### 1. Piz Aul (3121 m)
+
+- **Délka:** 7-8 hodin tam i zpět / **Převýšení:** 1300 m / **Typ:** Vysokohorská túra s ledovcovými pasážemi
+
+---
+
+#### 2. Piz Mundaun (2064 m)
+
+- **Délka:** 5 hodin / **Typ:** Panoramatická túra s krásnými výhledy
+
+---
+
+#### 3. Crap Masegn (2477 m)
+
+- **Délka:** 4-5 hodin / **Typ:** Rodinná túra přístupná lanovkou z Flims
+
+---
+
+#### 4. Piz Sezner (2309 m)
+
+- **Délka:** 5-6 hodin / **Typ:** Krásná panoramatická túra nad Brigels
+
+---
+
+#### 5. Lag da Pigniu (2236 m)
+
+- **Délka:** 4 hodiny / **Typ:** Túra k horskému jezeru s možností koupání
+
+---
+
+### 🧗 Via ferraty (orientační nástřel možností)
+
+**Odkaz na ferraty v okolí** [Google maps seznam](https://maps.app.goo.gl/yqZNb9eozsXZrACA6)
+
+#### 1. Via ferrata Diavolo
+
+- **Obtížnost:** B/C / **Délka:** 2-3 hodiny
+- **Typ:** Lehčí ferrata, ale s nádherným okolím a výhledy. Lezení spíše po nakloněných plotnách, popřípadě po řadě kramlí.
+- **Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Via_ferrata_Diavolo)
+
+---
+
+#### 2. Klettersteig Schijen Zwärg Bergseehütte SAC (C) + Krokodil (C)
+
+- **Obtížnost:** C / **Celkový čas / Délka ferraty / Celkové převýšení:** 3-4 hodiny + 5h / 120m + 7,6km  / 80m + 718m
+- **Typ:** Pohodovka po mensim skalnatem hrebinku pripominajicim krokodyla na vysokohorske plosine obklopene 3 tisicovkama. Vetsinou B, par C useku. Spousta mist na kochani se panoramou. 2 vezicky, nasledovane mustkem na treti vez. Nejvic scary je asi pohled z prvni veze na trasu na druhou vez.
+- **Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Klettersteig_Schijen_Zw%C3%A4rg_Bergseeh%C3%BCtte_SAC)
+- **Odkaz2:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Krokodil)
+
+---
+
+#### 3. Klettersteig Jubilaeus Dammahütte
+
+- **Obtížnost:** C / **Celkový čas / Délka ferraty / Celkové převýšení:** 7h / 150m / 1600m
+- **Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Klettersteig_Jubilaeus_Dammah%C3%BCtte)
+
+---
+
+#### 4. Klettersteig Adlerhorst Arnisee Piel Flue
+
+- **Obtížnost:** C / **Celkový čas / Délka ferraty / Celkové převýšení:** 2h / 230m / 100m
+- **Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Adlerhorst_Arnisee_Klettersteig)
+
+---
+
+#### 5. Hexensteig (Witches climb)
+
+- **Obtížnost:** C/D / **Celkový čas / Délka ferraty / Celkové převýšení:** 4h / 300m / 675m
+- **Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Hexensteig_D)
+
+---
+
+#### Další v nejbližším okolí:
+
+**Název:** Via Ferrata Bälmetentor - Bälmeten - C
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Via_Ferrata_B%C3%A4lmetentor_-_B%C3%A4lmeten)
+
+**Název:** Stäibber Klettersteig - Kröntenhütte - D ?
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/St%C3%A4ibber_Klettersteig_-_Kr%C3%B6ntenh%C3%BCtte)
+
+**Název:** Fürenwand Klettersteig - D
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/F%C3%BCrenwand_Klettersteig)
+
+**Název:** Graustock Klettersteig - D
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Graustock_Klettersteig)
+
+**Název:** Brunnistöckli Zittergrat - C/D + Brunnistöckli - B/C
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Brunnist%C3%B6ckli_Zittergrat)
+**Odkaz2:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Brunnist%C3%B6ckli_Zittergrat)
+
+**Název:** Rigidalstockwand - C/D + Rigidalstockgrat - C
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Rigidalstockwand)
+**Odkaz2:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Rigidalstockgrat)
+
+**Název:** Braunwald - Klettersteig - C 750m
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Braunwald_-_Klettersteig)
+
+**Název:** Klettersteig Fruttstägä - C/D
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Klettersteig_Fruttst%C3%A4g%C3%A4)
+
+**Název:** Klettersteig Husky-Lodge Muotathal - B/C 1000m
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Klettersteig_Husky-Lodge_Muotathal)
+
+**Název:** Graustock Klettersteig - D
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Graustock_Klettersteig)
+
+**Název:** Indianer Klettersteig - C Zipline s kladkou ?
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Indianer_Klettersteig)
+
+**Název:** Speer-Kletterweg - B/C 970m
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Speer-Kletterweg)
+
+**Název:** Tälli Klettersteig - B/C 945m
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/T%C3%A4lli_Klettersteig)
+
+**Název:** Klettersteig Tierbergli - B/C 700m
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Klettersteig_Tierbergli)
+
+**Název:** Pietro Biasini - B/C 400m
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Biasini)
+
+**Název:** Klettersteig Languard + La Resgia - C/D 370m
+**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Klettersteig_La_Resgia)
 
 ---
 

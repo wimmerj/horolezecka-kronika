@@ -40,7 +40,7 @@ theme:
 # Pluginy
 plugins:
   - search:
-      lang: cs
+      lang: en
   - glightbox:     
       touchNavigation: true
       loop: true
