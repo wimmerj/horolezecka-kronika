@@ -50,7 +50,7 @@ S rostoucím počtem členů přibyly i další aktivity:
 ## 👨‍👩‍👧‍👦 Organizační tým
 
 <div class="team-member">
-    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493534/fici_il2nyn.png" alt="Fici">
+    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493534/fici_il2nyn.png" alt="Fici">  
     <div class="team-member-content">
         <h3>🧗‍♀️ František Cihlář "Fici"</h3>
         <p><strong>Role:</strong> Generální ředitel zájezdu<br>
@@ -61,6 +61,7 @@ S rostoucím počtem členů přibyly i další aktivity:
         ale nikdo neví kam a kdy."</em></p>
     </div>
 </div>
+<img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1779295843/01_Fici_nlb6mx.png" alt="Fici_info" class="team-member-info-image">
 
 ---
 
@@ -73,6 +74,7 @@ S rostoucím počtem členů přibyly i další aktivity:
         <p><em>„Zatímco my funíme do kopce, on už tam pravděpodobně spal pod širákem. Zásobovač týmu čerstvými proteiny z řeky a znalec malých pivovarů. Pokud ho nenajdete na stezce, stojí po pás ve vodě a vede tichý monolog s rybami. S bratrem tvoří elitní pivní degustační jednotku.“</em></p>
     </div>
 </div>
+<img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1779295844/02_Dali_nvaylw.png" alt="Dali_info" class="team-member-info-image">
 
 ---
 
@@ -85,6 +87,7 @@ S rostoucím počtem členů přibyly i další aktivity:
         <p><em>„Jediný člen, který se na hory dostane dřív než jeho stín. Miluje serpentýny, kolmé stěny a technické lezení, kde je gravitace jen doporučením. Pivo považuje za iontový nápoj pro slabochy, proto večerní porady vede zásadně se sklenkou rumu v ruce.“</em></p>
     </div>
 </div>
+<img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1779295847/03_Jan_Nov%C3%BD_obqqiu.png" alt="Hans_info" class="team-member-info-image">
 
 ---
 
@@ -97,6 +100,7 @@ S rostoucím počtem členů přibyly i další aktivity:
         <p><em>„Nejdůležitější osoba expedice, protože hladový horal = zlý horal. S lehkostí vyběhne na dvoutisícovku (VHT je její revír), aby nám nahoře s úsměvem oznámila, co dobrého bude k večeři. Její kulinářské umění nás drží při životě.“</em></p>
     </div>
 </div>
+<img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1779295845/04_Hanka_2_svoxzh.png" alt="Hanka_info" class="team-member-info-image">
 
 ---
 
@@ -111,6 +115,7 @@ S rostoucím počtem členů přibyly i další aktivity:
         <p><em>„Dcera pluku, která snižuje věkový průměr a zvyšuje tepovou frekvenci. Jakmile se cvakne karabinou na ocelové lano, přepne do režimu 'veverka' a odmítá slézt dolů. Ferraty, bouldery, skály – pokud se na to dá vylézt, Terka už tam je.“</em></p>
     </div>
 </div>
+<img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1779295844/05_Terka_fbyghh.png" alt="Terka_info" class="team-member-info-image">
 
 ---
 
@@ -120,9 +125,10 @@ S rostoucím počtem členů přibyly i další aktivity:
         <h3>🧗‍♀️ Ondřej Macek</h3>
         <p><strong>Role:</strong> Kulturní referent & Obojživelník<br>
         <strong>Superschopnost:</strong> Hokej pod vodou (nekecám!)</p>
-        <p><em>„Jukebox na nožičkách. Přes den sportovní terminátor, který zvládne vše od VHT po podvodní hokej, večer bard, bez jehož kytary by byl rum jen smutné pití. Ferraty dává k snídani a ještě u toho stíhá ladit struny.“</em></p>
+           <p><em>„Jukebox na nožičkách. Přes den sportovní terminátor, který zvládne vše od VHT po podvodní hokej, večer bard, bez jehož kytary by byl rum jen smutné pití. Ferraty dává k snídani a ještě u toho stíhá ladit struny.“</em></p>
     </div>
 </div>
+<img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1779295856/06_Ondra_shke8z.png" alt="Ondra_info" class="team-member-info-image">
 
 ---
 
@@ -135,11 +141,12 @@ S rostoucím počtem členů přibyly i další aktivity:
         <p><em>„Kde ostatní hledají schody nebo lanovku, Alí hledá chyt. Společně s Honzou tvoří lezecké úderné komando. Ať už je to ferrata nebo klasická skála, pohybuje se tam s přehledem, který jí my ostatní, visící v křeči na laně, tiše závidíme.“</em></p>
     </div>
 </div>
+<img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1779295849/07_Ali_emjh2m.png" alt="Ali_info" class="team-member-info-image">
 
 ---
 
 <div class="team-member">
-    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493498/pavla_j5lko2.png" alt="Pavla">
+    <img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1765493498/pavla_j5lko2.png" alt="Pavla" class="team-member-info-image">
     <div class="team-member-content">
         <h3>🏄‍♂ Pavla Ronovská "Pája"</h3>
         <p><strong>Role:</strong> Vodní živel<br>
@@ -159,6 +166,7 @@ S rostoucím počtem členů přibyly i další aktivity:
         <p><em>„Do Alp nám ji přivála Hanka a od té doby tvoří nerozlučné turistické duo. Zatímco ostatní visí na ocelových lanech a bojují s gravitací, Petra s úsměvem a nohama pevně na zemi zdolává jeden alpský štít za druhým. Důkaz, že k výhledům se dá dojít i důstojně a bez lezeckého úvazku zařezaného v tříslech.“</em></p>
     </div>
 </div>
+<img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1779295849/09_Petra_wp3ueh.png" alt="Petra1_info" class="team-member-info-image">
 
 ---
 
@@ -171,6 +179,7 @@ S rostoucím počtem členů přibyly i další aktivity:
         <p><em>„Otec našich chatovacích skupin a milovník bolesti. Je to perfekcionista, který by nejraději oštítkoval i kameny na cestě, aby byly bezpečné. Když už leze, tak jedině 'vraždy' obtížnosti E nebo F, a když běhá, bere si zátěžovou vestu, aby to náhodou nebylo moc lehké. Největší motivátor týmu, který vás vytáhne nahoru, i když už necítíte nohy.“</em></p>
     </div>
 </div>
+<img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1779295851/10_Tonda_w0cc25.png" alt="Tonda_info" class="team-member-info-image">
 
 ---
 
@@ -183,6 +192,7 @@ S rostoucím počtem členů přibyly i další aktivity:
         <p><em>„Tondův bratranec a druhá polovina jejich komediálního dua. Díky své atletické postavě a muší váze po skalách spíše levituje, než leze. Je to vrchní zásobovač našich telefonů zprávami a autor hlášek, které ve videu (pokud ho Honza někdy sestříhá) zlidoví. Kde my funíme, Radek už nahoře svačí.“</em></p>
     </div>
 </div>
+<img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1779295851/11_Radek_3_ozqruk.png" alt="Radek_info" class="team-member-info-image">
 
 ---
 
@@ -192,9 +202,10 @@ S rostoucím počtem členů přibyly i další aktivity:
         <h3>🧑‍💻 Jan Wimmer</h3>
         <p><strong>Role:</strong> Webmaster & Šerpa elektrotechniky<br>
         <strong>Superschopnost:</strong> Odkládání střihu videa na neurčito</p>
-        <p><em>„Otec zakladatel tohoto webu. Poznáte ho snadno – je to ten muž, co funí pod batohem plným baterek, dronů a kamer, který je těžší než on sám. Dron s sebou nosí hlavně na procházku, aby neporušil letové předpisy. Ač se bojí výšek, hrdinně se vrhá na skály, aby překonal sám sebe (a natočil záběry, které uvidíme pravděpodobně až v důchodu).“</em></p>
+          <p><em>„Otec zakladatel tohoto webu. Poznáte ho snadno – je to ten muž, co funí pod batohem plným baterek, dronů a kamer, který je těžší než on sám. Dron s sebou nosí hlavně na procházku, aby neporušil letové předpisy. Ač se bojí výšek, hrdinně se vrhá na skály, aby překonal sám sebe (a natočil záběry, které uvidíme pravděpodobně až v důchodu).“</em></p>
     </div>
 </div>
+<img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1779295851/12_Ja_qa4o5b.png" alt="Starosta_info" class="team-member-info-image">
 
 ---
 
@@ -243,6 +254,7 @@ S rostoucím počtem členů přibyly i další aktivity:
         <p><em>„Původně čistokrevný cyklista, kterého jsme zkazili – teď už visí na ocelovém laně častěji než na řídítkách. Jeho poznávacím znamením je bandáž na koleni, která tam pravděpodobně už přirostla. Je živoucím důkazem, že co nejde silou, jde ještě větší silou a vůlí. Rok od roku si nakládá těžší cesty a my jen čekáme, kdy to koleno vymění za bionické.“</em></p>
     </div>
 </div>
+<img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1779295852/16_Zden%C4%9Bk_bjcivw.png" alt="Zdeněk_info" class="team-member-info-image">
 
 ---
 

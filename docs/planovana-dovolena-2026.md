@@ -1,12 +1,10 @@
-
-
-# :calendar: Plánovaná dovolená 2026
+# 📆 Plánovaná dovolená 2026
 
 ![Plánovaná destinace](https://res.cloudinary.com/dfumk4ec0/image/upload/v1765492219/header_a99i39.jpg){ width="100%" }
 
 ---
 
-## :round_pushpin: Destinace
+## 📍 Destinace
 
 ### Švýcarské Alpy, Švýcarsko
 
@@ -20,13 +18,13 @@ Plánujeme výpravu do švýcarských Alp. Základnou bude horský resort Pradas
 
 ---
 
-## :house: Ubytování
+## 🏠 Ubytování
 
 ### Pradas Resort
 
-**Adresa:** Via Plaun Rueun 44, 7165 Breil/Brigels, Švýcarsko  
-**Kapacita:** 30 osob (5 apartmánů)  
-**Termín:** 20. 6. - 27. 6. 2026 (7 nocí)  
+**Adresa:** Via Plaun Rueun 44, 7165 Breil/Brigels, Švýcarsko
+**Kapacita:** 30 osob (5 apartmánů)
+**Termín:** 20. 6. - 27. 6. 2026 (7 nocí)
 
 #### Apartmány
 
@@ -34,14 +32,14 @@ Plánujeme výpravu do švýcarských Alp. Základnou bude horský resort Pradas
 
 Máme rezervaci na **5 apartmánů**. Každý apartmán nabízí:
 
-- :white_check_mark: 3 místnosti po 2 lůžkách (kapacita 6 osob na apartmán)
-- :white_check_mark: 1 místnost se soukromou koupelnou
-- :white_check_mark: 1 místnost s televizí
-- :white_check_mark: Plně vybavená kuchyně
-- :white_check_mark: Společná terasa s výhledem na Alpy
-- :white_check_mark: WiFi
-- :white_check_mark: Parkování zdarma
-- :white_check_mark: Wellness centrum s bazénem a saunou
+- ✅ 3 místnosti po 2 lůžkách (kapacita 6 osob na apartmán)
+- ✅ 1 místnost se soukromou koupelnou
+- ✅ 1 místnost s televizí
+- ✅ Plně vybavená kuchyně
+- ✅ Společná terasa s výhledem na Alpy
+- ✅ WiFi
+- ✅ Parkování zdarma
+- ✅ Wellness centrum s bazénem a saunou
 
 <div class="grid" markdown>
 
@@ -58,8 +56,8 @@ Máme rezervaci na **5 apartmánů**. Každý apartmán nabízí:
 </div>
 
 !!! info "Rezervace"
-    **Stav:** Potvrzeno  
-    **Kontakt resort:** +41 81 941 13 31  
+    **Stav:** Potvrzeno
+    **Kontakt resort:** +41 81 941 13 31
     **Web:** [www.pradas.ch](https://www.pradas.ch)
 
 #### Virtuální prohlídka resortu
@@ -80,57 +78,112 @@ Podívejte se na 360° fotografie Pradas Resort:
 
 !!! abstract "⚠️ Důležité upozornění (Čtěte pozorně!)"
     Následující seznam berte prosím **s lehkou rezervou**. Jedná se spíše o můj "romantický nástřel" než o závazný vojenský rozkaz. Finální logistiku, časový harmonogram a schvalování tras s důvěrou přenechávám našim expedičním expertům:
-       
-    * **Ficimu** –  aby to celé srovnal do tabulek a dávalo to smysl.
+
+    ***Ficimu** –  aby to celé srovnal do tabulek a dávalo to smysl.
     * **Hanzovi** – aby posoudil, zda jsou vybrané skály dostatečně kolmé a technicky výživné.
 
     📍 Pro lepší orientaci (a pro ty, co rádi jezdí prstem po mapě) jsem všechny body zanesl do Google Mapy.
+
+
+### 🥾 Tondovo nápady na Túry
+
+#### 1. Vorder Grauspitz: Dobytí střechy Lichtenštejnska
+
+- **Obtížnost:** Těžká (fyzicky velmi náročná, technicky mírná)
+- **Délka [hodin]:** 8–10 hodin (při startu z údolí) / 6–7 hodin (s využitím lanovky)
+- **Délka [km]:** cca 17 km (z údolí) / cca 10 km (od lanovky)
+- **Výchozí bod (parkoviště):** [Vesnice Jenins](https://mapy.com/s/musegakozu)
+
+- **Výchozí bod (lanovka):** [začátek lanovky](https://mapy.com/s/nolofavula)
+- **Odkaz na túru:** [Výstup na Vorder Grauspitz – nejvyšší vrchol Lichtenštejnska | SvětOutdooru](https://www.svetoutdooru.cz/hory/vystup-na-vorder-grauspitz-nejvyssi-vrchol-lichtenstejnska/)
+
+[mapa](https://mapy.com/s/dejefaceja)
+
+**Popis trasy a zajímavosti:**
+Vorder Grauspitz (2599 m n. m.) je nejvyšší hora miniaturního knížectví Lichtenštejnsko, tyčící se přímo na hraničním hřebeni se Švýcarskem. Výchozím bodem je vesnice Jenins, od ubytování vzdálená zhruba hodinu jízdy autem. Samotný výstup je poctivou prověrkou fyzičky a vytrvalosti, ale po technické stránce nečekejte žádné horolezecké extrémy – jedná se o dlouhý trek s pořádným převýšením.
+
+Pro ty, kteří by chtěli pošetřit kolena a síly na další dny, se nabízí výborná taktická zkratka v podobě lanovky Älplibahn z nedalekého Malans (Talstation). Ta nás vyveze na horní stanici Älpli a ušetří podstatnou část nezáživného stoupání lesem. Od horní stanice už pokračujeme do typického drsného alpského terénu přes travnaté hřebeny a suťoviska. Na samotný vrchol Grauspitz nevede oficiálně značená turistická značka, což hoře dodává parádní nádech divokosti a opuštěnosti. Odměnou za prolité litry potu budou fantastické kruhové výhledy hluboko do údolí Rýna a na okolní masivy švýcarských i rakouských Alp.
+
+---
+
+#### 2.  Jezero Lag da Pigniu: Vodopády a zasloužený relax
+
+- **Obtížnost:** Lehká (ideální odpočinkový okruh)
+- **Délka:** 1–2 hodiny
+- **Délka:** cca 5 km
+- **Trasa autem:** [https://mapy.com/s/fuduvojeje](https://www.google.com/search?q=https://mapy.com/s/fuduvojeje&authuser=1)
+- **Odkaz na túru:** [Lag da Pigniu: Eine genussvolle Rundwanderung](https://www.komoot.com/cs-cz/smarttour/e2246677921/lag-da-pigniu-eine-genussvolle-rundwanderung)
+
+*[mapa](https://mapy.com/s/gucotobare)*
+
+**Popis trasy a zajímavosti:**
+Tohle je ideální půldenní varianta a perfektní odpočinkový den po náročném výstupu. K výchozímu bodu se dostaneme autem jen za necelou půlhodinku. Trasa vede kolem malebného přehradního jezera Lag da Pigniu (německy Panixersee). Jedná se o nenáročný okruh prakticky po vrstevnici, který si bez problémů a v tempu užije úplně každý.
+
+Kromě magické barvy samotného jezera jsou hlavním tahákem cesty nádherné vodopády, které padají z okolních strmých skalních stěn přímo k vodní hladině a v horkých dnech příjemně osvěží. Přehrada má ale i zajímavý historický přesah – na její masivní betonové zdi si určitě všimněte obří monumentální malby. Ta připomíná ústup ruské armády pod vedením generála Suvorova přes průsmyk Panixerpass v roce 1799. Místo je obklopené zelenými pastvinami a ostrými štíty, což z něj dělá perfektní fotogenickou lokaci pro pohodové odpoledne. 
+
+---
+
+#### 3. Oberaarnhorn (3634 m n. m.): Pravá ledovcová výzva
+
+- **Obtížnost:** Extrémní / Ledovcová túra (vyžaduje vysokohorské vybavení)
+- **Délka:** 1–2 dny (podle návaznosti lanovek a tempa)
+- **Délka:** cca 18 km
+- **Výchozí bod (parkoviště):** [Stellplatz Alpenrösli](https://mapy.com/s/bahugufade)
+- **Odkaz na túru:** [https://mapy.com/s/nuloganuho](https://mapy.com/s/nuloganuho&authuser=1)
+*[(zde bude mapa)](https://mapy.com/s/nuloganuho)*
+
+**Popis trasy a zajímavosti:**
+Tohle je lahůdka pro všechny fandy vysokých hor a drsného prostředí. Výstup na impozantní Oberaarnhorn (3634 m n. m.) nás zavede hluboko do světa věčného ledu a sněhu v oblasti průsmyku Grimselpass. Letos nás sice čeká malá logistická výzva, protože silnice pro auta mezi 1. a 2. bodem trasy je uzavřená a mimo provoz je bohužel i chata na 2. bodě. Naštěstí nás zachrání fungující lanovka, kterou si pro tenhle úsek doplánujeme.
+
+Trasa nás povede přímo přes rozlehlý ledovec až k chatě Oberaarjochhütte, která neuvěřitelně balancuje přilepená na skalním výběžku ve výšce 3256 m n. m. Od ní následuje finální útok na samotný vrchol Oberaarnhorn. Výstup kombinuje chůzi po ledovci s finálním hřebenovým mixem sněhu a skály. Ačkoliv jde o technicky schůdnější třítisícovku, pohyb na ledovci vyžaduje plný respekt a nutností je mít s sebou odpovídající vybavení (mačky, cepín, lano). Nahoře se vám ale otevře strhující panorama – uvidíte obrovský ledovcový splaz Fieschergletscher a ty nejmajestátnější vrcholy Bernských Alp.
+
+---
 
 ### 🥾 Horské túry (bez ferrat)
 
 #### 1. Piz Aul (3121 m)
 
-**Datum:** 21. 6. 2026  
-**Obtížnost:** PD  
-**Délka:** 7-8 hodin tam i zpět  
-**Převýšení:** 1300 m  
-**Typ:** Vysokohorská túra s ledovcovými pasážemi
+- **Datum:** 21. 6. 2026
+- **Obtížnost:** PD
+- **Délka:** 7-8 hodin tam i zpět
+- **Převýšení:** 1300 m
+- **Typ:** Vysokohorská túra s ledovcovými pasážemi
 
 ---
 
 #### 2. Piz Mundaun (2064 m)
 
-**Datum:** 22. 6. 2026  
-**Obtížnost:** T3  
-**Délka:** 5 hodin  
-**Typ:** Panoramatická túra s krásnými výhledy
+- **Datum:** 22. 6. 2026
+- **Obtížnost:** T3
+- **Délka:** 5 hodin
+- **Typ:** Panoramatická túra s krásnými výhledy
 
 ---
 
 #### 3. Crap Masegn (2477 m)
 
-**Datum:** 23. 6. 2026  
-**Obtížnost:** T2  
-**Délka:** 4-5 hodin  
-**Typ:** Rodinná túra přístupná lanovkou z Flims
+- **Datum:** 23. 6. 2026
+- **Obtížnost:** T2
+- **Délka:** 4-5 hodin
+- **Typ:** Rodinná túra přístupná lanovkou z Flims
 
 ---
 
 #### 4. Piz Sezner (2309 m)
 
-**Datum:** 24. 6. 2026  
-**Obtížnost:** T3  
-**Délka:** 5-6 hodin  
-**Typ:** Krásná panoramatická túra nad Brigels
+- **Datum:** 24. 6. 2026
+- **Obtížnost:** T3
+- **Délka:** 5-6 hodin
+- **Typ:** Krásná panoramatická túra nad Brigels
 
 ---
 
 #### 5. Lag da Pigniu (2236 m)
 
-**Datum:** 25. 6. 2026  
-**Obtížnost:** T2  
-**Délka:** 4 hodiny  
-**Typ:** Túra k horskému jezeru s možností koupání
+- **Datum:** 25. 6. 2026
+- **Obtížnost:** T2
+- **Délka:** 4 hodiny
+- **Typ:** Túra k horskému jezeru s možností koupání
 
 ---
 
@@ -138,79 +191,78 @@ Podívejte se na 360° fotografie Pradas Resort:
 
 **Odkaz na ferraty v okolí** [Google maps seznam](https://maps.app.goo.gl/yqZNb9eozsXZrACA6)
 
-
 #### 1. Via ferrata Diavolo
-  
-**Obtížnost:** B/C  
-**Délka:** 2-3 hodiny  
-**Typ:** Lehčí ferrata, ale s nádherným okolím a výhledy. Lezení spíše po nakloněných plotnách, popřípadě po řadě kramlí.  
-**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Via_ferrata_Diavolo)
+
+- **Obtížnost:** B/C
+- **Délka:** 2-3 hodiny
+- **Typ:** Lehčí ferrata, ale s nádherným okolím a výhledy. Lezení spíše po nakloněných plotnách, popřípadě po řadě kramlí.
+- **Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Via_ferrata_Diavolo)
 
 ---
 
 #### 2. Klettersteig Schijen Zwärg Bergseehütte SAC (C) + Krokodil (C)
 
-**Obtížnost:** C  
-**Celkový čas / Délka ferraty / Celkové převýšení:** 3-4 hodiny + 5h / 120m + 7,6km  / 80m + 718m
-**Typ:** Pohodovka po mensim skalnatem hrebinku pripominajicim krokodyla na vysokohorske plosine obklopene 3 tisicovkama. Vetsinou B, par C useku. Spousta mist na kochani se panoramou. 2 vezicky, nasledovane mustkem na treti vez. Nejvic scary je asi pohled z prvni veze na trasu na druhou vez.
-**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Klettersteig_Schijen_Zw%C3%A4rg_Bergseeh%C3%BCtte_SAC)
-**Odkaz2:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Krokodil)
+- **Obtížnost:** C
+- **Celkový čas / Délka ferraty / Celkové převýšení:** 3-4 hodiny + 5h / 120m + 7,6km  / 80m + 718m
+- **Typ:** Pohodovka po mensim skalnatem hrebinku pripominajicim krokodyla na vysokohorske plosine obklopene 3 tisicovkama. Vetsinou B, par C useku. Spousta mist na kochani se panoramou. 2 vezicky, nasledovane mustkem na treti vez. Nejvic scary je asi pohled z prvni veze na trasu na druhou vez.
+- **Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Klettersteig_Schijen_Zw%C3%A4rg_Bergseeh%C3%BCtte_SAC)
+- **Odkaz2:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Krokodil)
 
 ---
 
 #### 3. Klettersteig Jubilaeus Dammahütte
 
-**Obtížnost:** C  
-**Celkový čas / Délka ferraty / Celkové převýšení:** 7h / 150m / 1600m
-**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Klettersteig_Jubilaeus_Dammah%C3%BCtte)
+- **Obtížnost:** C
+- **Celkový čas / Délka ferraty / Celkové převýšení:** 7h / 150m / 1600m
+- **Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Klettersteig_Jubilaeus_Dammah%C3%BCtte)
 
 ---
 
 #### 4. Klettersteig Adlerhorst Arnisee Piel Flue
 
-**Obtížnost:** C 
-**Celkový čas / Délka ferraty / Celkové převýšení:** 2h / 230m / 100m
-**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Adlerhorst_Arnisee_Klettersteig)
+- **Obtížnost:** C
+- **Celkový čas / Délka ferraty / Celkové převýšení:** 2h / 230m / 100m
+- **Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Adlerhorst_Arnisee_Klettersteig)
 
 ---
 
 #### 5. Hexensteig (Witches climb)
 
-**Obtížnost:** C/D 
-**Celkový čas / Délka ferraty / Celkové převýšení:** 4h / 300m / 675m
-**Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Hexensteig_D)
+- **Obtížnost:** C/D
+- **Celkový čas / Délka ferraty / Celkové převýšení:** 4h / 300m / 675m
+- **Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Hexensteig_D)
 
 ---
 
 #### Další v nejbližším okolí:
 
-**Název:** Via Ferrata Bälmetentor - Bälmeten - C 
+**Název:** Via Ferrata Bälmetentor - Bälmeten - C
 **Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Via_Ferrata_B%C3%A4lmetentor_-_B%C3%A4lmeten)
 
 **Název:** Stäibber Klettersteig - Kröntenhütte - D ?
 **Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/St%C3%A4ibber_Klettersteig_-_Kr%C3%B6ntenh%C3%BCtte)
 
-**Název:** Fürenwand Klettersteig - D 
+**Název:** Fürenwand Klettersteig - D
 **Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/F%C3%BCrenwand_Klettersteig)
 
 **Název:** Graustock Klettersteig - D
 **Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Graustock_Klettersteig)
 
-**Název:** Brunnistöckli Zittergrat - C/D + Brunnistöckli - B/C 
+**Název:** Brunnistöckli Zittergrat - C/D + Brunnistöckli - B/C
 **Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Brunnist%C3%B6ckli_Zittergrat)
 **Odkaz2:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Brunnist%C3%B6ckli_Zittergrat)
 
-**Název:** Rigidalstockwand - C/D + Rigidalstockgrat - C 
+**Název:** Rigidalstockwand - C/D + Rigidalstockgrat - C
 **Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Rigidalstockwand)
 **Odkaz2:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Rigidalstockgrat)
 
-**Název:** Braunwald - Klettersteig - C 750m 
+**Název:** Braunwald - Klettersteig - C 750m
 **Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Braunwald_-_Klettersteig)
 
 **Název:** Klettersteig Fruttstägä - C/D
 **Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Klettersteig_Fruttst%C3%A4g%C3%A4)
 
-**Název:** Klettersteig Husky-Lodge Muotathal - B/C 1000m 
+**Název:** Klettersteig Husky-Lodge Muotathal - B/C 1000m
 **Odkaz:** [Více na Alpský Vůdce](https://alpskyvudce.cz/ferrata/Klettersteig_Husky-Lodge_Muotathal)
 
 **Název:** Graustock Klettersteig - D
@@ -242,9 +294,9 @@ Podívejte se na 360° fotografie Pradas Resort:
 
 ### 🚗 Skupina A - Doprava autem
 
-**Místo odjezdu:** Wolkerova 150/12, 350 02 Cheb, Česko  
-**Cíl:** Pradas Resort, Via Plaun Rueun 44, 7165 Breil/Brigels, Švýcarsko  
-**Vzdálenost:** cca 700 km  
+**Místo odjezdu:** Wolkerova 150/12, 350 02 Cheb, Česko
+**Cíl:** Pradas Resort, Via Plaun Rueun 44, 7165 Breil/Brigels, Švýcarsko
+**Vzdálenost:** cca 700 km
 **Čas jízdy:** 7-8 hodin (včetně přestávek)
 
 **Trasa:** Cheb → Norimberk → Ulm → Zürich → Chur → Breil/Brigels
@@ -260,8 +312,8 @@ Podívejte se na 360° fotografie Pradas Resort:
 
 ### 🚂 Skupina B - Doprava vlakem
 
-**Místo odjezdu:** Cheb, nádraží  
-**Cíl:** Chur, Švýcarsko (nejbližší velké nádraží k resortu)  
+**Místo odjezdu:** Cheb, nádraží
+**Cíl:** Chur, Švýcarsko (nejbližší velké nádraží k resortu)
 **Čas jízdy:** cca 8-9 hodin (s přestupy)
 
 **Trasa:** Cheb → (Norimberk) → Mnichov → Zürich → Chur
@@ -284,7 +336,7 @@ Podívejte se na 360° fotografie Pradas Resort:
     **Skupina A (auta):**
     - Odjezd: 20. 6. 2026 v 6:00 z Chebu
     - Příjezd do resortu: cca 14:00
-    
+
     **Skupina B (vlak):**
     - Odjezd: 20. 6. 2026 ráno z Chebu
     - Příjezd do Chur: cca 15:00
@@ -293,20 +345,20 @@ Podívejte se na 360° fotografie Pradas Resort:
 
 ---
 
-## :money_with_wings: Rozpočet
+## 💸 Rozpočet
 
 !!! info "Kurz"
     1 CHF = cca 25 Kč (orientační kurz pro výpočet)
 
-| Položka | Cena celkem | Na osobu (30 osob) |
-|---------|-------------|--------------------|
-| **Ubytování (5 apartmánů, 7 nocí)** | 7000 CHF / 175 000 Kč | 233 CHF / 5833 Kč |
-| **Doprava auta (benzín + vignety)** | 1200 CHF / 30 000 Kč | 40 CHF / 1000 Kč |
-| **Doprava vlak (pro část skupiny)** | 800 CHF / 20 000 Kč | 27 CHF / 667 Kč |
-| **Jídlo a nákupy (7 dní)** | 6000 CHF / 150 000 Kč | 200 CHF / 5000 Kč |
-| **Lanovky a vstupné** | 1500 CHF / 37 500 Kč | 50 CHF / 1250 Kč |
-| **Rezerva a nepředvídané výdaje** | 1500 CHF / 37 500 Kč | 50 CHF / 1250 Kč |
-| **CELKEM** | **18 000 CHF / 450 000 Kč** | **600 CHF / 15 000 Kč** |
+| Položka                                       | Cena celkem                        | Na osobu (30 osob)             |
+| ---------------------------------------------- | ---------------------------------- | ------------------------------ |
+| **Ubytování (5 apartmánů, 7 nocí)** | 7000 CHF / 175 000 Kč             | 233 CHF / 5833 Kč             |
+| **Doprava auta (benzín + vignety)**     | 1200 CHF / 30 000 Kč              | 40 CHF / 1000 Kč              |
+| **Doprava vlak (pro část skupiny)**    | 800 CHF / 20 000 Kč               | 27 CHF / 667 Kč               |
+| **Jídlo a nákupy (7 dní)**            | 6000 CHF / 150 000 Kč             | 200 CHF / 5000 Kč             |
+| **Lanovky a vstupné**                   | 1500 CHF / 37 500 Kč              | 50 CHF / 1250 Kč              |
+| **Rezerva a nepředvídané výdaje**    | 1500 CHF / 37 500 Kč              | 50 CHF / 1250 Kč              |
+| **CELKEM**                               | **18 000 CHF / 450 000 Kč** | **600 CHF / 15 000 Kč** |
 
 !!! warning "Poznámka k rozpočtu"
     - Ceny jsou orientační a mohou se lišit podle aktuálního kurzu CHF/CZK
@@ -316,7 +368,7 @@ Podívejte se na 360° fotografie Pradas Resort:
 
 ---
 
-## :clipboard: Checklist vybavení
+## 📋 Checklist vybavení
 
 ### ⛰️ Horolezecké vybavení
 
@@ -375,6 +427,7 @@ Podívejte se na 360° fotografie Pradas Resort:
 #### 🍺 Alkohol
 
 **Limity:**
+
 - Do 18 % obj. (pivo, víno): **5 litrů na osobu**
 - Nad 18 % obj. (tvrdý alkohol): **1 litr na osobu**
 
@@ -384,17 +437,19 @@ Podívejte se na 360° fotografie Pradas Resort:
 
 **Limit:** **300 CHF (~7800 Kč) na osobu**
 
-Zahrnuje: potraviny, dárky, nové věci  
+Zahrnuje: potraviny, dárky, nové věci
 Při překročení: platí se švýcarské DPH (MWST) 8,1 %
 
 #### 🚗 Pro řidiče
 
 **ZAKÁZÁNO:**
+
 - ❌ **Radarové detektory** (i vypnuté v kufru!) → vysoká pokuta + zabavení
 - ❌ **Varování před radary** v aplikacích (Waze, Google Maps) → VYPNOUT!
 - ⚠️ **Dashcam** - právně složitá (ochrana soukromí), lepší sundat
 
 **POVINNÉ:**
+
 - ✅ **Dálniční známka** (vigneta) - 40 CHF na celý rok
   - Fyzická (lepí se) nebo e-vignette (váže se na SPZ)
 
@@ -415,16 +470,16 @@ Při překročení: platí se švýcarské DPH (MWST) 8,1 %
 
 ## :material-phone: Důležité kontakty
 
-| Účel | Kontakt |
-|------|------|
+| Účel                                | Kontakt           |
+| ------------------------------------- | ----------------- |
 | **Horská záchranná služba** | 1414 (Rega) / 112 |
-| **Pradas Resort** | +41 81 941 13 31 |
-| **Info centrum Brigels** | +41 81 941 13 77 |
-| **Pojišťovna UNIQA** | +420 800 120 120 |
+| **Pradas Resort**               | +41 81 941 13 31  |
+| **Info centrum Brigels**        | +41 81 941 13 77  |
+| **Pojišťovna UNIQA**          | +420 800 120 120  |
 
 ---
 
-## :link: Užitečné odkazy
+## 🔗 Užitečné odkazy
 
 - [Pradas Resort - oficiální web](https://www.pradas.ch/)
 - [Švýcarská horská služba Rega](https://www.rega.ch/)
@@ -435,10 +490,10 @@ Při překročení: platí se švýcarské DPH (MWST) 8,1 %
 ---
 
 !!! success "Stav příprav"
-    **Hotovo:** ✅ Ubytování rezervováno (5 apartmánů)  
-    **Hotovo:** ❌ Doprava domluvena  
-    **Do 31.3.2026:** Švýcarská vigneta  
-    **Květen 2026:** Kontrola výbavy  
+    **Hotovo:** ✅ Ubytování rezervováno (5 apartmánů)
+    **Hotovo:** ❌ Doprava domluvena
+    **Do 31.3.2026:** Švýcarská vigneta
+    **Květen 2026:** Kontrola výbavy
     **Červen 2026:** Finální organizační meeting
 
 <p align="center">

@@ -24,7 +24,7 @@
     2.  **🌄 2022 - 2025** - Doplnění výstupů + dnů jak šli po sobě. Také jména popř. počet účastníků.  
     3.  **🛰 2022 - 2025** - Jestli máte záznamy tras například z chytrých hodinek nebo rovnou GPX export souřadnic.  
     4.  **🚗 2026** - Nějaké další důležité info? Ať to máme tady po hromadě.  
-    2.  **👨‍👩‍👧‍👦 O nás** - Je to zatím jen co si myslím a co jsem tak pochytil, rozhodně by to bylo lepší, kdyby to bylo přímo od Vás - pro autentičnost.  
+    5.  **👨‍👩‍👧‍👦 O nás** - Je to zatím jen co si myslím a co jsem tak pochytil, rozhodně by to bylo lepší, kdyby to bylo přímo od Vás - pro autentičnost.  
 
 !!! quote "Ostatní Info"
     1.  **📸 Pro Roky 2021 - 2025** - "Kompletní fotogalerie" odkazy na galerie google drive jsou zatím neplatné. Stejně tak "Statistiky výpravy".  
