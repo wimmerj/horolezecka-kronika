@@ -255,6 +255,110 @@ img[alt*="header"] {
   opacity: 0.9;
 }
 
+/* Obsazeni apartmanu - desktop tabulka, mobilni karticky */
+.apartment-occupancy {
+    margin: 12px 0 22px;
+}
+
+.apartment-occupancy table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0 10px;
+    table-layout: fixed;
+}
+
+.apartment-occupancy th,
+.apartment-occupancy td {
+    vertical-align: top;
+}
+
+.apartment-occupancy thead th {
+    background: linear-gradient(135deg, #2f4f66, #436b88);
+    color: #ffffff;
+    border: 0;
+    padding: 12px 14px;
+    font-size: 0.95rem;
+    letter-spacing: 0.2px;
+}
+
+.apartment-occupancy thead th:first-child {
+    border-radius: 10px 0 0 10px;
+}
+
+.apartment-occupancy thead th:last-child {
+    border-radius: 0 10px 10px 0;
+}
+
+.apartment-occupancy tbody td {
+    background: #ffffff;
+    border-top: 1px solid #e2e8f0;
+    border-bottom: 1px solid #e2e8f0;
+    padding: 12px 14px;
+    line-height: 1.55;
+}
+
+.apartment-occupancy tbody td:first-child {
+    border-left: 1px solid #e2e8f0;
+    border-radius: 10px 0 0 10px;
+    font-weight: 700;
+    color: #2f4f66;
+    width: 170px;
+    white-space: nowrap;
+}
+
+.apartment-occupancy tbody td:last-child {
+    border-right: 1px solid #e2e8f0;
+    border-radius: 0 10px 10px 0;
+}
+
+.apartment-occupancy tbody tr:hover td {
+    background: #f8fbff;
+    border-color: #cfd9e6;
+}
+
+@media screen and (max-width: 768px) {
+    .apartment-occupancy table,
+    .apartment-occupancy thead,
+    .apartment-occupancy tbody,
+    .apartment-occupancy th,
+    .apartment-occupancy td,
+    .apartment-occupancy tr {
+        display: block;
+    }
+
+    .apartment-occupancy thead {
+        display: none;
+    }
+
+    .apartment-occupancy tr {
+        background: #ffffff;
+        border: 1px solid #dfe3e8;
+        border-radius: 10px;
+        margin: 0 0 12px;
+        padding: 8px 10px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    }
+
+    .apartment-occupancy td {
+        border: 0;
+        padding: 6px 4px;
+        display: flex;
+        gap: 12px;
+        justify-content: space-between;
+        align-items: flex-start;
+    }
+
+    .apartment-occupancy td::before {
+        font-weight: 700;
+        color: #4a5568;
+        flex: 0 0 85px;
+        max-width: 85px;
+    }
+
+    .apartment-occupancy td:nth-child(1)::before { content: "Apartmán"; }
+    .apartment-occupancy td:nth-child(2)::before { content: "Obsazení"; }
+}
+
 /* Kontejner, který drží panel vždy dole */
 .audio-floating-panel {
     position: fixed; /* Klíčové pro fixaci na obrazovce */
