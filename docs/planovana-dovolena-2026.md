@@ -185,101 +185,15 @@ Samostatný přesun.
 
 ## 📋 Checklist vybavení
 
-### ⛰️ Horolezecké vybavení
-
-- [ ] **Ferratový set** (tlumič pádů + 2 karabiny)
-- [ ] **Horolezecká helma**
-- [ ] **Sedací úvaz** (lezecký úvaz)
-- [ ] **Rukavice** (ferratové nebo pracovní)
-- [ ] **Trekingové pevné boty** (kotníkové, s dobrou podrážkou)
-- [ ] **Cepín** (pro ledovcové výstupy - Piz Aul)
-
-### 🎒 Oblečení a základní výbava
-
-- [ ] **Batoh 30-50L** (s pláštěnkou nebo pláštěm)
-- [ ] **Nepromokavá bunda** (membránová, Gore-Tex apod.)
-- [ ] **Teplé oblečení** (termo prádlo, fleece, pufka)
-- [ ] **Funkční prádlo** (odvod potu)
-- [ ] **Trekingové kalhoty** (ideálně odepínací)
-- [ ] **Čepice a buff**
-- [ ] **Rezervní oblečení**
-- [ ] **Plavky** (wellness v resortu)
-
-### 🔦 Doplňky a technika
-
-- [ ] **Čelovka** (včetně náhradních baterií)
-- [ ] **Sluneční brýle** (kategorie 3-4)
-- [ ] **Opalovací krém** (SPF 50+)
-- [ ] **Trekingové hole** (teleskopické)
-- [ ] **Hydrovak nebo láhev** (min. 1,5-2L)
-- [ ] **Powerbanka** (min. 10 000 mAh)
-- [ ] **Mobil s GPS aplikací** (Mapy.cz, Alpský Vůdce)
-- [ ] **Osobní lékárnička** (náplasti, léky, tape)
-
-### 📋 Dokumenty a finance
-
-- [ ] **Občanský průkaz** (platnost min. 6 měsíců)
-- [ ] **Evropský průkaz pojištěnce** (EHIC)
-- [ ] **Pojistka úrazová/cestovní**
-- [ ] **Platební karty** (Mastercard/Visa)
-- [ ] **Hotovost v CHF** (doporučeno min. 100-200 CHF)
+<img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1779749566/vybaveni_vsd37h.png" alt="Vybaveni">
 
 ---
 
 ### 🚫 Co raději NEBRAT - celní limity Švýcarsko
 
-!!! danger "Důležité upozornění"
-    **Švýcarsko NENÍ v celní unii EU!** I když je ve Schengenu (žádné pasové kontroly), celníci na hranicích provádějí namátkové kontroly dodržování limitů. Při překročení hrozí vysoké pokuty!
+<img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1779750064/vybaveni_nebrat_shvitz.png" alt="Nebrat">  
 
-#### 🥩 Maso a masné výrobky
-
-**Limit:** **1 kg na osobu**
-
-- ❌ Čerstvé/mražené maso, uzeniny, šunky, slanina, sušené maso
-- ❌ Hotové pokrmy s masem (guláš v zavařovačce, masové konzervy)
-- ⚠️ **Překročení:** 17 CHF (~450 Kč) za každý další kg + pokuta při neohlášení
-
-#### 🍺 Alkohol
-
-**Limity:**
-
-- Do 18 % obj. (pivo, víno): **5 litrů na osobu**
-- Nad 18 % obj. (tvrdý alkohol): **1 litr na osobu**
-
-⚠️ **Nelze sčítat limity** více osob pro jednu lahev!
-
-#### 💰 Celková hodnota zboží
-
-**Limit:** **300 CHF (~7800 Kč) na osobu**
-
-Zahrnuje: potraviny, dárky, nové věci
-Při překročení: platí se švýcarské DPH (MWST) 8,1 %
-
-#### 🚗 Pro řidiče
-
-**ZAKÁZÁNO:**
-
-- ❌ **Radarové detektory** (i vypnuté v kufru!) → vysoká pokuta + zabavení
-- ❌ **Varování před radary** v aplikacích (Waze, Google Maps) → VYPNOUT!
-- ⚠️ **Dashcam** - právně složitá (ochrana soukromí), lepší sundat
-
-**POVINNÉ:**
-
-- ✅ **Dálniční známka** (vigneta) - 40 CHF na celý rok
-  - Fyzická (lepí se) nebo e-vignette (váže se na SPZ)
-
-#### 📦 Další limity
-
-- **Tabák:** 250 cigaret nebo 250 g tabáku (17+ let)
-- **Léky:** Množství pro osobní potřebu (~1 měsíc)
-- **Nože:** Pozor na vyhazovací nože a čepele nad určitý limit
-- **Drony:** Podobná pravidla jako EU, ale nelze v rezervacích
-
-!!! tip "Doporučení"
-    - Velký nákup potravin dělejte v ČR nebo Německu
-    - Vezměte hlavně trvanlivé potraviny, těstoviny, cereálie
-    - Čerstvé maso a uzeniny nakupte až ve Švýcarsku (dražší, ale bez rizika)
-    - Vypněte varování radarů v navigaci PŘED vjezdem do Švýcarska
+<img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1779750382/vybaveni_nebrat_2_fsua9r.png" alt="Nebrat">  
 
 ---
 
