@@ -123,6 +123,16 @@ img[alt*="header"] {
     margin-top: 0;
 }
 
+/* Doplňkové "info" obrázky členů týmu (mimo hlavní avatar) */
+.team-member-info-image {
+    display: block;
+    width: 100%;
+    max-width: 560px;
+    height: auto;
+    border-radius: 8px;
+    margin: 10px auto 0;
+}
+
 /* Na mobilech - fotka nad popiskem */
 @media screen and (max-width: 768px) {
     .team-member {
@@ -139,6 +149,10 @@ img[alt*="header"] {
     
     .team-member-content {
         width: 100%;
+    }
+
+    .team-member-info-image {
+        max-width: 100%;
     }
 }
 
