@@ -106,31 +106,40 @@ Podívejte se na 360° fotografie Pradas Resort:
 #### 🚙 Rozdělení do aut
 
 **Řidič Zdeněk |**
-Posádka: Petra, Terka, Filip.
+Posádka: Petra, Terka, Filip.  
+<img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1779748104/Auto_1_nqmpte.png" alt="Zdenek">
 
 **Řidič Šimon |**
-Posádka: Beata, Áďa, Matěj.
+Posádka: Beata, Áďa, Matěj.  
+<img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1779748105/Auto_6_yhoe8t.png" alt="Simon">
 
 **Řidič Fici |**
-Posádka: Laduš, Ali, Fanda E.
+Posádka: Laduš, Ali, Fanda E.  
+<img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1779748105/Auto_7_ajyos8.png" alt="Fici">
 
 **Řidič Vláďa |**
-Posádka: Petra, Dali.
+Posádka: Petra, Dali.  
+<img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1779748105/Auto_2_rbxeoz.png" alt="Vlada">
 
 **Řidič Maruška st. |**
-Posádka: Alča, Petra, Hanka.
+Posádka: Alča, Petra, Hanka.  
+<img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1779748107/Auto_8_on9n4t.png" alt="Maruska">
 
 **Řidič Maruška ml. |**
-Posádka: Malá Maruška, Pája.
+Posádka: Malá Maruška, Pája.  
+<img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1779748108/Auto_3_gmurdo.png" alt="Maruska2">
 
 **Řidič Jirka |**
-Posádka: Terka, Ondra, Tonda.
+Posádka: Terka, Ondra, Tonda.  
+<img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1779748105/Auto_4_hsjr1q.png" alt="Jirka">
 
 **Řidič Petr |**
-Posádka: Petra, Štěpán, Honza W.
+Posádka: Petra, Štěpán, Honza W.  
+<img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1779748108/Auto_5_at9v4y.png" alt="Petr">
 
 **Motorka Honza N.**
-Samostatný přesun.
+Samostatný přesun.  
+<img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1779748810/Moto_9_mun6qs.png" alt="Hans">
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2703242.5!2d10.5!3d48.5!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x479af3add634e22f%3A0x407285fe8ca32e0!2sWolkerova%20150%2F12%2C%20350%2002%20Cheb!3m2!1d50.0797!2d12.3713!4m5!1s0x47851f67cb1ca195%3A0x1b2f6a638ee4bec9!2sPradas%20Resort%2C%20Via%20Plaun%20Rueun%2044%2C%207165%20Breil%2FBrigels%2C%20Switzerland!3m2!1d46.7703!2d9.0675!5e0!3m2!1scs!2scz!4v1234567890" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -489,11 +498,11 @@ Trasa nás povede přímo přes rozlehlý ledovec až k chatě Oberaarjochhütte
 ---
 
 !!! success "Stav příprav"
-    **Hotovo:** ✅ Ubytování rezervováno (5 apartmánů)
-    **Hotovo:** ❌ Doprava domluvena
-    **Do 31.3.2026:** Švýcarská vigneta
-    **Květen 2026:** Kontrola výbavy
-    **Červen 2026:** Finální organizační meeting
+    **Hotovo:** ✅ Ubytování rezervováno (5 apartmánů)  
+    **Hotovo:** ✅ Doprava domluvena  
+    **Do 31.3.2026:** Švýcarská vigneta  
+    **Květen 2026:** Kontrola výbavy  
+    **Červen 2026:** Finální organizační meeting  
 
 <p align="center">
 :mountain_snow: <strong>Těšíme se na další dobrodružství!</strong> :mountain_snow:
