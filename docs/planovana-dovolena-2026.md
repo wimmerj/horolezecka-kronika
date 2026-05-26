@@ -44,19 +44,19 @@ Máme rezervaci na **5 apartmánů**. Každý apartmán nabízí:
 
 #### Obsazení apartmánů (aktualizace 25.5.2026)
 
-**Apartmán 1**
+**Apartmán 1**  
 Terka C., Ondra, Pája, Honza W., Tonda, Jirka.
 
-**Apartmán 2**
-anka, Petra Č., Maruška, Maruška, Alča (sestra), Malá Maruška.
+**Apartmán 2**  
+Hanka, Petra Č., Maruška, Maruška, Alča (sestra), Malá Maruška.
 
-**Apartmán 3**
+**Apartmán 3**  
 Honza N., Ali, Fici, Laduš, Petra Ž., Zdeněk Ž.
 
-**Apartmán 4**
+**Apartmán 4**  
 Áďa, Ádi přítel, Beata, Šimon (Beaty přítel), Terka Ž., Filip.
 
-**Apartmán 5**
+**Apartmán 5**  
 Petra, Vláďa, Dali, Petr, Petra, Štěpán (kámoš Petra), František E.
 
 <div class="grid" markdown>
@@ -210,7 +210,8 @@ Samostatný přesun.
 
 ### 🥾 Tondovo nápady na Túry
 
-#### 1. Vorder Grauspitz: Dobytí střechy Lichtenštejnska
+#### 1. Vorder Grauspitz: Dobytí střechy Lichtenštejnska  
+<img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1779831699/TH1_xqvnho.jpg" alt="TH1"> 
 
 - **Obtížnost:** Těžká (fyzicky velmi náročná, technicky mírná)
 - **Délka:** 8–10 hodin (při startu z údolí) / 6–7 hodin (s využitím lanovky)
@@ -229,7 +230,8 @@ Pro ty, kteří by chtěli pošetřit kolena a síly na další dny, se nabízí
 
 ---
 
-#### 2.  Jezero Lag da Pigniu: Vodopády a zasloužený relax
+#### 2.  Jezero Lag da Pigniu: Vodopády a zasloužený relax  
+<img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1779831699/TH3_oytizd.webp" alt="TH3">  
 
 - **Obtížnost:** Lehká (ideální odpočinkový okruh)
 - **Délka:** 1–2 hodiny
@@ -246,7 +248,8 @@ Kromě magické barvy samotného jezera jsou hlavním tahákem cesty nádherné 
 
 ---
 
-#### 3. Oberaarnhorn (3634 m n. m.): Pravá ledovcová výzva
+#### 3. Oberaarnhorn (3634 m n. m.): Pravá ledovcová výzva  
+<img src="https://res.cloudinary.com/dfumk4ec0/image/upload/v1779831700/TH2_o4ru6s.jpg" alt="TH2">  
 
 - **Obtížnost:** Extrémní / Ledovcová túra (vyžaduje vysokohorské vybavení)
 - **Délka:** 1–2 dny (podle návaznosti lanovek a tempa)
@@ -414,10 +417,8 @@ Trasa nás povede přímo přes rozlehlý ledovec až k chatě Oberaarjochhütte
 !!! success "Stav příprav"
     **Hotovo:** ✅ Ubytování rezervováno (5 apartmánů)  
     **Hotovo:** ✅ Doprava domluvena  
-    **Do 31.3.2026:** Švýcarská vigneta  
-    **Květen 2026:** Kontrola výbavy  
     **Červen 2026:** Finální organizační meeting  
 
 <p align="center">
-:mountain_snow: <strong>Těšíme se na další dobrodružství!</strong> :mountain_snow:
+🏔️ <strong>Těšíme se na další dobrodružství!</strong> 🏔️
 </p>
